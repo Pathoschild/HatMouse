@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hat mouse prizes | Stardew Valley Discord</title>
+    <link rel="stylesheet" href="static/main.css?r=3" />
+    <link rel="stylesheet" href="static/prizes.css?r=3" />
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/tablesorter@2.31.3" crossorigin="anonymous"></script>
+    <script src="static/prizes.js?r=3"></script>
+    <script>
+        $(prizeList);
+    </script>
+</head>
+<body>
+    <div id="sidebar">
+        <h4>See also</h4>
+        <ul>
+            <li><a href="https://stardewvalleywiki.com/Modding:Community#Discord">Discord server</a></li>
+        </ul>
+    </div>
+
+    <div id="content-column">
+        <div id="content">
+            <h1>Hat mouse prizes</h1>
+
+            <div id="intro">
+                <p>This page shows the prizes you can win in the Stardew Valley Discord hat mouse event.</p>
+
+                <p>You can choose up to $100 in prizes (max one from group A, two from group B, and any number from group C). Each game key can only be redeemed by one winner, so top winners get dibs. If you want to see all games, tick the "show games with mature content" checkbox.</p>
+
+                <p><strong>The <em>title</em> column is the name of the game key. All other info (including the link to the Steam page) was filled in based on the name, so there may be discrepencies.</strong></p>
+            </div>
+
+            <div id="app">
+                <div id="options">
+                    <div>
+                        <label for="search-box">Search: </label>
+                        <input type="text" id="search-box" v-model="search" v-on:input="applyFilters" />
+                    </div>
+                    <div id="filter-area">
+                        <div>
+                            <input type="checkbox" id="show-logos" v-model="showLogos" />
+                            <label for="show-logos">show game logos</label>
+                        </div>
+
+                        <div>
+                            <input type="checkbox" id="show-mature" v-model="showMature" />
+                            <label for="show-mature">show games with mature content</label>
+                        </div>
+
+                        <div id="filters" v-cloak>
+                            <div v-for="(filterGroup, key) in filters">
+                                {{filterGroup.label}}: <span v-for="filter in filterGroup.value" v-bind:class="{ active: filter.value }"><input type="checkbox" v-bind:id="filter.id" v-model="filter.value" v-on:change="applyFilters" /> <label v-bind:for="filter.id">{{filter.label}}</label></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div v-for="prizeGroup of Object.keys(config.prizeGroups)" v-cloak>
+                    <h2>{{prizeGroup}}</h3>
+
+                    <small>{{games.filter(p => p.prizeGroup == prizeGroup).length}} prizes in this group.</small>
+                    <table class="wikitable game-list">
+                        <thead>
+                            <tr>
+                                <th v-if="showLogos">image</th>
+                                <th>title</th>
+                                <th>type</th>
+                                <th>description</th>
+                                <th>price ({{config.defaultCurrency}})</th>
+                                <th>MetaCritic</th>
+                                <th>platforms</th>
+                                <th>categories</th>
+                                <th>genres</th>
+                                <th>release date</th>
+                                <th v-if="showMature">content warnings</th>
+                                <th>&nbsp;</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr v-bind:class="{ claimed: game.claimed }" v-for="game in games" v-if="game.prizeGroup == prizeGroup" :key="game.slug" v-bind:id="game.slug" v-show="game.visible" v-bind:data-type="game.type">
+                                <td class="image" v-if="showLogos">
+                                    <img v-bind:src="game.image" v-if="game.image" loading="lazy" />
+                                </td>
+
+                                <td>
+                                    <a v-bind:href="game.url" v-if="game.url">{{game.title}}</a>
+                                    <span v-else>{{game.title}}</span>
+
+                                    <span v-if="game.claimed" class="claimed-label">(claimed!)</span>
+                                </td>
+                                <td class="type">{{game.type}}</td>
+
+                                <td class="description truncated" v-bind:title="game.description" v-if="game.truncatedDescription">{{game.truncatedDescription}}</td>
+                                <td class="description" v-else>{{game.description}}</td>
+
+                                <td>
+                                    {{game.price}}
+                                    <span v-if="game.priceCurrency != config.defaultCurrency">{{game.priceCurrency}}</span>
+                                </td>
+                                <td>
+                                    <a v-bind:href="game.metaCriticUrl" v-if="game.metaCriticUrl">{{game.metaCriticScore}}%</a>
+                                </td>
+                                <td>{{game.platforms.join(', ')}}</td>
+                                <td class="categories">{{game.categories.join(', ')}}</td>
+                                <td class="genres">{{game.genres.join(', ')}}</td>
+                                <td>{{game.releaseDate}}</td>
+                                <td v-if="showMature">{{game.contentWarnings}}</td>
+                                <td>
+                                    <small>
+                                        <a v-bind:href="'#' + game.slug">#</a>
+                                    </small>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <div id="license">
+                Hi! Here's the <a href="https://github.com/pathoschild/HatMouse" title="view source">source code for this site</a> if you're curious.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

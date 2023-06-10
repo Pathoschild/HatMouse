@@ -1,0 +1,12 @@
+{
+	"defaultCurrency": "CAD",
+	"prizeGroups": {
+		"Prize group A ($40 and up)": 39.90,
+		"Prize group B ($20 and up)": 19.90,
+		"Prize group C (remaining games)": 0
+	},
+	"claimed": {
+		"appIds": [],
+		"bundleIds": []
+	}
+}
