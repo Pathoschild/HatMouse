@@ -10,7 +10,8 @@ other info.
 To build the prize list:
 
 1. Install the latest version of [LINQPad](https://www.linqpad.net/).
-2. Replace `scripts/game keys.csv` with the list of game keys.
+2. If you're not based in the US, connect to a US-based VPN if you want prices consistently in USD.
+3. Replace `scripts/game keys.csv` with the list of game keys.
 
    This should have three columns:
    * `Source` is the staff member who donated the game key. This is ignored by the code, it's just
@@ -22,17 +23,15 @@ To build the prize list:
      If blank, the script will try to match the game automatically through the Steam API. That only
      works for games though, not DLC or bundles.
 
-3. Open `scripts/build prize list.linq` in LINQPad.
-4. Click the ▶ button to fetch info from the Steam API.
+4. Open `scripts/build prize list.linq` in LINQPad.
+5. Click the ▶ button to fetch info from the Steam API.
 
 The fetched data will be saved to two files:
 * `scripts/results.csv` is a CSV file that can be imported into Excel or Google Sheets;
 * `config/games.json` is the data that'll be used by the web UI.
 
-Caveats:
-* Prices are mostly shown in your local currency, but for some reason Steam may return a different
-  currency for some games. You can manually edit the `config/games.json` file if needed to fix them.
-* The fetched info is cached. To fetch the latest info instead, delete the `scripts/cache` folder.
+This will cache the fetched info. To fetch the latest info instead, delete the `scripts/cache`
+folder.
 
 ## Configure web UI
 You can edit `config/config.json` to change a few settings:

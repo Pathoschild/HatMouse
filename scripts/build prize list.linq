@@ -308,7 +308,7 @@ public class SteamApiClient : FluentClient
 		if (appId == 0)
 			return null;
 
-		IResponse response = await this.RateLimit(async () => await this.GetAsync("https://store.steampowered.com/api/appdetails").WithArguments(new { appids = appId }));
+		IResponse response = await this.RateLimit(async () => await this.GetAsync("https://store.steampowered.com/api/appdetails").WithArguments(new { appids = appId, cc = "usd", l = "en" }));
 		JObject json = await response.AsRawJsonObject();
 		if (!json.TryGetValue(appId.ToString(), out JToken wrappedData) || !wrappedData.Value<bool>("success"))
 			return null;
