@@ -3,8 +3,8 @@ let app;
 const prizeList = async function() {
     // init data
     const data = {
-        config: await $.getJSON("config/config.json?r=3"),
-        games: await $.getJSON("config/games.json?r=3"),
+        config: await $.getJSON("config/config.json?r=4"),
+        games: await $.getJSON("config/games.json?r=4"),
         showLogos: false,
         showMature: false,
         filters: {

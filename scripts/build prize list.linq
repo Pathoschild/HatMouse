@@ -173,10 +173,37 @@ void WriteCsvExportFile(GameRecord[] games)
 /// <param name="game">The game data to save.</param>
 void WritePublicJsonExportFile(GameRecord[] games)
 {
-	PublicGameRecord[] exportGames = games
+	// get export models
+	List<PublicGameRecord> exportGames = games
 		.Select(game => new PublicGameRecord(game))
-		.ToArray();
+		.ToList();
 
+	// group duplicates
+	{
+		Dictionary<int, PublicGameRecord> byAppId = new();
+		Dictionary<int, PublicGameRecord> byBundleId = new();
+
+		for (int i = 0; i < exportGames.Count; i++)
+		{
+			var game = exportGames[i];
+			if (!(game.AppId > 0 || game.BundleId > 0))
+				continue;
+			
+			var lookup = game.AppId > 0 ? byAppId : byBundleId;
+			int id = game.AppId > 0 ? game.AppId.Value : game.BundleId.Value;
+
+			if (lookup.TryGetValue(id, out PublicGameRecord mainRecord))
+			{
+				mainRecord.Keys.AddRange(game.Keys);
+				exportGames.RemoveAt(i);
+				i--;
+			}
+			else
+				lookup[id] = game;
+		}
+	}
+
+	// save to file
 	JsonSerializerSettings settings = new()
 	{
 		Formatting = Newtonsoft.Json.Formatting.Indented,
