@@ -481,7 +481,7 @@ public class GameRecord
 
 public class PublicGameRecord
 {
-	public string Title { get; }
+	public List<string> Keys { get; }
 	public int? AppId { get; }
 	public int? BundleId { get; }
 	public string Image { get; }
@@ -501,7 +501,7 @@ public class PublicGameRecord
 
 	public PublicGameRecord(GameRecord game)
 	{
-		this.Title = game.SearchTitle;
+		this.Keys = new List<string> { game.SearchTitle };
 		this.AppId = game.AppId > 0 ? game.AppId : null;
 		this.BundleId = game.BundleId > 0 ? game.BundleId : null;
 		this.Image = game.CapsuleImage;

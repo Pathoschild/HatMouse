@@ -28,6 +28,29 @@ const prizeList = async function() {
         });
     });
 
+    // split game entries per key
+    {
+        const splitGames = [];
+        for (let game of data.games)
+        {
+            if (game.keys.length == 1)
+            {
+                game.title = game.keys[0];
+                game.keys = null;
+                splitGames.push(game);
+            }
+            else {
+                for (let i = 0; i < game.keys.length; i++) {
+                    const clone = { ...game };
+                    clone.title = game.keys[i];
+                    clone.keys = null;
+                    splitGames.push(clone);
+                }
+            }
+        }
+        data.games = splitGames;
+    }
+
     // init games
     {
         const slugsUsed = {};
