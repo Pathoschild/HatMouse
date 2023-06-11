@@ -166,7 +166,15 @@ GameRecord[] ReadSearchData()
 
 	return parser
 		.GetRecords<CsvGameRecord>()
-		.Select(p => new GameRecord { Source = p.Source, SearchTitle = p.Title, AppId = p.OverrideAppId ?? 0, BundleId = p.OverrideBundleId ?? 0 })
+		.Select(row => new GameRecord
+		{
+			Source = row.Source,
+			SearchTitle = row.Title,
+			AppId = row.OverrideAppId ?? 0,
+			BundleId = row.OverrideBundleId ?? 0,
+			OverridePrice = !string.IsNullOrWhiteSpace(row.OverridePrice) ? row.OverridePrice : null,
+			OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription : null
+		})
 		.ToArray();
 }
 
@@ -382,7 +390,7 @@ public class SteamApiClient : FluentClient
 		game.CapsuleImage = data.Value<string>("capsule_imagev5");
 
 		game.Type = data.Value<string>("type");
-		game.ShortDescription = HttpUtility.HtmlDecode(data.Value<string>("short_description"));
+		game.Description = HttpUtility.HtmlDecode(data.Value<string>("short_description"));
 		game.Languages = HttpUtility.HtmlDecode(data.Value<string>("supported_languages"));
 
 		game.IsFree = data.Value<bool>("is_free");
@@ -390,13 +398,10 @@ public class SteamApiClient : FluentClient
 		var prices = data.Value<JToken>("price_overview");
 		if (prices != null)
 		{
-			decimal basePrice = prices.Value<decimal>("initial");
-			decimal finalPrice = prices.Value<decimal>("final");
+			decimal price = prices.Value<decimal>("initial");
 
 			game.PriceCurrency = prices.Value<string>("currency");
-			game.PriceDiscountPercent = prices.Value<int>("discount_percent");
-			game.BasePrice = (basePrice / 100).ToString("0.00");
-			game.Price = (finalPrice / 100).ToString("0.00");
+			game.Price = (price / 100).ToString("0.00");
 		}
 
 		var platform = data.Value<JToken>("platforms");
@@ -441,13 +446,10 @@ public class SteamApiClient : FluentClient
 		var prices = data.Value<JToken>("price");
 		if (prices != null)
 		{
-			decimal basePrice = prices.Value<decimal>("initial");
-			decimal finalPrice = prices.Value<decimal>("final");
+			decimal price = prices.Value<decimal>("initial");
 
 			game.PriceCurrency = prices.Value<string>("currency");
-			game.PriceDiscountPercent = prices.Value<int>("discount_percent");
-			game.BasePrice = (basePrice / 100).ToString("0.00");
-			game.Price = (finalPrice / 100).ToString("0.00");
+			game.Price = (price / 100).ToString("0.00");
 		}
 
 		var platform = data.Value<JToken>("platforms");
@@ -487,6 +489,8 @@ public class CsvGameRecord
 	public string Title { get; set; }
 	public int? OverrideAppId { get; set; }
 	public int? OverrideBundleId { get; set; }
+	public string OverridePrice { get; set; }
+	public string OverrideDescription { get; set; }
 }
 
 public class GameRecord
@@ -501,14 +505,15 @@ public class GameRecord
 	public string CapsuleImage { get; set; }
 
 	public string Type { get; set; }
-	public string ShortDescription { get; set; }
+	public string Description { get; set; }
+	public string OverrideDescription { get; set; }
+
 	public string Languages { get; set; }
 
 	public bool IsFree { get; set; }
 	public string PriceCurrency { get; set; }
-	public string BasePrice { get; set; }
-	public int PriceDiscountPercent { get; set; }
 	public string Price { get; set; }
+	public string OverridePrice { get; set; }
 
 	public bool IsLinux { get; set; }
 	public bool IsMac { get; set; }
@@ -559,9 +564,19 @@ public class PublicGameRecord
 		this.BundleId = game.BundleId > 0 ? game.BundleId : null;
 		this.Image = game.CapsuleImage;
 		this.Type = game.Type;
-		this.Description = game.ShortDescription;
-		this.Price = game.BasePrice;
-		this.PriceCurrency = game.PriceCurrency;
+		this.Description = game.OverrideDescription ?? game.Description;
+
+		if (game.OverridePrice != null)
+		{
+			this.Price = game.OverridePrice;
+			this.PriceCurrency = "USD";
+		}
+		else
+		{
+			this.Price = game.Price;
+			this.PriceCurrency = game.PriceCurrency;
+		}
+
 		this.MetaCriticScore = game.MetaCriticScore;
 		this.MetaCriticUrl = this.GetMetaCriticUrl(game.MetaCriticUrl);
 		this.Platforms = this.GetPlatforms(game);
