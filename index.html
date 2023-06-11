@@ -96,7 +96,8 @@
                                 </td>
                                 <td class="type">{{game.type}}</td>
 
-                                <td class="description truncated" v-bind:title="game.description" v-if="game.truncatedDescription">{{game.truncatedDescription}}</td>
+                                <td class="description" v-if="game.overrideDescription" v-html="game.overrideDescription"></td>
+                                <td class="description truncated" v-bind:title="game.description" v-else-if="game.truncatedDescription">{{game.truncatedDescription}}</td>
                                 <td class="description" v-else>{{game.description}}</td>
 
                                 <td>

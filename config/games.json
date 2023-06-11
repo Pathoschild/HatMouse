@@ -8359,7 +8359,7 @@
     "keys": [
       "Humble Frozenbyte Bundle"
     ],
-    "description": "Includes Trine, Shadowgrounds, and Shadowgrounds: Survivor.",
+    "overrideDescription": "Includes Trine, Shadowgrounds, and Shadowgrounds: Survivor.",
     "priceCurrency": "USD",
     "price": "31.97",
     "metaCriticScore": 0,
@@ -8371,7 +8371,7 @@
     "keys": [
       "Humble Voxatron Debut"
     ],
-    "description": "Includes Gish, The Binding of Isaac, and Blocks That Matter.",
+    "overrideDescription": "Includes Gish, The Binding of Isaac, and Blocks That Matter.",
     "priceCurrency": "USD",
     "price": "19.97",
     "metaCriticScore": 0,

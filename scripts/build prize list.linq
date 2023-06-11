@@ -546,6 +546,7 @@ public class PublicGameRecord
 	public string Image { get; }
 	public string Type { get; }
 	public string Description { get; }
+	public string OverrideDescription { get; }
 	public string PriceCurrency { get; }
 	public string Price { get; }
 	public int MetaCriticScore { get; }
@@ -565,7 +566,8 @@ public class PublicGameRecord
 		this.BundleId = game.BundleId > 0 ? game.BundleId : null;
 		this.Image = game.CapsuleImage;
 		this.Type = game.Type;
-		this.Description = game.OverrideDescription ?? game.Description;
+		this.Description = game.Description;
+		this.OverrideDescription = game.OverrideDescription;
 
 		if (game.OverridePrice != null)
 		{
