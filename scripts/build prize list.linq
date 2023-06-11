@@ -175,6 +175,7 @@ GameRecord[] ReadSearchData()
 			OverridePrice = !string.IsNullOrWhiteSpace(row.OverridePrice) ? row.OverridePrice.Trim().Trim('$') : null,
 			OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription.Trim() : null
 		})
+		.OrderBy(p => p.SearchTitle, StringComparer.OrdinalIgnoreCase)
 		.ToArray();
 }
 
