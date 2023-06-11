@@ -177,8 +177,6 @@ void WritePublicJsonExportFile(GameRecord[] games)
 		.Select(game => new PublicGameRecord(game))
 		.ToArray();
 
-	this.SetUniqueSlugs(exportGames);
-
 	JsonSerializerSettings settings = new()
 	{
 		Formatting = Newtonsoft.Json.Formatting.Indented,
@@ -193,28 +191,6 @@ void WritePublicJsonExportFile(GameRecord[] games)
 		Path.Combine(WebDir, "config", "games.json"),
 		JsonConvert.SerializeObject(exportGames, settings)
 	);
-}
-
-/// <summary>Give each game in a list a unique slug ID.</summary>
-/// <param name="games">The game records to update.</param>
-void SetUniqueSlugs(PublicGameRecord[] games)
-{
-	Dictionary<string, int> uniqueSlugs = new();
-
-	foreach (PublicGameRecord game in games)
-	{
-		string slug = Regex.Replace(game.Title.ToLower(), "[^a-z0-9]+", "");
-
-		if (uniqueSlugs.TryGetValue(slug, out int next))
-		{
-			slug += "_" + next;
-			uniqueSlugs[slug] = next + 1;
-		}
-		else
-			uniqueSlugs[slug] = 2;
-
-		game.Slug = slug;
-	}
 }
 
 /// <summary>Fetch the app ID for a game title.</summary>
@@ -522,8 +498,6 @@ public class PublicGameRecord
 
 	public string ReleaseDate { get; }
 	public string ContentWarnings { get; }
-
-	public string Slug { get; set; }
 
 	public PublicGameRecord(GameRecord game)
 	{

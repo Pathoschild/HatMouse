@@ -29,8 +29,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2019",
-    "slug": "blasphemous"
+    "releaseDate": "2019"
   },
   {
     "title": "Bloodstained: Ritual of the Night",
@@ -59,8 +58,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2019",
-    "slug": "bloodstainedritualofthenight"
+    "releaseDate": "2019"
   },
   {
     "title": "Haiku, the Robot",
@@ -87,8 +85,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2022",
-    "slug": "haikutherobot"
+    "releaseDate": "2022"
   },
   {
     "title": "Hollow Knight",
@@ -120,8 +117,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "hollowknight"
+    "releaseDate": "2017"
   },
   {
     "title": "Lone Fungus",
@@ -146,8 +142,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2023",
-    "slug": "lonefungus"
+    "releaseDate": "2023"
   },
   {
     "title": "Lost Ruins",
@@ -177,8 +172,7 @@
       "Indie"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "Violence\r\nBlood and Gore\r\nSexually Suggestive Content",
-    "slug": "lostruins"
+    "contentWarnings": "Violence\r\nBlood and Gore\r\nSexually Suggestive Content"
   },
   {
     "title": "Rain World",
@@ -211,8 +205,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "rainworld"
+    "releaseDate": "2017"
   },
   {
     "title": "Bioshock Remastered",
@@ -242,8 +235,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "bioshockremastered"
+    "releaseDate": "2016"
   },
   {
     "title": "Brutal Legend",
@@ -279,8 +271,7 @@
       "Strategy"
     ],
     "releaseDate": "2013",
-    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes",
-    "slug": "brutallegend"
+    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes"
   },
   {
     "title": "Dwarfs!?",
@@ -307,8 +298,7 @@
       "Indie",
       "Casual"
     ],
-    "releaseDate": "2011",
-    "slug": "dwarfs"
+    "releaseDate": "2011"
   },
   {
     "title": "Euro Truck Simulator 2",
@@ -344,8 +334,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2012",
-    "slug": "eurotrucksimulator2"
+    "releaseDate": "2012"
   },
   {
     "title": "Into the Breach",
@@ -378,8 +367,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "intothebreach"
+    "releaseDate": "2018"
   },
   {
     "title": "Portal Knights",
@@ -411,8 +399,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "portalknights"
+    "releaseDate": "2017"
   },
   {
     "title": "Saints Row: The Third",
@@ -442,8 +429,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2011",
-    "slug": "saintsrowthethird"
+    "releaseDate": "2011"
   },
   {
     "title": "Teleglitch: Die More Edition",
@@ -471,8 +457,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "teleglitchdiemoreedition"
+    "releaseDate": "2013"
   },
   {
     "title": "Titan Quest Anniversary",
@@ -504,8 +489,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "titanquestanniversary"
+    "releaseDate": "2016"
   },
   {
     "title": "Tooth and Tail",
@@ -544,8 +528,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "toothandtail"
+    "releaseDate": "2017"
   },
   {
     "title": "Undertale",
@@ -572,8 +555,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "undertale"
+    "releaseDate": "2015"
   },
   {
     "title": "Wargroove",
@@ -612,8 +594,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2019",
-    "slug": "wargroove"
+    "releaseDate": "2019"
   },
   {
     "title": "10 Second Ninja",
@@ -641,8 +622,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "10secondninja"
+    "releaseDate": "2014"
   },
   {
     "title": "1993 Space Machine",
@@ -673,8 +653,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "1993spacemachine"
+    "releaseDate": "2016"
   },
   {
     "title": "2064: Read Only Memories",
@@ -705,8 +684,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "2064readonlymemories"
+    "releaseDate": "2015"
   },
   {
     "title": "60 Parsecs!",
@@ -737,8 +715,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "60parsecs"
+    "releaseDate": "2018"
   },
   {
     "title": "7 Days to Die",
@@ -780,8 +757,7 @@
       "Strategy",
       "Early Access"
     ],
-    "releaseDate": "2013",
-    "slug": "7daystodie"
+    "releaseDate": "2013"
   },
   {
     "title": "7 Grand Steps",
@@ -806,8 +782,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "7grandsteps"
+    "releaseDate": "2013"
   },
   {
     "title": "911 Operator",
@@ -838,8 +813,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "911operator"
+    "releaseDate": "2017"
   },
   {
     "title": "911 Operator - Special Resources DLC",
@@ -865,8 +839,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "911operatorspecialresourcesdlc"
+    "releaseDate": "2017"
   },
   {
     "title": ">observer_",
@@ -891,8 +864,7 @@
       "Indie"
     ],
     "releaseDate": "2020",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. Frequent violence, gore, and general mature content.",
-    "slug": "observer"
+    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. Frequent violence, gore, and general mature content."
   },
   {
     "title": "A Virus Named TOM",
@@ -925,8 +897,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "avirusnamedtom"
+    "releaseDate": "2012"
   },
   {
     "title": "A Virus Named Tom",
@@ -959,8 +930,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "avirusnamedtom_2"
+    "releaseDate": "2012"
   },
   {
     "title": "A-Tech Cybernetic",
@@ -985,8 +955,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2020",
-    "slug": "atechcybernetic"
+    "releaseDate": "2020"
   },
   {
     "title": "ABZU",
@@ -1014,8 +983,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016",
-    "slug": "abzu"
+    "releaseDate": "2016"
   },
   {
     "title": "AER Memories of Old",
@@ -1042,8 +1010,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "aermemoriesofold"
+    "releaseDate": "2017"
   },
   {
     "title": "AER Memories of Old",
@@ -1070,8 +1037,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "aermemoriesofold_2"
+    "releaseDate": "2017"
   },
   {
     "title": "AI War: Fleet Command",
@@ -1102,8 +1068,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2009",
-    "slug": "aiwarfleetcommand"
+    "releaseDate": "2009"
   },
   {
     "title": "ARMA: Cold War Assault",
@@ -1125,8 +1090,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2011",
-    "slug": "armacoldwarassault"
+    "releaseDate": "2011"
   },
   {
     "title": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
@@ -1152,8 +1116,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2011",
-    "slug": "aaaaaaaaaaaaaaaaaaaaaaaaafortheawesome"
+    "releaseDate": "2011"
   },
   {
     "title": "Aaero",
@@ -1180,8 +1143,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "aaero"
+    "releaseDate": "2017"
   },
   {
     "title": "Absolver",
@@ -1212,8 +1174,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "absolver"
+    "releaseDate": "2017"
   },
   {
     "title": "Acceleration of SUGURI 2",
@@ -1246,8 +1207,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "accelerationofsuguri2"
+    "releaseDate": "2018"
   },
   {
     "title": "Action Henk",
@@ -1286,8 +1246,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2015",
-    "slug": "actionhenk"
+    "releaseDate": "2015"
   },
   {
     "title": "Agricultural Simulator 2013",
@@ -1310,8 +1269,7 @@
       "Casual",
       "Simulation"
     ],
-    "releaseDate": "2013",
-    "slug": "agriculturalsimulator2013"
+    "releaseDate": "2013"
   },
   {
     "title": "Agricultural Simulator: Historical Farming",
@@ -1337,16 +1295,14 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "agriculturalsimulatorhistoricalfarming"
+    "releaseDate": "2013"
   },
   {
     "title": "Alien Breed Complete Pack",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "alienbreedcompletepack"
+    "genres": []
   },
   {
     "title": "Almost There: The Platformer",
@@ -1376,8 +1332,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2019",
-    "slug": "almosttheretheplatformer"
+    "releaseDate": "2019"
   },
   {
     "title": "American Truck Simulator",
@@ -1411,8 +1366,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016",
-    "slug": "americantrucksimulator"
+    "releaseDate": "2016"
   },
   {
     "title": "Anodyne",
@@ -1439,8 +1393,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "anodyne"
+    "releaseDate": "2013"
   },
   {
     "title": "Anomaly 2",
@@ -1469,8 +1422,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "anomaly2"
+    "releaseDate": "2013"
   },
   {
     "title": "Anomaly Korea",
@@ -1493,8 +1445,7 @@
       "Action",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "anomalykorea"
+    "releaseDate": "2013"
   },
   {
     "title": "Another Perspective",
@@ -1517,16 +1468,14 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "anotherperspective"
+    "releaseDate": "2014"
   },
   {
     "title": "App Game Kit 2",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "appgamekit2"
+    "genres": []
   },
   {
     "title": "Aquaria",
@@ -1550,8 +1499,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2008",
-    "slug": "aquaria"
+    "releaseDate": "2008"
   },
   {
     "title": "Archangel: Hellfire - Fully Loaded",
@@ -1574,8 +1522,7 @@
       "Action",
       "Simulation"
     ],
-    "releaseDate": "2018",
-    "slug": "archangelhellfirefullyloaded"
+    "releaseDate": "2018"
   },
   {
     "title": "Armello",
@@ -1612,8 +1559,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "armello"
+    "releaseDate": "2015"
   },
   {
     "title": "Ashes of the Singularity: Escalation",
@@ -1646,8 +1592,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "ashesofthesingularityescalation"
+    "releaseDate": "2016"
   },
   {
     "title": "Avadon: The Black Fortress",
@@ -1673,8 +1618,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2011",
-    "slug": "avadontheblackfortress"
+    "releaseDate": "2011"
   },
   {
     "title": "Avalanche 2: Super Avalanche",
@@ -1703,8 +1647,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "avalanche2superavalanche"
+    "releaseDate": "2015"
   },
   {
     "title": "Avernum 2: Crystal Souls",
@@ -1732,8 +1675,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "avernum2crystalsouls"
+    "releaseDate": "2015"
   },
   {
     "title": "Aveyond: Lord of Twilight",
@@ -1757,8 +1699,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "aveyondlordoftwilight"
+    "releaseDate": "2014"
   },
   {
     "title": "Aviary Attorney",
@@ -1783,8 +1724,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "aviaryattorney"
+    "releaseDate": "2015"
   },
   {
     "title": "Awesomenauts",
@@ -1825,16 +1765,14 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "awesomenauts"
+    "releaseDate": "2012"
   },
   {
     "title": "Awesomenauts Cluck Costume",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "awesomenautscluckcostume"
+    "genres": []
   },
   {
     "title": "Axis Game Factory: AGFPRO Premium DLC",
@@ -1863,8 +1801,7 @@
       "Software Training",
       "Utilities"
     ],
-    "releaseDate": "2015",
-    "slug": "axisgamefactoryagfpropremiumdlc"
+    "releaseDate": "2015"
   },
   {
     "title": "Axis Game Factory: AGFPRO Voxelsculpt",
@@ -1894,8 +1831,7 @@
       "Software Training",
       "Utilities"
     ],
-    "releaseDate": "2015",
-    "slug": "axisgamefactoryagfprovoxelsculpt"
+    "releaseDate": "2015"
   },
   {
     "title": "Axis Game Factory: AGFPRO Zombie FPS",
@@ -1923,8 +1859,7 @@
       "Software Training",
       "Utilities"
     ],
-    "releaseDate": "2014",
-    "slug": "axisgamefactoryagfprozombiefps"
+    "releaseDate": "2014"
   },
   {
     "title": "Axis Game Factory: AGFPRO Zombie Survival Pack",
@@ -1958,8 +1893,7 @@
       "Software Training",
       "Utilities"
     ],
-    "releaseDate": "2015",
-    "slug": "axisgamefactoryagfprozombiesurvivalpack"
+    "releaseDate": "2015"
   },
   {
     "title": "Axis Game Factory: AGFPRO v3.0",
@@ -1986,8 +1920,7 @@
       "Utilities",
       "Game Development"
     ],
-    "releaseDate": "2013",
-    "slug": "axisgamefactoryagfprov30"
+    "releaseDate": "2013"
   },
   {
     "title": "Axis Game Factory: Drone Kombat",
@@ -2018,8 +1951,7 @@
       "Software Training",
       "Utilities"
     ],
-    "releaseDate": "2015",
-    "slug": "axisgamefactorydronekombat"
+    "releaseDate": "2015"
   },
   {
     "title": "BATTLESLOTHS",
@@ -2054,8 +1986,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "battlesloths"
+    "releaseDate": "2017"
   },
   {
     "title": "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien",
@@ -2082,8 +2013,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "bittrippresentsrunner2futurelegendofrhythmalien"
+    "releaseDate": "2013"
   },
   {
     "title": "BROFORCE",
@@ -2123,8 +2053,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "broforce"
+    "releaseDate": "2015"
   },
   {
     "title": "Bad Hotel",
@@ -2152,8 +2081,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "badhotel"
+    "releaseDate": "2013"
   },
   {
     "title": "Ballistick",
@@ -2178,8 +2106,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "ballistick"
+    "releaseDate": "2016"
   },
   {
     "title": "Banner Saga 2",
@@ -2212,8 +2139,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "bannersaga2"
+    "releaseDate": "2016"
   },
   {
     "title": "Bastion",
@@ -2246,8 +2172,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2011",
-    "slug": "bastion"
+    "releaseDate": "2011"
   },
   {
     "title": "Battle Chef Brigade",
@@ -2282,8 +2207,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "battlechefbrigade"
+    "releaseDate": "2017"
   },
   {
     "title": "Bear With Me - Collector's Edition",
@@ -2310,8 +2234,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "bearwithmecollectorsedition"
+    "releaseDate": "2018"
   },
   {
     "title": "Beat Hazard Ultra",
@@ -2344,8 +2267,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2011",
-    "slug": "beathazardultra"
+    "releaseDate": "2011"
   },
   {
     "title": "Beat Hazard Ultra",
@@ -2378,8 +2300,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2011",
-    "slug": "beathazardultra_2"
+    "releaseDate": "2011"
   },
   {
     "title": "Beatbuddy: Tale of the Guardians",
@@ -2412,8 +2333,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "beatbuddytaleoftheguardians"
+    "releaseDate": "2013"
   },
   {
     "title": "Bejeweled™ 3",
@@ -2439,8 +2359,7 @@
       "Casual",
       "Strategy"
     ],
-    "releaseDate": "2010",
-    "slug": "bejeweled3"
+    "releaseDate": "2010"
   },
   {
     "title": "Beyond Eyes",
@@ -2468,8 +2387,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "beyondeyes"
+    "releaseDate": "2015"
   },
   {
     "title": "Black Mesa",
@@ -2508,8 +2426,7 @@
       "Indie"
     ],
     "releaseDate": "2020",
-    "contentWarnings": "Violence and death due to falls, blunt force, gunshots, and explosions. Over the top dismemberment of NPCs (gibing) that some may see as realistic.",
-    "slug": "blackmesa"
+    "contentWarnings": "Violence and death due to falls, blunt force, gunshots, and explosions. Over the top dismemberment of NPCs (gibing) that some may see as realistic."
   },
   {
     "title": "Black the Fall",
@@ -2536,8 +2453,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "blackthefall"
+    "releaseDate": "2017"
   },
   {
     "title": "Blackwake",
@@ -2568,8 +2484,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2020",
-    "slug": "blackwake"
+    "releaseDate": "2020"
   },
   {
     "title": "BlazBlue: Chronophantasma Extend",
@@ -2599,8 +2514,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "blazbluechronophantasmaextend"
+    "releaseDate": "2016"
   },
   {
     "title": "Bleed 2",
@@ -2635,16 +2549,14 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "bleed2"
+    "releaseDate": "2017"
   },
   {
     "title": "Botanicula, Machinarium, and Samorost 2",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "botaniculamachinariumandsamorost2"
+    "genres": []
   },
   {
     "title": "Boundless",
@@ -2678,16 +2590,14 @@
       "Massively Multiplayer",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "boundless"
+    "releaseDate": "2018"
   },
   {
     "title": "Brazen Prototype",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "brazenprototype"
+    "genres": []
   },
   {
     "title": "Bridge Constructor",
@@ -2717,8 +2627,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2013",
-    "slug": "bridgeconstructor"
+    "releaseDate": "2013"
   },
   {
     "title": "Brigador: Up-Armored Edition",
@@ -2747,8 +2656,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "brigadoruparmorededition"
+    "releaseDate": "2016"
   },
   {
     "title": "Broken Sword: Director's Cut",
@@ -2771,8 +2679,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2010",
-    "slug": "brokensworddirectorscut"
+    "releaseDate": "2010"
   },
   {
     "title": "Broken Sword: Director's Cut",
@@ -2795,8 +2702,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2010",
-    "slug": "brokensworddirectorscut_2"
+    "releaseDate": "2010"
   },
   {
     "title": "Brütal Legend",
@@ -2832,8 +2738,7 @@
       "Strategy"
     ],
     "releaseDate": "2013",
-    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes",
-    "slug": "brtallegend"
+    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes"
   },
   {
     "title": "Brütal Legend ",
@@ -2869,8 +2774,7 @@
       "Strategy"
     ],
     "releaseDate": "2013",
-    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes",
-    "slug": "brtallegend_2"
+    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes"
   },
   {
     "title": "Brütal Legend",
@@ -2906,16 +2810,14 @@
       "Strategy"
     ],
     "releaseDate": "2013",
-    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes",
-    "slug": "brtallegend_2"
+    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes"
   },
   {
     "title": "Burnout Paradise: The Ultimate Box",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "burnoutparadisetheultimatebox"
+    "genres": []
   },
   {
     "title": "Call of Duty®: Black Ops III - Multiplayer Starter Pack",
@@ -2939,8 +2841,7 @@
     "genres": [
       "Action",
       "Adventure"
-    ],
-    "slug": "callofdutyblackopsiiimultiplayerstarterpack"
+    ]
   },
   {
     "title": "Canabalt",
@@ -2972,8 +2873,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "canabalt"
+    "releaseDate": "2015"
   },
   {
     "title": "Canabalt",
@@ -3005,8 +2905,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "canabalt_2"
+    "releaseDate": "2015"
   },
   {
     "title": "Capsized",
@@ -3037,8 +2936,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2011",
-    "slug": "capsized"
+    "releaseDate": "2011"
   },
   {
     "title": "Cave Story+",
@@ -3064,8 +2962,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2011",
-    "slug": "cavestory"
+    "releaseDate": "2011"
   },
   {
     "title": "Chasm",
@@ -3097,8 +2994,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "chasm"
+    "releaseDate": "2018"
   },
   {
     "title": "Chroma Squad",
@@ -3130,8 +3026,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "chromasquad"
+    "releaseDate": "2015"
   },
   {
     "title": "Cities: Skylines + After Dark DLC",
@@ -3162,8 +3057,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "citiesskylinesafterdarkdlc"
+    "releaseDate": "2015"
   },
   {
     "title": "Civilization VI - Australia Civilization & Scenario Pack",
@@ -3189,8 +3083,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "civilizationviaustraliacivilizationscenariopack"
+    "releaseDate": "2017"
   },
   {
     "title": "Civilization VI - Vikings Scenario Pack",
@@ -3214,8 +3107,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "civilizationvivikingsscenariopack"
+    "releaseDate": "2016"
   },
   {
     "title": "Closure",
@@ -3242,8 +3134,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "closure"
+    "releaseDate": "2012"
   },
   {
     "title": "Cogs",
@@ -3268,8 +3159,7 @@
       "Indie",
       "Casual"
     ],
-    "releaseDate": "2009",
-    "slug": "cogs"
+    "releaseDate": "2009"
   },
   {
     "title": "Command & Conquer: Red Alert 3 - Uprising",
@@ -3290,8 +3180,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2009",
-    "slug": "commandconquerredalert3uprising"
+    "releaseDate": "2009"
   },
   {
     "title": "Conan Exiles",
@@ -3328,8 +3217,7 @@
       "Strategy"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "Conan Exiles has brutal combat where you can cut off limbs and heads of human opponents and blood is shown frequently.\r\n\r\nPlayers may choose to play the game with either no, partial or full nudity enabled. This is possible in both single and multiplayer.\r\n",
-    "slug": "conanexiles"
+    "contentWarnings": "Conan Exiles has brutal combat where you can cut off limbs and heads of human opponents and blood is shown frequently.\r\n\r\nPlayers may choose to play the game with either no, partial or full nudity enabled. This is possible in both single and multiplayer.\r\n"
   },
   {
     "title": "Cook, Serve, Delicious! 2!!",
@@ -3365,8 +3253,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "cookservedelicious2"
+    "releaseDate": "2017"
   },
   {
     "title": "Copoka",
@@ -3392,8 +3279,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "copoka"
+    "releaseDate": "2017"
   },
   {
     "title": "Costume Quest",
@@ -3421,8 +3307,7 @@
       "Casual",
       "RPG"
     ],
-    "releaseDate": "2011",
-    "slug": "costumequest"
+    "releaseDate": "2011"
   },
   {
     "title": "Crawl",
@@ -3456,8 +3341,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "crawl"
+    "releaseDate": "2017"
   },
   {
     "title": "Crayon Physics Deluxe",
@@ -3480,8 +3364,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2009",
-    "slug": "crayonphysicsdeluxe"
+    "releaseDate": "2009"
   },
   {
     "title": "Crayon Physics Deluxe",
@@ -3504,8 +3387,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2009",
-    "slug": "crayonphysicsdeluxe_2"
+    "releaseDate": "2009"
   },
   {
     "title": "Crazy Machines 3",
@@ -3533,8 +3415,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "crazymachines3"
+    "releaseDate": "2016"
   },
   {
     "title": "Crimzon Clover WORLD IGNITION",
@@ -3562,8 +3443,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "crimzoncloverworldignition"
+    "releaseDate": "2014"
   },
   {
     "title": "Crysis 2 Maximum Edition",
@@ -3584,8 +3464,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2011",
-    "slug": "crysis2maximumedition"
+    "releaseDate": "2011"
   },
   {
     "title": "Cthulhu Realms - Full Version",
@@ -3610,8 +3489,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "cthulhurealmsfullversion"
+    "releaseDate": "2016"
   },
   {
     "title": "Cultist Simulator",
@@ -3641,8 +3519,7 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2018",
-    "slug": "cultistsimulator"
+    "releaseDate": "2018"
   },
   {
     "title": "Cursed Castilla (Maldita Castilla EX)",
@@ -3671,8 +3548,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "cursedcastillamalditacastillaex"
+    "releaseDate": "2016"
   },
   {
     "title": "Cyber-Shadow",
@@ -3699,8 +3575,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2021",
-    "slug": "cybershadow"
+    "releaseDate": "2021"
   },
   {
     "title": "DARK SOULS™ III",
@@ -3729,8 +3604,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "darksoulsiii"
+    "releaseDate": "2016"
   },
   {
     "title": "DARK SOULS™ III - Ashes of Ariandel™",
@@ -3756,8 +3630,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "darksoulsiiiashesofariandel"
+    "releaseDate": "2016"
   },
   {
     "title": "Dandara",
@@ -3785,8 +3658,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "dandara"
+    "releaseDate": "2018"
   },
   {
     "title": "Dangerous High School Girls in Trouble",
@@ -3810,8 +3682,7 @@
       "Indie",
       "Casual"
     ],
-    "releaseDate": "2009",
-    "slug": "dangeroushighschoolgirlsintrouble"
+    "releaseDate": "2009"
   },
   {
     "title": "Dark Souls II: Scholar of the First Sin",
@@ -3840,8 +3711,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "darksoulsiischolarofthefirstsin"
+    "releaseDate": "2015"
   },
   {
     "title": "Darkside Detective",
@@ -3870,8 +3740,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "darksidedetective"
+    "releaseDate": "2017"
   },
   {
     "title": "Darksiders II: Deathinitive Edition",
@@ -3901,8 +3770,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "darksidersiideathinitiveedition"
+    "releaseDate": "2015"
   },
   {
     "title": "Day of the Tentacle",
@@ -3933,8 +3801,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2016",
-    "slug": "dayofthetentacle"
+    "releaseDate": "2016"
   },
   {
     "title": "Dead Island Definitive Edition",
@@ -3965,8 +3832,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "deadislanddefinitiveedition"
+    "releaseDate": "2016"
   },
   {
     "title": "Dead Rising 2",
@@ -3994,8 +3860,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2010",
-    "slug": "deadrising2"
+    "releaseDate": "2010"
   },
   {
     "title": "Dead Rising 4",
@@ -4024,8 +3889,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2017",
-    "slug": "deadrising4"
+    "releaseDate": "2017"
   },
   {
     "title": "Dead Space",
@@ -4051,8 +3915,7 @@
       "Adventure"
     ],
     "releaseDate": "2023",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
-    "slug": "deadspace"
+    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
   },
   {
     "title": "Dead Space™ 2",
@@ -4077,8 +3940,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2011",
-    "slug": "deadspace2"
+    "releaseDate": "2011"
   },
   {
     "title": "Deadly Sin 2",
@@ -4099,8 +3961,7 @@
       "Casual",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "deadlysin2"
+    "releaseDate": "2014"
   },
   {
     "title": "Dear Esther",
@@ -4128,8 +3989,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "dearesther"
+    "releaseDate": "2017"
   },
   {
     "title": "Death Ray Manta",
@@ -4152,8 +4012,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "deathraymanta"
+    "releaseDate": "2015"
   },
   {
     "title": "Deponia Doomsday",
@@ -4182,8 +4041,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "deponiadoomsday"
+    "releaseDate": "2016"
   },
   {
     "title": "Detective Case and Clown Bot in: Murder in The Hotel Lisbon",
@@ -4211,8 +4069,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "detectivecaseandclownbotinmurderinthehotellisbon"
+    "releaseDate": "2014"
   },
   {
     "title": "Deus Ex: Mankind Divided",
@@ -4240,8 +4097,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "deusexmankinddivided"
+    "releaseDate": "2016"
   },
   {
     "title": "DiRT Rally",
@@ -4272,8 +4128,7 @@
       "Simulation",
       "Sports"
     ],
-    "releaseDate": "2019",
-    "slug": "dirtrally"
+    "releaseDate": "2019"
   },
   {
     "title": "Distance",
@@ -4314,8 +4169,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2018",
-    "slug": "distance"
+    "releaseDate": "2018"
   },
   {
     "title": "Do Not Feed the Monkeys",
@@ -4342,8 +4196,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "donotfeedthemonkeys"
+    "releaseDate": "2018"
   },
   {
     "title": "Double Fine Adventure Documentary",
@@ -4366,8 +4219,7 @@
     "genres": [
       "Documentary"
     ],
-    "releaseDate": "2015",
-    "slug": "doublefineadventuredocumentary"
+    "releaseDate": "2015"
   },
   {
     "title": "Dracula: Love Kills",
@@ -4389,8 +4241,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2013",
-    "slug": "draculalovekills"
+    "releaseDate": "2013"
   },
   {
     "title": "Dracula: Origin",
@@ -4412,8 +4263,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2008",
-    "slug": "draculaorigin"
+    "releaseDate": "2008"
   },
   {
     "title": "Dragon Age™: Origins",
@@ -4434,8 +4284,7 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2010",
-    "slug": "dragonageorigins"
+    "releaseDate": "2010"
   },
   {
     "title": "Dragon's Dogma: Dark Arisen",
@@ -4466,8 +4315,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "dragonsdogmadarkarisen"
+    "releaseDate": "2016"
   },
   {
     "title": "Dungeon Defenders + All DLC",
@@ -4481,8 +4329,7 @@
       "Windows"
     ],
     "categories": [],
-    "genres": [],
-    "slug": "dungeondefendersalldlc"
+    "genres": []
   },
   {
     "title": "Dungeon Defenders + All DLC",
@@ -4496,8 +4343,7 @@
       "Windows"
     ],
     "categories": [],
-    "genres": [],
-    "slug": "dungeondefendersalldlc_2"
+    "genres": []
   },
   {
     "title": "Dungeon of the Endless - Crystal Pack",
@@ -4530,8 +4376,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "dungeonoftheendlesscrystalpack"
+    "releaseDate": "2013"
   },
   {
     "title": "Dungeons 3",
@@ -4563,8 +4408,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "dungeons3"
+    "releaseDate": "2017"
   },
   {
     "title": "Duskers",
@@ -4590,8 +4434,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "duskers"
+    "releaseDate": "2016"
   },
   {
     "title": "Dust: An Elysian Tail",
@@ -4621,8 +4464,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2013",
-    "slug": "dustanelysiantail"
+    "releaseDate": "2013"
   },
   {
     "title": "Dusty Revenge: Co-Op Edition",
@@ -4651,8 +4493,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "dustyrevengecoopedition"
+    "releaseDate": "2014"
   },
   {
     "title": "Dynamite Jack",
@@ -4680,8 +4521,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "dynamitejack"
+    "releaseDate": "2012"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
@@ -4713,8 +4553,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41theshadowofnewdespair"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: BM03 Vegalta Gold",
@@ -4741,8 +4580,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41bm03vegaltagold"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Blood Storm",
@@ -4769,8 +4607,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41bloodstorm"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Depth Crawler Gold Coat",
@@ -4797,8 +4634,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41depthcrawlergoldcoat"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Gigantus DCC-Gogo. Marking",
@@ -4825,8 +4661,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41gigantusdccgogomarking"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Gigantus DCC-Zero Marking",
@@ -4853,8 +4688,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41gigantusdcczeromarking"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Gigantus Tank, Bullet Girls Marking",
@@ -4881,8 +4715,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41gigantustankbulletgirlsmarking"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Gigantus Tank, EDF IFPS Markings",
@@ -4909,8 +4742,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41gigantustankedfifpsmarkings"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Gigantus Tank, Natsuiro HS Markings",
@@ -4937,8 +4769,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41gigantustanknatsuirohsmarkings"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Gleipnir",
@@ -4965,8 +4796,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41gleipnir"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Ifrit",
@@ -4993,8 +4823,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41ifrit"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Mission Pack 1: Time of the Mutants",
@@ -5022,8 +4851,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41missionpack1timeofthemutants"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Mission Pack 2: Extreme Battle",
@@ -5051,8 +4879,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41missionpack2extremebattle"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Pure Decoy Launcher 5 Pack A",
@@ -5079,8 +4906,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41puredecoylauncher5packa"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Pure Decoy Launcher 5 Pack B",
@@ -5106,8 +4932,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41puredecoylauncher5packb"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Reflectron Laser",
@@ -5134,8 +4959,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41reflectronlaser"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Spark Lancer",
@@ -5162,8 +4986,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41sparklancer"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Sting Shot",
@@ -5190,8 +5013,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41stingshot"
+    "releaseDate": "2016"
   },
   {
     "title": "EARTH DEFENSE FORCE 4.1: Volatile Napalm",
@@ -5218,8 +5040,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "earthdefenseforce41volatilenapalm"
+    "releaseDate": "2016"
   },
   {
     "title": "Eets Munchies",
@@ -5248,8 +5069,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "eetsmunchies"
+    "releaseDate": "2014"
   },
   {
     "title": "Eldritch",
@@ -5279,8 +5099,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2013",
-    "slug": "eldritch"
+    "releaseDate": "2013"
   },
   {
     "title": "Ellipsis",
@@ -5310,8 +5129,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "ellipsis"
+    "releaseDate": "2017"
   },
   {
     "title": "Emily is Away Too",
@@ -5342,8 +5160,7 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2017",
-    "slug": "emilyisawaytoo"
+    "releaseDate": "2017"
   },
   {
     "title": "English Country Tune",
@@ -5367,8 +5184,7 @@
       "Indie",
       "Casual"
     ],
-    "releaseDate": "2012",
-    "slug": "englishcountrytune"
+    "releaseDate": "2012"
   },
   {
     "title": "Eon Altar Episode 1",
@@ -5402,8 +5218,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "eonaltarepisode1"
+    "releaseDate": "2016"
   },
   {
     "title": "Epistory - Typing Chronicles",
@@ -5433,8 +5248,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "epistorytypingchronicles"
+    "releaseDate": "2016"
   },
   {
     "title": "Eterium",
@@ -5455,8 +5269,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "eterium"
+    "releaseDate": "2014"
   },
   {
     "title": "Eufloria",
@@ -5481,8 +5294,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "eufloria"
+    "releaseDate": "2014"
   },
   {
     "title": "Euro Truck Simulator",
@@ -5506,8 +5318,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2013",
-    "slug": "eurotrucksimulator"
+    "releaseDate": "2013"
   },
   {
     "title": "Event[0]",
@@ -5533,8 +5344,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "event0"
+    "releaseDate": "2016"
   },
   {
     "title": "FEZ",
@@ -5561,8 +5371,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "fez"
+    "releaseDate": "2013"
   },
   {
     "title": "FEZ",
@@ -5589,8 +5398,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "fez_2"
+    "releaseDate": "2013"
   },
   {
     "title": "FTL: Faster Than Light",
@@ -5619,8 +5427,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "ftlfasterthanlight"
+    "releaseDate": "2012"
   },
   {
     "title": "Faerie Solitaire",
@@ -5645,8 +5452,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2010",
-    "slug": "faeriesolitaire"
+    "releaseDate": "2010"
   },
   {
     "title": "Fez",
@@ -5673,8 +5479,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "fez_2"
+    "releaseDate": "2013"
   },
   {
     "title": "Fidel - Dungeon Rescue",
@@ -5699,16 +5504,14 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "fideldungeonrescue"
+    "releaseDate": "2017"
   },
   {
     "title": "Fieldrunners, BIT.TRIP BEAT, SpaceChem, and Uplink",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "fieldrunnersbittripbeatspacechemanduplink"
+    "genres": []
   },
   {
     "title": "Fight'N Rage",
@@ -5743,8 +5546,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "fightnrage"
+    "releaseDate": "2017"
   },
   {
     "title": "Figment",
@@ -5775,8 +5577,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "figment"
+    "releaseDate": "2017"
   },
   {
     "title": "Finding Paradise",
@@ -5804,8 +5605,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "findingparadise"
+    "releaseDate": "2017"
   },
   {
     "title": "Fish Fillets 2",
@@ -5826,8 +5626,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2010",
-    "slug": "fishfillets2"
+    "releaseDate": "2010"
   },
   {
     "title": "Flat Heroes",
@@ -5860,8 +5659,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "flatheroes"
+    "releaseDate": "2016"
   },
   {
     "title": "Fluffy Horde",
@@ -5889,8 +5687,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "fluffyhorde"
+    "releaseDate": "2018"
   },
   {
     "title": "Forged Battalion",
@@ -5920,8 +5717,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "forgedbattalion"
+    "releaseDate": "2018"
   },
   {
     "title": "Forts",
@@ -5958,8 +5754,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "forts"
+    "releaseDate": "2017"
   },
   {
     "title": "Fractal",
@@ -5984,8 +5779,7 @@
       "Indie",
       "Early Access"
     ],
-    "releaseDate": "2017",
-    "slug": "fractal"
+    "releaseDate": "2017"
   },
   {
     "title": "Fran Bow",
@@ -6013,8 +5807,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "franbow"
+    "releaseDate": "2015"
   },
   {
     "title": "Full Metal Furies",
@@ -6051,8 +5844,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "fullmetalfuries"
+    "releaseDate": "2018"
   },
   {
     "title": "GOD EATER 2 Rage Burst",
@@ -6079,8 +5871,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "godeater2rageburst"
+    "releaseDate": "2016"
   },
   {
     "title": "GRAV (Early Access)",
@@ -6107,8 +5898,7 @@
       "RPG",
       "Early Access"
     ],
-    "releaseDate": "2015",
-    "slug": "gravearlyaccess"
+    "releaseDate": "2015"
   },
   {
     "title": "GRIP: Combat Racing Artifex DLC",
@@ -6141,8 +5931,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2019",
-    "slug": "gripcombatracingartifexdlc"
+    "releaseDate": "2019"
   },
   {
     "title": "Galactic Civilizations® III",
@@ -6173,8 +5962,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "galacticcivilizationsiii"
+    "releaseDate": "2015"
   },
   {
     "title": "Galak-Z",
@@ -6203,8 +5991,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "galakz"
+    "releaseDate": "2015"
   },
   {
     "title": "Game Character Hub",
@@ -6225,8 +6012,7 @@
       "Design & Illustration",
       "Utilities"
     ],
-    "releaseDate": "2014",
-    "slug": "gamecharacterhub"
+    "releaseDate": "2014"
   },
   {
     "title": "Game Guru",
@@ -6253,8 +6039,7 @@
       "Utilities",
       "Game Development"
     ],
-    "releaseDate": "2015",
-    "slug": "gameguru"
+    "releaseDate": "2015"
   },
   {
     "title": "Game Guru: Buildings Pack",
@@ -6277,8 +6062,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2015",
-    "slug": "gamegurubuildingspack"
+    "releaseDate": "2015"
   },
   {
     "title": "Game Guru: Death Valley Pack",
@@ -6302,8 +6086,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "gamegurudeathvalleypack"
+    "releaseDate": "2015"
   },
   {
     "title": "Game Guru: Fantasy Pack",
@@ -6325,8 +6108,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2015",
-    "slug": "gamegurufantasypack"
+    "releaseDate": "2015"
   },
   {
     "title": "Game Guru: Mega Pack 1",
@@ -6350,8 +6132,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2015",
-    "slug": "gamegurumegapack1"
+    "releaseDate": "2015"
   },
   {
     "title": "Game Guru: Megapack 2",
@@ -6376,8 +6157,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2015",
-    "slug": "gamegurumegapack2"
+    "releaseDate": "2015"
   },
   {
     "title": "Game Guru: Megapack 3",
@@ -6401,8 +6181,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2015",
-    "slug": "gamegurumegapack3"
+    "releaseDate": "2015"
   },
   {
     "title": "Gemini Rue",
@@ -6431,8 +6210,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2011",
-    "slug": "geminirue"
+    "releaseDate": "2011"
   },
   {
     "title": "Getting Over It with Bennett Foddy",
@@ -6458,8 +6236,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2017",
-    "slug": "gettingoveritwithbennettfoddy"
+    "releaseDate": "2017"
   },
   {
     "title": "Girls Like Robots",
@@ -6489,8 +6266,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "girlslikerobots"
+    "releaseDate": "2014"
   },
   {
     "title": "Gish",
@@ -6521,8 +6297,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2007",
-    "slug": "gish"
+    "releaseDate": "2007"
   },
   {
     "title": "GoNNER - Press Jump To Die Edition",
@@ -6549,8 +6324,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "gonnerpressjumptodieedition"
+    "releaseDate": "2016"
   },
   {
     "title": "Goats On A Bridge",
@@ -6575,8 +6349,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "goatsonabridge"
+    "releaseDate": "2015"
   },
   {
     "title": "God's Trigger",
@@ -6608,8 +6381,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2019",
-    "slug": "godstrigger"
+    "releaseDate": "2019"
   },
   {
     "title": "Greed Corp",
@@ -6634,8 +6406,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2010",
-    "slug": "greedcorp"
+    "releaseDate": "2010"
   },
   {
     "title": "Gremlins, Inc.",
@@ -6670,8 +6441,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "gremlinsinc"
+    "releaseDate": "2016"
   },
   {
     "title": "Grim Dawn",
@@ -6706,8 +6476,7 @@
       "RPG"
     ],
     "releaseDate": "2016",
-    "contentWarnings": "Killing enemies in the game can result in blood and death fx.",
-    "slug": "grimdawn"
+    "contentWarnings": "Killing enemies in the game can result in blood and death fx."
   },
   {
     "title": "Guacamelee Super Turbo Championship Edition",
@@ -6744,8 +6513,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "guacameleesuperturbochampionshipedition"
+    "releaseDate": "2014"
   },
   {
     "title": "Guacamelee! 2",
@@ -6780,8 +6548,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "guacamelee2"
+    "releaseDate": "2018"
   },
   {
     "title": "Guacamelee! Gold Edition",
@@ -6818,8 +6585,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "guacameleegoldedition"
+    "releaseDate": "2013"
   },
   {
     "title": "Guacamelee! Gold Edition",
@@ -6856,8 +6622,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "guacameleegoldedition_2"
+    "releaseDate": "2013"
   },
   {
     "title": "Gunmetal Arcadia Zero",
@@ -6884,8 +6649,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "gunmetalarcadiazero"
+    "releaseDate": "2016"
   },
   {
     "title": "Guns of Icarus Online",
@@ -6916,8 +6680,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2012",
-    "slug": "gunsoficarusonline"
+    "releaseDate": "2012"
   },
   {
     "title": "HELLDIVERS Ranger Pack DLC",
@@ -6944,8 +6707,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2015",
-    "slug": "helldiversrangerpackdlc"
+    "releaseDate": "2015"
   },
   {
     "title": "HELLDIVERS™",
@@ -6978,16 +6740,14 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2015",
-    "slug": "helldivers"
+    "releaseDate": "2015"
   },
   {
     "title": "HITMAN™: THE COMPLETE FIRST SEASON",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "hitmanthecompletefirstseason"
+    "genres": []
   },
   {
     "title": "HIVESWAP: Act 1",
@@ -7014,8 +6774,7 @@
       "RPG"
     ],
     "releaseDate": "2017",
-    "contentWarnings": "Fantasy Violence, Mild Blood, Suggestive Themes, Language, Alcohol Reference, Comic Mischief. Sequels to HIVESWAP: Act 1 contain increasing levels of mature content.",
-    "slug": "hiveswapact1"
+    "contentWarnings": "Fantasy Violence, Mild Blood, Suggestive Themes, Language, Alcohol Reference, Comic Mischief. Sequels to HIVESWAP: Act 1 contain increasing levels of mature content."
   },
   {
     "title": "HOARD",
@@ -7051,8 +6810,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2011",
-    "slug": "hoard"
+    "releaseDate": "2011"
   },
   {
     "title": "Hacknet",
@@ -7083,8 +6841,7 @@
       "Simulation"
     ],
     "releaseDate": "2015",
-    "contentWarnings": "Contains depictions of computer hacking, some of which have serious implied consequences.",
-    "slug": "hacknet"
+    "contentWarnings": "Contains depictions of computer hacking, some of which have serious implied consequences."
   },
   {
     "title": "HackyZack",
@@ -7110,8 +6867,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2017",
-    "slug": "hackyzack"
+    "releaseDate": "2017"
   },
   {
     "title": "Hand of Fate",
@@ -7142,8 +6898,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "handoffate"
+    "releaseDate": "2015"
   },
   {
     "title": "Hard Reset Redux",
@@ -7169,8 +6924,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2016",
-    "slug": "hardresetredux"
+    "releaseDate": "2016"
   },
   {
     "title": "Hearts of Iron IV",
@@ -7202,8 +6956,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "heartsofironiv"
+    "releaseDate": "2016"
   },
   {
     "title": "Hellblade: Senua's Sacrifice",
@@ -7231,8 +6984,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "hellbladesenuassacrifice"
+    "releaseDate": "2017"
   },
   {
     "title": "Hero Academy",
@@ -7255,8 +7007,7 @@
     "genres": [
       "Indie",
       "Strategy"
-    ],
-    "slug": "heroacademy"
+    ]
   },
   {
     "title": "Hidden Folks",
@@ -7285,8 +7036,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "hiddenfolks"
+    "releaseDate": "2017"
   },
   {
     "title": "HoPiKo",
@@ -7316,8 +7066,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "hopiko"
+    "releaseDate": "2017"
   },
   {
     "title": "Hollow Knight",
@@ -7349,8 +7098,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "hollowknight_2"
+    "releaseDate": "2017"
   },
   {
     "title": "Hollow Knight",
@@ -7382,8 +7130,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "hollowknight_2"
+    "releaseDate": "2017"
   },
   {
     "title": "Holy Potatoes! We're in Space?!",
@@ -7410,8 +7157,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2017",
-    "slug": "holypotatoeswereinspace"
+    "releaseDate": "2017"
   },
   {
     "title": "Hot Tin Roof: The Cat That Wore A Fedora Deluxe",
@@ -7441,8 +7187,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "hottinroofthecatthatworeafedoradeluxe"
+    "releaseDate": "2015"
   },
   {
     "title": "Hotline Miami",
@@ -7471,8 +7216,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "hotlinemiami"
+    "releaseDate": "2012"
   },
   {
     "title": "Hotline Miami 2: Wrong Number",
@@ -7502,8 +7246,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "hotlinemiami2wrongnumber"
+    "releaseDate": "2015"
   },
   {
     "title": "Human Resource Machine",
@@ -7531,24 +7274,21 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "humanresourcemachine"
+    "releaseDate": "2015"
   },
   {
     "title": "Humble Frozenbyte Bundle",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "humblefrozenbytebundle"
+    "genres": []
   },
   {
     "title": "Humble Voxatron Debut",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "humblevoxatrondebut"
+    "genres": []
   },
   {
     "title": "Husk",
@@ -7572,8 +7312,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "husk"
+    "releaseDate": "2017"
   },
   {
     "title": "I am Bread",
@@ -7604,8 +7343,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "iambread"
+    "releaseDate": "2015"
   },
   {
     "title": "I'm not a Monster",
@@ -7634,8 +7372,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "imnotamonster"
+    "releaseDate": "2018"
   },
   {
     "title": "Incredipede",
@@ -7661,8 +7398,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2013",
-    "slug": "incredipede"
+    "releaseDate": "2013"
   },
   {
     "title": "Indie Game: The Movie",
@@ -7687,8 +7423,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "indiegamethemovie"
+    "releaseDate": "2012"
   },
   {
     "title": "Infinifactory",
@@ -7718,8 +7453,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "infinifactory"
+    "releaseDate": "2015"
   },
   {
     "title": "Inside",
@@ -7747,8 +7481,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "inside"
+    "releaseDate": "2016"
   },
   {
     "title": "Interplanetary: Enhanced Edition",
@@ -7780,8 +7513,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "interplanetaryenhancededition"
+    "releaseDate": "2017"
   },
   {
     "title": "Intrusion 2",
@@ -7809,8 +7541,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "intrusion2"
+    "releaseDate": "2012"
   },
   {
     "title": "Invisible, Inc.",
@@ -7839,8 +7570,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "invisibleinc"
+    "releaseDate": "2015"
   },
   {
     "title": "Jack Lumber",
@@ -7868,8 +7598,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "jacklumber"
+    "releaseDate": "2013"
   },
   {
     "title": "Jalopy",
@@ -7894,8 +7623,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2018",
-    "slug": "jalopy"
+    "releaseDate": "2018"
   },
   {
     "title": "Joe Danger 2: The Movie",
@@ -7932,8 +7660,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2013",
-    "slug": "joedanger2themovie"
+    "releaseDate": "2013"
   },
   {
     "title": "Jotun",
@@ -7963,8 +7690,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "jotun"
+    "releaseDate": "2015"
   },
   {
     "title": "JumpJet Rex",
@@ -7999,8 +7725,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2015",
-    "slug": "jumpjetrex"
+    "releaseDate": "2015"
   },
   {
     "title": "JumpJet Rex",
@@ -8035,8 +7760,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2015",
-    "slug": "jumpjetrex_2"
+    "releaseDate": "2015"
   },
   {
     "title": "Kathy Rain",
@@ -8062,8 +7786,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "kathyrain"
+    "releaseDate": "2016"
   },
   {
     "title": "Keep Talking and Nobody Explodes",
@@ -8099,8 +7822,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "keeptalkingandnobodyexplodes"
+    "releaseDate": "2015"
   },
   {
     "title": "Ken Follett's The Pillars of the Earth",
@@ -8130,8 +7852,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "kenfollettsthepillarsoftheearth"
+    "releaseDate": "2017"
   },
   {
     "title": "Kentucky Route Zero",
@@ -8159,8 +7880,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "kentuckyroutezero"
+    "releaseDate": "2013"
   },
   {
     "title": "Kerbal Space Program",
@@ -8188,8 +7908,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "kerbalspaceprogram"
+    "releaseDate": "2015"
   },
   {
     "title": "Kero Blaster",
@@ -8216,8 +7935,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "keroblaster"
+    "releaseDate": "2015"
   },
   {
     "title": "Killing Floor 2",
@@ -8252,8 +7970,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "killingfloor2"
+    "releaseDate": "2016"
   },
   {
     "title": "Kimmy",
@@ -8275,8 +7992,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "kimmy"
+    "releaseDate": "2017"
   },
   {
     "title": "Kingdom Come: Deliverance",
@@ -8304,8 +8020,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "kingdomcomedeliverance"
+    "releaseDate": "2018"
   },
   {
     "title": "Kingdom: New Lands Royal Edition",
@@ -8321,8 +8036,7 @@
       "Windows"
     ],
     "categories": [],
-    "genres": [],
-    "slug": "kingdomnewlandsroyaledition"
+    "genres": []
   },
   {
     "title": "Knytt Underground",
@@ -8348,8 +8062,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "knyttunderground"
+    "releaseDate": "2013"
   },
   {
     "title": "Kona",
@@ -8377,8 +8090,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "kona"
+    "releaseDate": "2017"
   },
   {
     "title": "LIMBO",
@@ -8410,8 +8122,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2011",
-    "slug": "limbo"
+    "releaseDate": "2011"
   },
   {
     "title": "Labyrinthine Dreams",
@@ -8437,8 +8148,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "labyrinthinedreams"
+    "releaseDate": "2015"
   },
   {
     "title": "Lara Croft GO",
@@ -8467,8 +8177,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2016",
-    "slug": "laracroftgo"
+    "releaseDate": "2016"
   },
   {
     "title": "Laser League",
@@ -8499,8 +8208,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2018",
-    "slug": "laserleague"
+    "releaseDate": "2018"
   },
   {
     "title": "Last Day of June",
@@ -8526,8 +8234,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "lastdayofjune"
+    "releaseDate": "2017"
   },
   {
     "title": "Last Day of June",
@@ -8553,8 +8260,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "lastdayofjune_2"
+    "releaseDate": "2017"
   },
   {
     "title": "Last Word",
@@ -8583,8 +8289,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "lastword"
+    "releaseDate": "2015"
   },
   {
     "title": "Late Shift",
@@ -8612,8 +8317,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "lateshift"
+    "releaseDate": "2017"
   },
   {
     "title": "Layers of Fear: Masterpiece Edition",
@@ -8642,8 +8346,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "layersoffearmasterpieceedition"
+    "releaseDate": "2016"
   },
   {
     "title": "Legend of Grimrock",
@@ -8671,8 +8374,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2012",
-    "slug": "legendofgrimrock"
+    "releaseDate": "2012"
   },
   {
     "title": "Legionwood 2: Rise of the Eternal's Realm",
@@ -8696,8 +8398,7 @@
       "Casual",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "legionwood2riseoftheeternalsrealm"
+    "releaseDate": "2014"
   },
   {
     "title": "Life Is Strange™ - Episode 1",
@@ -8725,8 +8426,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2015",
-    "slug": "lifeisstrangeepisode1"
+    "releaseDate": "2015"
   },
   {
     "title": "Life is Strange Complete Season (Episodes 1-5)",
@@ -8742,8 +8442,7 @@
       "Windows"
     ],
     "categories": [],
-    "genres": [],
-    "slug": "lifeisstrangecompleteseasonepisodes15"
+    "genres": []
   },
   {
     "title": "Little Inferno",
@@ -8771,8 +8470,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "littleinferno"
+    "releaseDate": "2012"
   },
   {
     "title": "Little Inferno",
@@ -8800,8 +8498,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "littleinferno_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Little Nightmares",
@@ -8827,8 +8524,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2017",
-    "slug": "littlenightmares"
+    "releaseDate": "2017"
   },
   {
     "title": "Lost Castle",
@@ -8868,8 +8564,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "lostcastle"
+    "releaseDate": "2016"
   },
   {
     "title": "Love is Dead",
@@ -8900,8 +8595,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "loveisdead"
+    "releaseDate": "2018"
   },
   {
     "title": "Luna's Wandering Stars",
@@ -8927,8 +8621,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "lunaswanderingstars"
+    "releaseDate": "2015"
   },
   {
     "title": "MANOS: The Hands of Fate Director's Cut",
@@ -8953,8 +8646,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "manosthehandsoffatedirectorscut"
+    "releaseDate": "2015"
   },
   {
     "title": "METAL GEAR SOLID V: GROUND ZEROES",
@@ -8980,8 +8672,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2014",
-    "slug": "metalgearsolidvgroundzeroes"
+    "releaseDate": "2014"
   },
   {
     "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
@@ -9014,8 +8705,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2015",
-    "slug": "metalgearsolidvthephantompain"
+    "releaseDate": "2015"
   },
   {
     "title": "METAL GEAR SOLID V: The Definitive Experience DLC",
@@ -9029,8 +8719,7 @@
       "Windows"
     ],
     "categories": [],
-    "genres": [],
-    "slug": "metalgearsolidvthedefinitiveexperiencedlc"
+    "genres": []
   },
   {
     "title": "MINIT",
@@ -9059,8 +8748,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "minit"
+    "releaseDate": "2018"
   },
   {
     "title": "MOTHERGUNSHIP",
@@ -9089,8 +8777,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "mothergunship"
+    "releaseDate": "2018"
   },
   {
     "title": "Machinarium",
@@ -9119,8 +8806,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2009",
-    "slug": "machinarium"
+    "releaseDate": "2009"
   },
   {
     "title": "Mafia III",
@@ -9149,8 +8835,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2020",
-    "slug": "mafiaiii"
+    "releaseDate": "2020"
   },
   {
     "title": "Mafia III: Sign of the Times",
@@ -9178,8 +8863,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2017",
-    "slug": "mafiaiiisignofthetimes"
+    "releaseDate": "2017"
   },
   {
     "title": "Maize",
@@ -9201,8 +8885,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "maize"
+    "releaseDate": "2016"
   },
   {
     "title": "Mark of the Ninja",
@@ -9230,8 +8913,7 @@
       "Action",
       "Adventure",
       "Indie"
-    ],
-    "slug": "markoftheninja"
+    ]
   },
   {
     "title": "Mass Effect™ 2",
@@ -9252,8 +8934,7 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2023",
-    "slug": "masseffect2"
+    "releaseDate": "2023"
   },
   {
     "title": "McPixel",
@@ -9280,8 +8961,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "mcpixel"
+    "releaseDate": "2012"
   },
   {
     "title": "Medal of Honor",
@@ -9303,8 +8983,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2010",
-    "slug": "medalofhonor"
+    "releaseDate": "2010"
   },
   {
     "title": "Metrico+",
@@ -9332,8 +9011,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "metrico"
+    "releaseDate": "2016"
   },
   {
     "title": "Mini Metro",
@@ -9365,8 +9043,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "minimetro"
+    "releaseDate": "2015"
   },
   {
     "title": "Minion Masters",
@@ -9402,8 +9079,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2019",
-    "slug": "minionmasters"
+    "releaseDate": "2019"
   },
   {
     "title": "Minute of Islands",
@@ -9429,8 +9105,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2021",
-    "slug": "minuteofislands"
+    "releaseDate": "2021"
   },
   {
     "title": "Mirror's Edge",
@@ -9455,8 +9130,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2009",
-    "slug": "mirrorsedge"
+    "releaseDate": "2009"
   },
   {
     "title": "Momodora: Reverie Under the Moonlight",
@@ -9486,8 +9160,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "momodorareverieunderthemoonlight"
+    "releaseDate": "2016"
   },
   {
     "title": "Monster Loves You",
@@ -9517,8 +9190,7 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2013",
-    "slug": "monsterlovesyou"
+    "releaseDate": "2013"
   },
   {
     "title": "Monster Prom",
@@ -9554,8 +9226,7 @@
       "Simulation"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "Monster Prom features mature themes, naughty words and some objectively bawdy scenarios, not suited for the sheepish or the faint of heart. Please bear this in mind before playing.",
-    "slug": "monsterprom"
+    "contentWarnings": "Monster Prom features mature themes, naughty words and some objectively bawdy scenarios, not suited for the sheepish or the faint of heart. Please bear this in mind before playing."
   },
   {
     "title": "Montague's Mount",
@@ -9584,8 +9255,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "montaguesmount"
+    "releaseDate": "2013"
   },
   {
     "title": "Moon Hunters",
@@ -9622,8 +9292,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "moonhunters"
+    "releaseDate": "2016"
   },
   {
     "title": "Moonlighter",
@@ -9654,8 +9323,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "moonlighter"
+    "releaseDate": "2018"
   },
   {
     "title": "Mordheim City of the Damned",
@@ -9684,8 +9352,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "mordheimcityofthedamned"
+    "releaseDate": "2015"
   },
   {
     "title": "Morphblade",
@@ -9706,8 +9373,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "morphblade"
+    "releaseDate": "2017"
   },
   {
     "title": "Mother Russia Bleeds",
@@ -9745,8 +9411,7 @@
       "Indie"
     ],
     "releaseDate": "2016",
-    "contentWarnings": "Mother Russia Bleeds contains Violence, Blood and Gore, Sexual Themes, Nudity, Use of Drugs, Strong Language.",
-    "slug": "motherrussiableeds"
+    "contentWarnings": "Mother Russia Bleeds contains Violence, Blood and Gore, Sexual Themes, Nudity, Use of Drugs, Strong Language."
   },
   {
     "title": "Move or Die",
@@ -9791,8 +9456,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "moveordie"
+    "releaseDate": "2016"
   },
   {
     "title": "Mr. Shifty",
@@ -9819,8 +9483,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "mrshifty"
+    "releaseDate": "2017"
   },
   {
     "title": "Murdered: Soul Suspect",
@@ -9846,8 +9509,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "murderedsoulsuspect"
+    "releaseDate": "2014"
   },
   {
     "title": "Mushroom 11",
@@ -9874,8 +9536,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "mushroom11"
+    "releaseDate": "2015"
   },
   {
     "title": "Mutant Year Zero: Road to Eden",
@@ -9903,8 +9564,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "mutantyearzeroroadtoeden"
+    "releaseDate": "2018"
   },
   {
     "title": "My Time at Portia",
@@ -9937,8 +9597,7 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2019",
-    "slug": "mytimeatportia"
+    "releaseDate": "2019"
   },
   {
     "title": "NAIRI: Tower of Shirin",
@@ -9960,8 +9619,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "nairitowerofshirin"
+    "releaseDate": "2018"
   },
   {
     "title": "NBA 2K17",
@@ -9987,8 +9645,7 @@
     "genres": [
       "Sports"
     ],
-    "releaseDate": "2016",
-    "slug": "nba2k17"
+    "releaseDate": "2016"
   },
   {
     "title": "NBA Playgrounds",
@@ -10015,8 +9672,7 @@
     "genres": [
       "Sports"
     ],
-    "releaseDate": "2017",
-    "slug": "nbaplaygrounds"
+    "releaseDate": "2017"
   },
   {
     "title": "Neon Chrome",
@@ -10052,8 +9708,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "neonchrome"
+    "releaseDate": "2016"
   },
   {
     "title": "NeuroVoider",
@@ -10090,8 +9745,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "neurovoider"
+    "releaseDate": "2016"
   },
   {
     "title": "Nex Machina",
@@ -10125,8 +9779,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "nexmachina"
+    "releaseDate": "2017"
   },
   {
     "title": "Nightsky",
@@ -10151,8 +9804,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2011",
-    "slug": "nightsky"
+    "releaseDate": "2011"
   },
   {
     "title": "Nightsky",
@@ -10177,8 +9829,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2011",
-    "slug": "nightsky_2"
+    "releaseDate": "2011"
   },
   {
     "title": "Nightsky",
@@ -10203,8 +9854,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2011",
-    "slug": "nightsky_2"
+    "releaseDate": "2011"
   },
   {
     "title": "Ninja Pizza Girl",
@@ -10234,8 +9884,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "ninjapizzagirl"
+    "releaseDate": "2015"
   },
   {
     "title": "No Time to Explain",
@@ -10272,8 +9921,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "notimetoexplain"
+    "releaseDate": "2015"
   },
   {
     "title": "Noita",
@@ -10301,8 +9949,7 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2020",
-    "slug": "noita"
+    "releaseDate": "2020"
   },
   {
     "title": "Nongünz",
@@ -10329,8 +9976,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2021",
-    "slug": "nongnz"
+    "releaseDate": "2021"
   },
   {
     "title": "Northgard",
@@ -10363,8 +10009,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "northgard"
+    "releaseDate": "2018"
   },
   {
     "title": "Nova-111",
@@ -10395,8 +10040,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "nova111"
+    "releaseDate": "2015"
   },
   {
     "title": "Nuclear Throne",
@@ -10430,8 +10074,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "nuclearthrone"
+    "releaseDate": "2015"
   },
   {
     "title": "Nuclear Throne",
@@ -10465,8 +10108,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "nuclearthrone_2"
+    "releaseDate": "2015"
   },
   {
     "title": "ONE PIECE BURNING BLOOD",
@@ -10495,8 +10137,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "onepieceburningblood"
+    "releaseDate": "2016"
   },
   {
     "title": "Octodad Dadliest Catch",
@@ -10533,8 +10174,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "octodaddadliestcatch"
+    "releaseDate": "2014"
   },
   {
     "title": "OddPlanet",
@@ -10555,8 +10195,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "oddplanet"
+    "releaseDate": "2016"
   },
   {
     "title": "Offspring Fling",
@@ -10582,8 +10221,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "offspringfling"
+    "releaseDate": "2012"
   },
   {
     "title": "Offworld Trading Company",
@@ -10620,8 +10258,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "offworldtradingcompany"
+    "releaseDate": "2016"
   },
   {
     "title": "Oil Rush",
@@ -10652,8 +10289,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "oilrush"
+    "releaseDate": "2012"
   },
   {
     "title": "Okhlos",
@@ -10682,8 +10318,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "okhlos"
+    "releaseDate": "2016"
   },
   {
     "title": "Old Man's Journey",
@@ -10708,8 +10343,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "oldmansjourney"
+    "releaseDate": "2017"
   },
   {
     "title": "One Piece Pirate Warriors 3",
@@ -10734,8 +10368,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2015",
-    "slug": "onepiecepiratewarriors3"
+    "releaseDate": "2015"
   },
   {
     "title": "Organ Trail: Director's Cut",
@@ -10763,8 +10396,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "organtraildirectorscut"
+    "releaseDate": "2013"
   },
   {
     "title": "Organ Trail: Director's Cut",
@@ -10792,8 +10424,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "organtraildirectorscut_2"
+    "releaseDate": "2013"
   },
   {
     "title": "Orwell: Keeping an Eye On You",
@@ -10821,8 +10452,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016",
-    "slug": "orwellkeepinganeyeonyou"
+    "releaseDate": "2016"
   },
   {
     "title": "Outlast 2",
@@ -10850,8 +10480,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "outlast2"
+    "releaseDate": "2017"
   },
   {
     "title": "Overcooked",
@@ -10889,8 +10518,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016",
-    "slug": "overcooked"
+    "releaseDate": "2016"
   },
   {
     "title": "Overgrowth",
@@ -10922,8 +10550,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "overgrowth"
+    "releaseDate": "2017"
   },
   {
     "title": "Overgrowth",
@@ -10955,8 +10582,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "overgrowth_2"
+    "releaseDate": "2017"
   },
   {
     "title": "Overgrowth",
@@ -10988,8 +10614,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "overgrowth_2"
+    "releaseDate": "2017"
   },
   {
     "title": "Owlboy",
@@ -11020,8 +10645,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "owlboy"
+    "releaseDate": "2016"
   },
   {
     "title": "Owlboy",
@@ -11052,8 +10676,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "owlboy_2"
+    "releaseDate": "2016"
   },
   {
     "title": "Oxenfree",
@@ -11083,8 +10706,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "oxenfree"
+    "releaseDate": "2016"
   },
   {
     "title": "Papo & Yo",
@@ -11112,8 +10734,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "papoyo"
+    "releaseDate": "2013"
   },
   {
     "title": "Paradigm",
@@ -11140,8 +10761,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "paradigm"
+    "releaseDate": "2017"
   },
   {
     "title": "Paratopic",
@@ -11167,8 +10787,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "paratopic"
+    "releaseDate": "2018"
   },
   {
     "title": "Passpartout: The Starving Artist",
@@ -11195,8 +10814,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2017",
-    "slug": "passpartoutthestarvingartist"
+    "releaseDate": "2017"
   },
   {
     "title": "Pathologic Classic HD",
@@ -11224,8 +10842,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "pathologicclassichd"
+    "releaseDate": "2015"
   },
   {
     "title": "Pillars of Eternity",
@@ -11253,8 +10870,7 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "pillarsofeternity"
+    "releaseDate": "2015"
   },
   {
     "title": "Pirate Pop Plus",
@@ -11282,8 +10898,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "piratepopplus"
+    "releaseDate": "2016"
   },
   {
     "title": "Pitiri 1977",
@@ -11307,8 +10922,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "pitiri1977"
+    "releaseDate": "2014"
   },
   {
     "title": "Plague Inc: Evolved",
@@ -11348,8 +10962,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "plagueincevolved"
+    "releaseDate": "2016"
   },
   {
     "title": "Planet of the Eyes",
@@ -11379,8 +10992,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "planetoftheeyes"
+    "releaseDate": "2015"
   },
   {
     "title": "Planetary Annihilation TITANS",
@@ -11413,8 +11025,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "planetaryannihilationtitans"
+    "releaseDate": "2015"
   },
   {
     "title": "Poly Bridge",
@@ -11447,8 +11058,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016",
-    "slug": "polybridge"
+    "releaseDate": "2016"
   },
   {
     "title": "Pool Panic",
@@ -11477,8 +11087,7 @@
       "Adventure",
       "Sports"
     ],
-    "releaseDate": "2018",
-    "slug": "poolpanic"
+    "releaseDate": "2018"
   },
   {
     "title": "Portal Knights",
@@ -11510,8 +11119,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "portalknights_2"
+    "releaseDate": "2017"
   },
   {
     "title": "Potatoman Seeks the Troof",
@@ -11536,8 +11144,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "potatomanseeksthetroof"
+    "releaseDate": "2014"
   },
   {
     "title": "Primal Carnage: Extinction",
@@ -11574,8 +11181,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "primalcarnageextinction"
+    "releaseDate": "2015"
   },
   {
     "title": "Project CARS",
@@ -11603,8 +11209,7 @@
       "Simulation",
       "Sports"
     ],
-    "releaseDate": "2015",
-    "slug": "projectcars"
+    "releaseDate": "2015"
   },
   {
     "title": "Project CARS 2",
@@ -11630,8 +11235,7 @@
     "genres": [
       "Racing"
     ],
-    "releaseDate": "2017",
-    "slug": "projectcars2"
+    "releaseDate": "2017"
   },
   {
     "title": "Project Highrise",
@@ -11658,8 +11262,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "projecthighrise"
+    "releaseDate": "2016"
   },
   {
     "title": "Proteus",
@@ -11685,8 +11288,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "proteus"
+    "releaseDate": "2013"
   },
   {
     "title": "Prototype",
@@ -11708,16 +11310,14 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2009",
-    "slug": "prototype"
+    "releaseDate": "2009"
   },
   {
     "title": "Psychonauts, Stacking, and Costume Quest",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "psychonautsstackingandcostumequest"
+    "genres": []
   },
   {
     "title": "Purrfect Date - Visual Novel/Dating Simulator",
@@ -11745,8 +11345,7 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2017",
-    "slug": "purrfectdatevisualnoveldatingsimulator"
+    "releaseDate": "2017"
   },
   {
     "title": "Q.U.B.E. 2",
@@ -11775,8 +11374,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "qube2"
+    "releaseDate": "2018"
   },
   {
     "title": "Q.U.B.E: Director's Cut",
@@ -11806,8 +11404,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "qubedirectorscut"
+    "releaseDate": "2014"
   },
   {
     "title": "Quake Champions Early Access plus 50 Shards, 100 Platinum, 2000 Favor",
@@ -11829,8 +11426,7 @@
       "Action",
       "Free to Play"
     ],
-    "releaseDate": "2022",
-    "slug": "quakechampionsearlyaccessplus50shards100platinum2000favor"
+    "releaseDate": "2022"
   },
   {
     "title": "RIVE: Wreck, Hack, Die, Retry",
@@ -11858,8 +11454,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016",
-    "slug": "rivewreckhackdieretry"
+    "releaseDate": "2016"
   },
   {
     "title": "ROCKETSROCKETSROCKETS",
@@ -11897,8 +11492,7 @@
       "Sports",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "rocketsrocketsrockets"
+    "releaseDate": "2015"
   },
   {
     "title": "RPG Maker: Luna Engine",
@@ -11922,8 +11516,7 @@
       "Design & Illustration",
       "Web Publishing"
     ],
-    "releaseDate": "2014",
-    "slug": "rpgmakerlunaengine"
+    "releaseDate": "2014"
   },
   {
     "title": "RPG Maker: VX Ace Deluxe",
@@ -11949,8 +11542,7 @@
       "Web Publishing",
       "Game Development"
     ],
-    "releaseDate": "2012",
-    "slug": "rpgmakervxacedeluxe"
+    "releaseDate": "2012"
   },
   {
     "title": "RUINER",
@@ -11977,8 +11569,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "ruiner"
+    "releaseDate": "2017"
   },
   {
     "title": "Rampage Knights",
@@ -12016,8 +11607,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "rampageknights"
+    "releaseDate": "2015"
   },
   {
     "title": "Random Access Murder",
@@ -12042,8 +11632,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "randomaccessmurder"
+    "releaseDate": "2016"
   },
   {
     "title": "Rapture Rejects",
@@ -12069,16 +11658,14 @@
       "Early Access"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "Cartoon Violence\r\nCartoon Blood\r\nCrude Humor\r\nStrong Language\r\nMild Sexual Themes\r\nDrug and Alcohol use",
-    "slug": "rapturerejects"
+    "contentWarnings": "Cartoon Violence\r\nCartoon Blood\r\nCrude Humor\r\nStrong Language\r\nMild Sexual Themes\r\nDrug and Alcohol use"
   },
   {
     "title": "Rapture Rejects - Humble Exclusive \"Safari Outfit\" DLC",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "rapturerejectshumbleexclusivesafarioutfitdlc"
+    "genres": []
   },
   {
     "title": "Really Big Sky",
@@ -12105,8 +11692,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "reallybigsky"
+    "releaseDate": "2012"
   },
   {
     "title": "Rebel Galaxy",
@@ -12135,8 +11721,7 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "rebelgalaxy"
+    "releaseDate": "2015"
   },
   {
     "title": "Red Faction Guerrilla Re-Mars-tered",
@@ -12162,8 +11747,7 @@
       "Steam Leaderboards"
     ],
     "genres": [],
-    "releaseDate": "2018",
-    "slug": "redfactionguerrillaremarstered"
+    "releaseDate": "2018"
   },
   {
     "title": "Red Faction: Armageddon Path to War DLC",
@@ -12186,8 +11770,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2011",
-    "slug": "redfactionarmageddonpathtowardlc"
+    "releaseDate": "2011"
   },
   {
     "title": "Regions of Ruin",
@@ -12216,8 +11799,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "regionsofruin"
+    "releaseDate": "2018"
   },
   {
     "title": "Regular Human Basketball",
@@ -12251,8 +11833,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2018",
-    "slug": "regularhumanbasketball"
+    "releaseDate": "2018"
   },
   {
     "title": "Remnants of Isolation",
@@ -12277,8 +11858,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "remnantsofisolation"
+    "releaseDate": "2015"
   },
   {
     "title": "Renowned Explorers: International Society",
@@ -12308,8 +11888,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "renownedexplorersinternationalsociety"
+    "releaseDate": "2015"
   },
   {
     "title": "Resident Evil 5 Gold Edition",
@@ -12323,8 +11902,7 @@
       "Windows"
     ],
     "categories": [],
-    "genres": [],
-    "slug": "residentevil5goldedition"
+    "genres": []
   },
   {
     "title": "Resident Evil Revelations",
@@ -12353,8 +11931,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2013",
-    "slug": "residentevilrevelations"
+    "releaseDate": "2013"
   },
   {
     "title": "Retro Game Crunch",
@@ -12383,8 +11960,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "retrogamecrunch"
+    "releaseDate": "2014"
   },
   {
     "title": "Reus",
@@ -12411,8 +11987,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "reus"
+    "releaseDate": "2013"
   },
   {
     "title": "Rising Storm 2: Vietnam + 2 DLCs",
@@ -12444,8 +12019,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "risingstorm2vietnam2dlcs"
+    "releaseDate": "2017"
   },
   {
     "title": "Rituals",
@@ -12469,8 +12043,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "rituals"
+    "releaseDate": "2015"
   },
   {
     "title": "Rivals of Aether",
@@ -12507,8 +12080,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "rivalsofaether"
+    "releaseDate": "2017"
   },
   {
     "title": "Road Redemption",
@@ -12550,8 +12122,7 @@
       "Racing",
       "Simulation"
     ],
-    "releaseDate": "2017",
-    "slug": "roadredemption"
+    "releaseDate": "2017"
   },
   {
     "title": "Robot Roller-Derby Disco Dodgeball",
@@ -12586,8 +12157,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2015",
-    "slug": "robotrollerderbydiscododgeball"
+    "releaseDate": "2015"
   },
   {
     "title": "Rocket Birds: Hardboiled Chicken",
@@ -12620,8 +12190,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "rocketbirdshardboiledchicken"
+    "releaseDate": "2012"
   },
   {
     "title": "Rocketbirds: Hardboiled Chicken",
@@ -12654,8 +12223,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "rocketbirdshardboiledchicken_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Running with Rifles",
@@ -12692,8 +12260,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "runningwithrifles"
+    "releaseDate": "2015"
   },
   {
     "title": "Ryse: Son of Rome",
@@ -12723,8 +12290,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2014",
-    "slug": "rysesonofrome"
+    "releaseDate": "2014"
   },
   {
     "title": "SOMA",
@@ -12756,8 +12322,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "soma"
+    "releaseDate": "2015"
   },
   {
     "title": "SOULCALIBUR VI",
@@ -12789,8 +12354,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2018",
-    "slug": "soulcaliburvi"
+    "releaseDate": "2018"
   },
   {
     "title": "STRAFE: Millennium Edition",
@@ -12817,8 +12381,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "strafemillenniumedition"
+    "releaseDate": "2017"
   },
   {
     "title": "Satellite Reign",
@@ -12855,8 +12418,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "satellitereign"
+    "releaseDate": "2015"
   },
   {
     "title": "Savant - Ascent",
@@ -12882,8 +12444,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "savantascent"
+    "releaseDate": "2013"
   },
   {
     "title": "Scanner Sombre",
@@ -12909,8 +12470,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "scannersombre"
+    "releaseDate": "2017"
   },
   {
     "title": "Secrets of Raetikon",
@@ -12938,8 +12498,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "secretsofraetikon"
+    "releaseDate": "2014"
   },
   {
     "title": "Serial Cleaner",
@@ -12969,8 +12528,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "serialcleaner"
+    "releaseDate": "2017"
   },
   {
     "title": "Seven: The Days Long Gone",
@@ -12997,8 +12555,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "seventhedayslonggone"
+    "releaseDate": "2017"
   },
   {
     "title": "Shadow Tactics: Blades of the Shogun",
@@ -13028,8 +12585,7 @@
       "Strategy"
     ],
     "releaseDate": "2016",
-    "contentWarnings": "Shadow Tactics: Blades of the Shogun is a tactical game about a team of specialists who are tasked with eliminating their opponents by assassinating or sabotaging them. Depending on your style of game play, violence is present: For most missions, there are non-lethal ways to neutralize your opponents, but if you choose to kill them to reach your goal, there will be blood.",
-    "slug": "shadowtacticsbladesoftheshogun"
+    "contentWarnings": "Shadow Tactics: Blades of the Shogun is a tactical game about a team of specialists who are tasked with eliminating their opponents by assassinating or sabotaging them. Depending on your style of game play, violence is present: For most missions, there are non-lethal ways to neutralize your opponents, but if you choose to kill them to reach your goal, there will be blood."
   },
   {
     "title": "Shadow Tactics: Blades of the Shogun",
@@ -13059,8 +12615,7 @@
       "Strategy"
     ],
     "releaseDate": "2016",
-    "contentWarnings": "Shadow Tactics: Blades of the Shogun is a tactical game about a team of specialists who are tasked with eliminating their opponents by assassinating or sabotaging them. Depending on your style of game play, violence is present: For most missions, there are non-lethal ways to neutralize your opponents, but if you choose to kill them to reach your goal, there will be blood.",
-    "slug": "shadowtacticsbladesoftheshogun_2"
+    "contentWarnings": "Shadow Tactics: Blades of the Shogun is a tactical game about a team of specialists who are tasked with eliminating their opponents by assassinating or sabotaging them. Depending on your style of game play, violence is present: For most missions, there are non-lethal ways to neutralize your opponents, but if you choose to kill them to reach your goal, there will be blood."
   },
   {
     "title": "Shank 2",
@@ -13093,8 +12648,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "shank2"
+    "releaseDate": "2012"
   },
   {
     "title": "She Remembered Caterpillars",
@@ -13118,8 +12672,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "sherememberedcaterpillars"
+    "releaseDate": "2017"
   },
   {
     "title": "Sheltered",
@@ -13150,8 +12703,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "sheltered"
+    "releaseDate": "2016"
   },
   {
     "title": "Sherlock Holmes and the Hound of the Baskervilles",
@@ -13172,8 +12724,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2012",
-    "slug": "sherlockholmesandthehoundofthebaskervilles"
+    "releaseDate": "2012"
   },
   {
     "title": "Sherlock Holmes: Mystery of the Mummy",
@@ -13192,8 +12743,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2009",
-    "slug": "sherlockholmesmysteryofthemummy"
+    "releaseDate": "2009"
   },
   {
     "title": "Sherlock Holmes: Nemesis",
@@ -13215,8 +12765,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2008",
-    "slug": "sherlockholmesnemesis"
+    "releaseDate": "2008"
   },
   {
     "title": "Sherlock Holmes: Secret of the Silver Earring",
@@ -13237,8 +12786,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2009",
-    "slug": "sherlockholmessecretofthesilverearring"
+    "releaseDate": "2009"
   },
   {
     "title": "Sherlock Holmes: The Awakened",
@@ -13262,8 +12810,7 @@
       "Adventure"
     ],
     "releaseDate": "2023",
-    "contentWarnings": "The game contains exploration of crime scenes, depiction of blood.",
-    "slug": "sherlockholmestheawakened"
+    "contentWarnings": "The game contains exploration of crime scenes, depiction of blood."
   },
   {
     "title": "Sherlock Holmes: The Devil's Daughter",
@@ -13290,8 +12837,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2016",
-    "slug": "sherlockholmesthedevilsdaughter"
+    "releaseDate": "2016"
   },
   {
     "title": "Sherlock Holmes: The Mystery of the Persian Carpet",
@@ -13311,8 +12857,7 @@
     "genres": [
       "Adventure",
       "Casual"
-    ],
-    "slug": "sherlockholmesthemysteryofthepersiancarpet"
+    ]
   },
   {
     "title": "Shiness: The Lightning Kingdom",
@@ -13341,8 +12886,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "shinessthelightningkingdom"
+    "releaseDate": "2017"
   },
   {
     "title": "Shoppe Keep",
@@ -13373,8 +12917,7 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2016",
-    "slug": "shoppekeep"
+    "releaseDate": "2016"
   },
   {
     "title": "Sid Meier's Civilization® VI",
@@ -13410,8 +12953,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "sidmeierscivilizationvi"
+    "releaseDate": "2016"
   },
   {
     "title": "Silence",
@@ -13439,8 +12981,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "silence"
+    "releaseDate": "2016"
   },
   {
     "title": "SimplePlanes",
@@ -13467,8 +13008,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "simpleplanes"
+    "releaseDate": "2015"
   },
   {
     "title": "Skyborn",
@@ -13493,8 +13033,7 @@
       "Casual",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "skyborn"
+    "releaseDate": "2014"
   },
   {
     "title": "Slay the Spire",
@@ -13528,8 +13067,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2019",
-    "slug": "slaythespire"
+    "releaseDate": "2019"
   },
   {
     "title": "Sleeping Dogs: Definitive Edition",
@@ -13557,8 +13095,7 @@
       "Adventure",
       "Racing"
     ],
-    "releaseDate": "2014",
-    "slug": "sleepingdogsdefinitiveedition"
+    "releaseDate": "2014"
   },
   {
     "title": "Slime-san",
@@ -13596,8 +13133,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "slimesan"
+    "releaseDate": "2017"
   },
   {
     "title": "Slipstream",
@@ -13631,8 +13167,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2018",
-    "slug": "slipstream"
+    "releaseDate": "2018"
   },
   {
     "title": "Small Radios Big Televisions",
@@ -13654,8 +13189,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "smallradiosbigtelevisions"
+    "releaseDate": "2016"
   },
   {
     "title": "Snake Pass",
@@ -13683,8 +13217,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "snakepass"
+    "releaseDate": "2017"
   },
   {
     "title": "Snapshot",
@@ -13709,8 +13242,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "snapshot"
+    "releaseDate": "2012"
   },
   {
     "title": "Sniper Elite",
@@ -13732,8 +13264,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2009",
-    "slug": "sniperelite"
+    "releaseDate": "2009"
   },
   {
     "title": "Sniper Elite 3",
@@ -13762,8 +13293,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2014",
-    "slug": "sniperelite3"
+    "releaseDate": "2014"
   },
   {
     "title": "Sniper Elite V2",
@@ -13788,8 +13318,7 @@
     ],
     "genres": [
       "Action"
-    ],
-    "slug": "sniperelitev2"
+    ]
   },
   {
     "title": "Solar 2",
@@ -13820,8 +13349,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2011",
-    "slug": "solar2"
+    "releaseDate": "2011"
   },
   {
     "title": "Solar 2",
@@ -13852,8 +13380,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2011",
-    "slug": "solar2_2"
+    "releaseDate": "2011"
   },
   {
     "title": "Song of the Deep",
@@ -13879,8 +13406,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2016",
-    "slug": "songofthedeep"
+    "releaseDate": "2016"
   },
   {
     "title": "South Park: The Stick of Truth",
@@ -13907,8 +13433,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "southparkthestickoftruth"
+    "releaseDate": "2014"
   },
   {
     "title": "Space Run Galaxy",
@@ -13934,8 +13459,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "spacerungalaxy"
+    "releaseDate": "2016"
   },
   {
     "title": "SpaceChem",
@@ -13963,8 +13487,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2011",
-    "slug": "spacechem"
+    "releaseDate": "2011"
   },
   {
     "title": "Spirits",
@@ -13991,8 +13514,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "spirits"
+    "releaseDate": "2012"
   },
   {
     "title": "Spirits",
@@ -14019,8 +13541,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "spirits_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Splasher",
@@ -14049,8 +13570,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "splasher"
+    "releaseDate": "2017"
   },
   {
     "title": "Splice",
@@ -14076,8 +13596,7 @@
       "Indie",
       "Casual"
     ],
-    "releaseDate": "2012",
-    "slug": "splice"
+    "releaseDate": "2012"
   },
   {
     "title": "Splice",
@@ -14103,8 +13622,7 @@
       "Indie",
       "Casual"
     ],
-    "releaseDate": "2012",
-    "slug": "splice_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Spoiler Alert Collector's Edition",
@@ -14135,8 +13653,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "spoileralertcollectorsedition"
+    "releaseDate": "2014"
   },
   {
     "title": "Sproggiwood",
@@ -14164,8 +13681,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "sproggiwood"
+    "releaseDate": "2014"
   },
   {
     "title": "Squad (Early Access)",
@@ -14194,8 +13710,7 @@
       "Massively Multiplayer",
       "Strategy"
     ],
-    "releaseDate": "2020",
-    "slug": "squadearlyaccess"
+    "releaseDate": "2020"
   },
   {
     "title": "Stacking",
@@ -14220,8 +13735,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "stacking"
+    "releaseDate": "2012"
   },
   {
     "title": "Starseed Pilgrim",
@@ -14245,8 +13759,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "starseedpilgrim"
+    "releaseDate": "2013"
   },
   {
     "title": "Starward Rogue",
@@ -14273,8 +13786,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "starwardrogue"
+    "releaseDate": "2016"
   },
   {
     "title": "State of Mind",
@@ -14303,8 +13815,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "stateofmind"
+    "releaseDate": "2018"
   },
   {
     "title": "Stealth Bastard Deluxe",
@@ -14333,8 +13844,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "stealthbastarddeluxe"
+    "releaseDate": "2012"
   },
   {
     "title": "Stealth Bastard Deluxe",
@@ -14363,8 +13873,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "stealthbastarddeluxe_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Steamworld Heist",
@@ -14396,8 +13905,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "steamworldheist"
+    "releaseDate": "2016"
   },
   {
     "title": "Steel Rats",
@@ -14426,8 +13934,7 @@
       "Action",
       "Racing"
     ],
-    "releaseDate": "2018",
-    "slug": "steelrats"
+    "releaseDate": "2018"
   },
   {
     "title": "Steredenn",
@@ -14460,8 +13967,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "steredenn"
+    "releaseDate": "2015"
   },
   {
     "title": "Stikbold",
@@ -14499,8 +14005,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2016",
-    "slug": "stikbold"
+    "releaseDate": "2016"
   },
   {
     "title": "Stories Untold",
@@ -14525,8 +14030,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "storiesuntold"
+    "releaseDate": "2017"
   },
   {
     "title": "Streamline Early Access",
@@ -14550,8 +14054,7 @@
       "Early Access"
     ],
     "releaseDate": "Coming soon",
-    "contentWarnings": "-Depictions of blood\r\n-Graphic and realistic-looking depictions of physical conflict. May involve extreme and/or realistic blood, gore, weapons and depictions of human injury and death\r\n-Depictions or dialogue involving slapstick or suggestive humor",
-    "slug": "streamlineearlyaccess"
+    "contentWarnings": "-Depictions of blood\r\n-Graphic and realistic-looking depictions of physical conflict. May involve extreme and/or realistic blood, gore, weapons and depictions of human injury and death\r\n-Depictions or dialogue involving slapstick or suggestive humor"
   },
   {
     "title": "Strike Suit Zero",
@@ -14585,8 +14088,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2013",
-    "slug": "strikesuitzero"
+    "releaseDate": "2013"
   },
   {
     "title": "Styx: Master of Shadows",
@@ -14612,8 +14114,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2014",
-    "slug": "styxmasterofshadows"
+    "releaseDate": "2014"
   },
   {
     "title": "Styx: Shards of Darkness",
@@ -14643,8 +14144,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2017",
-    "slug": "styxshardsofdarkness"
+    "releaseDate": "2017"
   },
   {
     "title": "Subterrain",
@@ -14670,8 +14170,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "subterrain"
+    "releaseDate": "2016"
   },
   {
     "title": "Sudden Strike 4",
@@ -14705,8 +14204,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "suddenstrike4"
+    "releaseDate": "2017"
   },
   {
     "title": "Sundered",
@@ -14741,8 +14239,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "sundered"
+    "releaseDate": "2017"
   },
   {
     "title": "Super Daryl Deluxe",
@@ -14774,8 +14271,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "superdaryldeluxe"
+    "releaseDate": "2018"
   },
   {
     "title": "Super Galaxy Squadron EX",
@@ -14801,8 +14297,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "supergalaxysquadronex"
+    "releaseDate": "2015"
   },
   {
     "title": "Super Hexagon",
@@ -14827,8 +14322,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "superhexagon"
+    "releaseDate": "2012"
   },
   {
     "title": "Super Hexagon",
@@ -14853,8 +14347,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "superhexagon_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Super Rude Bear Resurrection",
@@ -14883,8 +14376,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "superrudebearresurrection"
+    "releaseDate": "2017"
   },
   {
     "title": "Superbrothers: Sword & Sworcery EP",
@@ -14910,8 +14402,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "superbrothersswordsworceryep"
+    "releaseDate": "2012"
   },
   {
     "title": "Superbrothers: Sword & Sworcery EP",
@@ -14937,8 +14428,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "superbrothersswordsworceryep_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Superbrothers: Sword & Sworcery EP",
@@ -14964,16 +14454,14 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "superbrothersswordsworceryep_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Superfrog HD",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "superfroghd"
+    "genres": []
   },
   {
     "title": "Surgeon Simulator 2013",
@@ -15001,8 +14489,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2013",
-    "slug": "surgeonsimulator2013"
+    "releaseDate": "2013"
   },
   {
     "title": "Surviving Mars",
@@ -15032,8 +14519,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "survivingmars"
+    "releaseDate": "2018"
   },
   {
     "title": "Sweet Lily Dreams",
@@ -15058,8 +14544,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "sweetlilydreams"
+    "releaseDate": "2014"
   },
   {
     "title": "Switchcars",
@@ -15083,8 +14568,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2021",
-    "slug": "switchcars"
+    "releaseDate": "2021"
   },
   {
     "title": "Sword Legacy Omen",
@@ -15110,8 +14594,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "swordlegacyomen"
+    "releaseDate": "2018"
   },
   {
     "title": "Swords & Soldiers HD",
@@ -15139,8 +14622,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2010",
-    "slug": "swordssoldiershd"
+    "releaseDate": "2010"
   },
   {
     "title": "Swords and Soldiers 2 Shawarmageddon",
@@ -15174,16 +14656,14 @@
       "Strategy"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "Contains cartoon violence and mild language. References to alcohol.",
-    "slug": "swordsandsoldiers2shawarmageddon"
+    "contentWarnings": "Contains cartoon violence and mild language. References to alcohol."
   },
   {
     "title": "System Shock Pack",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "systemshockpack"
+    "genres": []
   },
   {
     "title": "THOTH",
@@ -15213,8 +14693,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "thoth"
+    "releaseDate": "2016"
   },
   {
     "title": "TIMEframe",
@@ -15239,8 +14718,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "timeframe"
+    "releaseDate": "2015"
   },
   {
     "title": "TIS-100",
@@ -15267,8 +14745,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "tis100"
+    "releaseDate": "2015"
   },
   {
     "title": "Tacoma",
@@ -15297,8 +14774,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "tacoma"
+    "releaseDate": "2017"
   },
   {
     "title": "Tannenberg",
@@ -15332,8 +14808,7 @@
       "Simulation"
     ],
     "releaseDate": "2017",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content.\r\nGore and blood can be disabled completely with an in-game setting.\r\n",
-    "slug": "tannenberg"
+    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content.\r\nGore and blood can be disabled completely with an in-game setting.\r\n"
   },
   {
     "title": "Team Indie",
@@ -15358,8 +14833,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "teamindie"
+    "releaseDate": "2014"
   },
   {
     "title": "Technobabylon",
@@ -15388,16 +14862,14 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "technobabylon"
+    "releaseDate": "2015"
   },
   {
     "title": "Telltale Games",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "telltalegames"
+    "genres": []
   },
   {
     "title": "Teslagrad",
@@ -15425,8 +14897,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "teslagrad"
+    "releaseDate": "2013"
   },
   {
     "title": "The Adventure Pals",
@@ -15462,8 +14933,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "theadventurepals"
+    "releaseDate": "2018"
   },
   {
     "title": "The Banner Saga",
@@ -15495,8 +14965,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "thebannersaga"
+    "releaseDate": "2014"
   },
   {
     "title": "The Bard's Tale",
@@ -15524,8 +14993,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2009",
-    "slug": "thebardstale"
+    "releaseDate": "2009"
   },
   {
     "title": "The Bard's Tale",
@@ -15553,8 +15021,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2009",
-    "slug": "thebardstale_2"
+    "releaseDate": "2009"
   },
   {
     "title": "The Basement Collection",
@@ -15577,8 +15044,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "thebasementcollection"
+    "releaseDate": "2012"
   },
   {
     "title": "The Binding of Isaac + Wrath of the Lamb DLC",
@@ -15593,8 +15059,7 @@
       "Windows"
     ],
     "categories": [],
-    "genres": [],
-    "slug": "thebindingofisaacwrathofthelambdlc"
+    "genres": []
   },
   {
     "title": "The Chaos Engine",
@@ -15627,8 +15092,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2013",
-    "slug": "thechaosengine"
+    "releaseDate": "2013"
   },
   {
     "title": "The Dwarves",
@@ -15654,8 +15118,7 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "thedwarves"
+    "releaseDate": "2016"
   },
   {
     "title": "The Elder Scrolls Online: Tamriel Unlimited",
@@ -15690,8 +15153,7 @@
       "RPG"
     ],
     "releaseDate": "2017",
-    "contentWarnings": "Blood and gore\r\nSexual themes\r\nUse of alcohol\r\nViolence",
-    "slug": "theelderscrollsonlinetamrielunlimited"
+    "contentWarnings": "Blood and gore\r\nSexual themes\r\nUse of alcohol\r\nViolence"
   },
   {
     "title": "The Escapists - Alcatraz",
@@ -15721,8 +15183,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "theescapistsalcatraz"
+    "releaseDate": "2015"
   },
   {
     "title": "The Escapists - Base Game",
@@ -15754,8 +15215,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "theescapistsbasegame"
+    "releaseDate": "2015"
   },
   {
     "title": "The Escapists - Duct Tapes are Forever",
@@ -15787,8 +15247,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "theescapistsducttapesareforever"
+    "releaseDate": "2015"
   },
   {
     "title": "The Escapists - Escape Team",
@@ -15820,8 +15279,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "theescapistsescapeteam"
+    "releaseDate": "2015"
   },
   {
     "title": "The Escapists - Fhurst Peak",
@@ -15852,8 +15310,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "theescapistsfhurstpeak"
+    "releaseDate": "2015"
   },
   {
     "title": "The Escapists 2",
@@ -15895,8 +15352,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "theescapists2"
+    "releaseDate": "2017"
   },
   {
     "title": "The Final Station",
@@ -15927,8 +15383,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "thefinalstation"
+    "releaseDate": "2016"
   },
   {
     "title": "The Flame in the Flood",
@@ -15957,8 +15412,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "theflameintheflood"
+    "releaseDate": "2016"
   },
   {
     "title": "The Forest",
@@ -15991,8 +15445,7 @@
       "Simulation"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "The Forest contains intense violence, blood and gore, as well as horror themes and occasional nudity.",
-    "slug": "theforest"
+    "contentWarnings": "The Forest contains intense violence, blood and gore, as well as horror themes and occasional nudity."
   },
   {
     "title": "The Incredible Adventures of Van Helsing: Final Cut",
@@ -16024,8 +15477,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "theincredibleadventuresofvanhelsingfinalcut"
+    "releaseDate": "2015"
   },
   {
     "title": "The Jackbox Party Pack 2",
@@ -16061,8 +15513,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "thejackboxpartypack2"
+    "releaseDate": "2015"
   },
   {
     "title": "The Journey Down: Chapter Three",
@@ -16086,8 +15537,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "thejourneydownchapterthree"
+    "releaseDate": "2017"
   },
   {
     "title": "The Last Remnant",
@@ -16107,8 +15557,7 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2009",
-    "slug": "thelastremnant"
+    "releaseDate": "2009"
   },
   {
     "title": "The Magic Circle",
@@ -16139,8 +15588,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "themagiccircle"
+    "releaseDate": "2015"
   },
   {
     "title": "The Norwood Suite",
@@ -16167,8 +15615,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "thenorwoodsuite"
+    "releaseDate": "2017"
   },
   {
     "title": "The Red Solstice",
@@ -16203,8 +15650,7 @@
       "Strategy"
     ],
     "releaseDate": "2015",
-    "contentWarnings": "Blood from killing creatures and player deaths.",
-    "slug": "theredsolstice"
+    "contentWarnings": "Blood from killing creatures and player deaths."
   },
   {
     "title": "The Sexy Brutale",
@@ -16231,8 +15677,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "thesexybrutale"
+    "releaseDate": "2017"
   },
   {
     "title": "The Shrouded Isle",
@@ -16257,8 +15702,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2017",
-    "slug": "theshroudedisle"
+    "releaseDate": "2017"
   },
   {
     "title": "The Stanley Parable",
@@ -16289,8 +15733,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "thestanleyparable"
+    "releaseDate": "2013"
   },
   {
     "title": "The Surge",
@@ -16317,8 +15760,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "thesurge"
+    "releaseDate": "2017"
   },
   {
     "title": "The Swapper",
@@ -16347,8 +15789,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "theswapper"
+    "releaseDate": "2013"
   },
   {
     "title": "The Swapper",
@@ -16377,8 +15818,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "theswapper_2"
+    "releaseDate": "2013"
   },
   {
     "title": "The Turing Test",
@@ -16404,8 +15844,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2016",
-    "slug": "theturingtest"
+    "releaseDate": "2016"
   },
   {
     "title": "The Walking Dead",
@@ -16430,8 +15869,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2012",
-    "slug": "thewalkingdead"
+    "releaseDate": "2012"
   },
   {
     "title": "Thirty Flights of Loving",
@@ -16457,8 +15895,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "thirtyflightsofloving"
+    "releaseDate": "2012"
   },
   {
     "title": "This War of Mine",
@@ -16488,8 +15925,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2014",
-    "slug": "thiswarofmine"
+    "releaseDate": "2014"
   },
   {
     "title": "This is the Police",
@@ -16518,8 +15954,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "thisisthepolice"
+    "releaseDate": "2016"
   },
   {
     "title": "Thomas Was Alone",
@@ -16544,8 +15979,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "thomaswasalone"
+    "releaseDate": "2012"
   },
   {
     "title": "Ticket to Ride",
@@ -16579,8 +16013,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "tickettoride"
+    "releaseDate": "2012"
   },
   {
     "title": "Ticket to Ride 1910 USA DLC",
@@ -16615,8 +16048,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "tickettoride1910usadlc"
+    "releaseDate": "2012"
   },
   {
     "title": "Ticket to Ride Europe DLC",
@@ -16651,8 +16083,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "tickettorideeuropedlc"
+    "releaseDate": "2012"
   },
   {
     "title": "Timespinner",
@@ -16687,8 +16118,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "timespinner"
+    "releaseDate": "2018"
   },
   {
     "title": "Tiny Echo",
@@ -16713,8 +16143,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "tinyecho"
+    "releaseDate": "2017"
   },
   {
     "title": "Tiny and Big in Grandpa's Leftovers",
@@ -16743,8 +16172,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "tinyandbigingrandpasleftovers"
+    "releaseDate": "2012"
   },
   {
     "title": "Titan Quest",
@@ -16776,8 +16204,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "titanquest"
+    "releaseDate": "2016"
   },
   {
     "title": "Titan Quest: Anniversary Edition + Titan Quest: Ragnarok DLC",
@@ -16809,8 +16236,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "titanquestanniversaryeditiontitanquestragnarokdlc"
+    "releaseDate": "2016"
   },
   {
     "title": "To the Moon",
@@ -16839,8 +16265,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2012",
-    "slug": "tothemoon"
+    "releaseDate": "2012"
   },
   {
     "title": "Toki Tori 2+",
@@ -16871,8 +16296,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "tokitori2"
+    "releaseDate": "2013"
   },
   {
     "title": "Toki Tori",
@@ -16900,8 +16324,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2010",
-    "slug": "tokitori"
+    "releaseDate": "2010"
   },
   {
     "title": "Tomb Raider",
@@ -16933,8 +16356,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2013",
-    "slug": "tombraider"
+    "releaseDate": "2013"
   },
   {
     "title": "Torment: Tides of Numenera",
@@ -16964,8 +16386,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "tormenttidesofnumenera"
+    "releaseDate": "2017"
   },
   {
     "title": "Total War: WARHAMMER",
@@ -16999,8 +16420,7 @@
       "Action",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "totalwarwarhammer"
+    "releaseDate": "2016"
   },
   {
     "title": "Tower Unite",
@@ -17040,8 +16460,7 @@
       "Racing",
       "Early Access"
     ],
-    "releaseDate": "2016",
-    "slug": "towerunite"
+    "releaseDate": "2016"
   },
   {
     "title": "Tower of Guns",
@@ -17069,8 +16488,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "towerofguns"
+    "releaseDate": "2014"
   },
   {
     "title": "Town of Salem",
@@ -17097,8 +16515,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "townofsalem"
+    "releaseDate": "2014"
   },
   {
     "title": "Train Valley",
@@ -17129,8 +16546,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "trainvalley"
+    "releaseDate": "2015"
   },
   {
     "title": "Train Valley 2",
@@ -17161,8 +16577,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2019",
-    "slug": "trainvalley2"
+    "releaseDate": "2019"
   },
   {
     "title": "Trainz Simulator 12",
@@ -17186,8 +16601,7 @@
     "genres": [
       "Simulation"
     ],
-    "releaseDate": "2011",
-    "slug": "trainzsimulator12"
+    "releaseDate": "2011"
   },
   {
     "title": "Tricky Towers",
@@ -17224,8 +16638,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "trickytowers"
+    "releaseDate": "2016"
   },
   {
     "title": "Trine 2: Complete Story",
@@ -17266,8 +16679,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "trine2completestory"
+    "releaseDate": "2013"
   },
   {
     "title": "Tumblestone",
@@ -17307,8 +16719,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "tumblestone"
+    "releaseDate": "2016"
   },
   {
     "title": "Undertale",
@@ -17335,8 +16746,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "undertale_2"
+    "releaseDate": "2015"
   },
   {
     "title": "Uurnog Uurnlimited",
@@ -17364,8 +16774,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "uurnoguurnlimited"
+    "releaseDate": "2017"
   },
   {
     "title": "VVVVVV",
@@ -17393,8 +16802,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2010",
-    "slug": "vvvvvv"
+    "releaseDate": "2010"
   },
   {
     "title": "Vikings - Wolves of Midgard",
@@ -17426,8 +16834,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "vikingswolvesofmidgard"
+    "releaseDate": "2017"
   },
   {
     "title": "Volgarr the Viking",
@@ -17457,8 +16864,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "volgarrtheviking"
+    "releaseDate": "2013"
   },
   {
     "title": "WWE 2K16",
@@ -17484,8 +16890,7 @@
       "Simulation",
       "Sports"
     ],
-    "releaseDate": "2016",
-    "slug": "wwe2k16"
+    "releaseDate": "2016"
   },
   {
     "title": "Waking",
@@ -17508,8 +16913,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2020",
-    "slug": "waking"
+    "releaseDate": "2020"
   },
   {
     "title": "Waking Mars",
@@ -17537,8 +16941,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "wakingmars"
+    "releaseDate": "2012"
   },
   {
     "title": "Waking Mars",
@@ -17566,8 +16969,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "wakingmars_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Waking Mars",
@@ -17595,8 +16997,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "wakingmars_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Wandersong",
@@ -17623,8 +17024,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "wandersong"
+    "releaseDate": "2018"
   },
   {
     "title": "War for the Overworld",
@@ -17659,8 +17059,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "warfortheoverworld"
+    "releaseDate": "2015"
   },
   {
     "title": "Wargame: Red Dragon",
@@ -17692,8 +17091,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "wargamereddragon"
+    "releaseDate": "2014"
   },
   {
     "title": "Warhammer 40,000: Dawn of War III",
@@ -17727,8 +17125,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "warhammer40000dawnofwariii"
+    "releaseDate": "2017"
   },
   {
     "title": "Warhammer 40,000: Mechanicus",
@@ -17756,8 +17153,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "warhammer40000mechanicus"
+    "releaseDate": "2018"
   },
   {
     "title": "Warhammer: End Times - Vermintide",
@@ -17787,8 +17183,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "warhammerendtimesvermintide"
+    "releaseDate": "2015"
   },
   {
     "title": "Warhammer: End Times - Vermintide Schluesselschloss DLC",
@@ -17816,16 +17211,14 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "warhammerendtimesvermintideschluesselschlossdlc"
+    "releaseDate": "2016"
   },
   {
     "title": "Warhammer: End Times - Vermintide The Outsider DLC",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "warhammerendtimesvermintidetheoutsiderdlc"
+    "genres": []
   },
   {
     "title": "Warhammer: Vermintide 2 - Collector's Edition",
@@ -17853,8 +17246,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "warhammervermintide2collectorsedition"
+    "releaseDate": "2018"
   },
   {
     "title": "Warhammer® 40,000: Dawn of War",
@@ -17878,8 +17270,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2007",
-    "slug": "warhammer40000dawnofwar"
+    "releaseDate": "2007"
   },
   {
     "title": "Wasted",
@@ -17907,8 +17298,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "wasted"
+    "releaseDate": "2016"
   },
   {
     "title": "Wasteland 2: Director's Cut - Classic Edition",
@@ -17938,8 +17328,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "wasteland2directorscutclassicedition"
+    "releaseDate": "2014"
   },
   {
     "title": "Wasteland 2: Director’s Cut - Classic Edition",
@@ -17969,8 +17358,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "wasteland2directorscutclassicedition_2"
+    "releaseDate": "2014"
   },
   {
     "title": "We Were Here Too",
@@ -18000,8 +17388,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "wewereheretoo"
+    "releaseDate": "2018"
   },
   {
     "title": "Westerado: Double Barreled",
@@ -18034,8 +17421,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "westeradodoublebarreled"
+    "releaseDate": "2015"
   },
   {
     "title": "Western Press",
@@ -18067,16 +17453,14 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "westernpress"
+    "releaseDate": "2016"
   },
   {
     "title": "Western Press Mk Cans II Character DLC",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "westernpressmkcansiicharacterdlc"
+    "genres": []
   },
   {
     "title": "Whisper Of A Rose",
@@ -18102,8 +17486,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "whisperofarose"
+    "releaseDate": "2014"
   },
   {
     "title": "Wildlife Park 3",
@@ -18130,8 +17513,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "wildlifepark3"
+    "releaseDate": "2014"
   },
   {
     "title": "Windosill",
@@ -18154,8 +17536,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2009",
-    "slug": "windosill"
+    "releaseDate": "2009"
   },
   {
     "title": "Windward",
@@ -18188,8 +17569,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "windward"
+    "releaseDate": "2015"
   },
   {
     "title": "Wizard of Legend",
@@ -18226,16 +17606,14 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "wizardoflegend"
+    "releaseDate": "2018"
   },
   {
     "title": "Wizorb, BIT.TRIP.RUNNER, Gratuitous Space Battles, and Jamestown",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "wizorbbittriprunnergratuitousspacebattlesandjamestown"
+    "genres": []
   },
   {
     "title": "World Of Goo",
@@ -18261,8 +17639,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2008",
-    "slug": "worldofgoo"
+    "releaseDate": "2008"
   },
   {
     "title": "World of Goo",
@@ -18288,16 +17665,14 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2008",
-    "slug": "worldofgoo_2"
+    "releaseDate": "2008"
   },
   {
     "title": "World of Goo, Anomaly, Osmos, and EDGE",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "worldofgooanomalyosmosandedge"
+    "genres": []
   },
   {
     "title": "World to the West",
@@ -18328,8 +17703,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017",
-    "slug": "worldtothewest"
+    "releaseDate": "2017"
   },
   {
     "title": "Worms Armageddon",
@@ -18354,8 +17728,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "wormsarmageddon"
+    "releaseDate": "2013"
   },
   {
     "title": "Worms Blast",
@@ -18377,8 +17750,7 @@
       "Casual",
       "Strategy"
     ],
-    "releaseDate": "2011",
-    "slug": "wormsblast"
+    "releaseDate": "2011"
   },
   {
     "title": "Worms Crazy Golf",
@@ -18402,8 +17774,7 @@
       "Sports",
       "Strategy"
     ],
-    "releaseDate": "2011",
-    "slug": "wormscrazygolf"
+    "releaseDate": "2011"
   },
   {
     "title": "Worms Pinball",
@@ -18423,8 +17794,7 @@
     "genres": [
       "Casual"
     ],
-    "releaseDate": "2011",
-    "slug": "wormspinball"
+    "releaseDate": "2011"
   },
   {
     "title": "Worms Reloaded",
@@ -18456,8 +17826,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2010",
-    "slug": "wormsreloaded"
+    "releaseDate": "2010"
   },
   {
     "title": "Worms Revolution Gold",
@@ -18471,8 +17840,7 @@
       "Windows"
     ],
     "categories": [],
-    "genres": [],
-    "slug": "wormsrevolutiongold"
+    "genres": []
   },
   {
     "title": "Worms Ultimate Mayhem",
@@ -18501,8 +17869,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2011",
-    "slug": "wormsultimatemayhem"
+    "releaseDate": "2011"
   },
   {
     "title": "Worms W.M.D",
@@ -18541,8 +17908,7 @@
       "Action",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "wormswmd"
+    "releaseDate": "2016"
   },
   {
     "title": "Wuppo",
@@ -18576,8 +17942,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "wuppo"
+    "releaseDate": "2016"
   },
   {
     "title": "XCOM® 2",
@@ -18605,8 +17970,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "xcom2"
+    "releaseDate": "2016"
   },
   {
     "title": "Yakuza 0",
@@ -18639,8 +18003,7 @@
       "RPG"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "The game contains the following items that may not be suitable for all audiences: \r\nBlood, Intense Violence, Sexual Content, Strong Language, Use of Alcohol",
-    "slug": "yakuza0"
+    "contentWarnings": "The game contains the following items that may not be suitable for all audiences: \r\nBlood, Intense Violence, Sexual Content, Strong Language, Use of Alcohol"
   },
   {
     "title": "Yakuza Kiwami",
@@ -18671,8 +18034,7 @@
       "RPG"
     ],
     "releaseDate": "2019",
-    "contentWarnings": "The game may contain following contents not suitable for all audiences:\r\nBlood\r\nIntense Violence\r\nPartial Nudity\r\nSexual Themes\r\nStrong Language\r\nUse of Alcohol ",
-    "slug": "yakuzakiwami"
+    "contentWarnings": "The game may contain following contents not suitable for all audiences:\r\nBlood\r\nIntense Violence\r\nPartial Nudity\r\nSexual Themes\r\nStrong Language\r\nUse of Alcohol "
   },
   {
     "title": "Yoku's Island Express",
@@ -18699,8 +18061,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "yokusislandexpress"
+    "releaseDate": "2018"
   },
   {
     "title": "Yooka-Laylee",
@@ -18738,8 +18099,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "yookalaylee"
+    "releaseDate": "2017"
   },
   {
     "title": "Zen Bound 2",
@@ -18764,8 +18124,7 @@
       "Indie",
       "Casual"
     ],
-    "releaseDate": "2010",
-    "slug": "zenbound2"
+    "releaseDate": "2010"
   },
   {
     "title": "Ziggurat",
@@ -18797,8 +18156,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2014",
-    "slug": "ziggurat"
+    "releaseDate": "2014"
   },
   {
     "title": "Zombie Army Trilogy",
@@ -18827,8 +18185,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2015",
-    "slug": "zombiearmytrilogy"
+    "releaseDate": "2015"
   },
   {
     "title": "Zombie Night Terror",
@@ -18858,8 +18215,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2016",
-    "slug": "zombienightterror"
+    "releaseDate": "2016"
   },
   {
     "title": "shutshimi",
@@ -18890,8 +18246,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "shutshimi"
+    "releaseDate": "2015"
   },
   {
     "title": ">observer_",
@@ -18916,8 +18271,7 @@
       "Indie"
     ],
     "releaseDate": "2020",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. Frequent violence, gore, and general mature content.",
-    "slug": "observer_2"
+    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. Frequent violence, gore, and general mature content."
   },
   {
     "title": "112 Operator ",
@@ -18944,8 +18298,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2020",
-    "slug": "112operator"
+    "releaseDate": "2020"
   },
   {
     "title": "911 Operator",
@@ -18976,8 +18329,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "911operator_2"
+    "releaseDate": "2017"
   },
   {
     "title": "A New Beginning - Final Cut",
@@ -19001,8 +18353,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "anewbeginningfinalcut"
+    "releaseDate": "2012"
   },
   {
     "title": "Age of Wonders III",
@@ -19036,8 +18387,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "ageofwondersiii"
+    "releaseDate": "2014"
   },
   {
     "title": "Agent in Depth",
@@ -19064,8 +18414,7 @@
       "Indie",
       "Early Access"
     ],
-    "releaseDate": "2023",
-    "slug": "agentindepth"
+    "releaseDate": "2023"
   },
   {
     "title": "Alchemist's Castle",
@@ -19091,8 +18440,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "alchemistscastle"
+    "releaseDate": "2017"
   },
   {
     "title": "All You Can Eat",
@@ -19119,8 +18467,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "allyoucaneat"
+    "releaseDate": "2017"
   },
   {
     "title": "Anna's Quest",
@@ -19148,8 +18495,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "annasquest"
+    "releaseDate": "2015"
   },
   {
     "title": "Arcade Spirits",
@@ -19174,8 +18520,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2019",
-    "slug": "arcadespirits"
+    "releaseDate": "2019"
   },
   {
     "title": "Armello",
@@ -19212,8 +18557,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "armello_2"
+    "releaseDate": "2015"
   },
   {
     "title": "Armello",
@@ -19250,8 +18594,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "armello_2"
+    "releaseDate": "2015"
   },
   {
     "title": "Backbone",
@@ -19278,8 +18621,7 @@
       "Indie"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "Backbone heavily features strong language, themes of violence, systemic racism and sexism, drug abuse, depression, terminal illness, body horror, death. All imagery is suggestive and not direct, but we would still never recommend this game to children.",
-    "slug": "backbone"
+    "contentWarnings": "Backbone heavily features strong language, themes of violence, systemic racism and sexism, drug abuse, depression, terminal illness, body horror, death. All imagery is suggestive and not direct, but we would still never recommend this game to children."
   },
   {
     "title": "BioShock™ Remastered",
@@ -19309,16 +18651,14 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "bioshockremastered_2"
+    "releaseDate": "2016"
   },
   {
     "title": "Bone - Episode 1 & Episode 2",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "boneepisode1episode2"
+    "genres": []
   },
   {
     "title": "Bounty Train",
@@ -19344,8 +18684,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "bountytrain"
+    "releaseDate": "2017"
   },
   {
     "title": "Broken Age",
@@ -19373,8 +18712,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "brokenage"
+    "releaseDate": "2014"
   },
   {
     "title": "Cats and the Other Lives",
@@ -19396,8 +18734,7 @@
       "Adventure"
     ],
     "releaseDate": "2022",
-    "contentWarnings": "This game contains strong language, sex, self-harm and references to drug and alcohol abuse.",
-    "slug": "catsandtheotherlives"
+    "contentWarnings": "This game contains strong language, sex, self-harm and references to drug and alcohol abuse."
   },
   {
     "title": "Company of Heroes 2",
@@ -19430,8 +18767,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "companyofheroes2"
+    "releaseDate": "2013"
   },
   {
     "title": "Cosmic Express",
@@ -19456,8 +18792,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "cosmicexpress"
+    "releaseDate": "2017"
   },
   {
     "title": "Cris Tales",
@@ -19481,8 +18816,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2021",
-    "slug": "cristales"
+    "releaseDate": "2021"
   },
   {
     "title": "Crowntakers",
@@ -19511,8 +18845,7 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2014",
-    "slug": "crowntakers"
+    "releaseDate": "2014"
   },
   {
     "title": "Death Squared",
@@ -19549,16 +18882,14 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "deathsquared"
+    "releaseDate": "2017"
   },
   {
     "title": "Deponia Doomsday Soundtrack",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "deponiadoomsdaysoundtrack"
+    "genres": []
   },
   {
     "title": "Deponia Doomsday",
@@ -19587,8 +18918,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "deponiadoomsday_2"
+    "releaseDate": "2016"
   },
   {
     "title": "Deponia: The Complete Journey",
@@ -19616,8 +18946,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2014",
-    "slug": "deponiathecompletejourney"
+    "releaseDate": "2014"
   },
   {
     "title": "Detached: Non-VR Edition",
@@ -19647,8 +18976,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2018",
-    "slug": "detachednonvredition"
+    "releaseDate": "2018"
   },
   {
     "title": "Doughlings Arcade",
@@ -19676,8 +19004,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "doughlingsarcade"
+    "releaseDate": "2018"
   },
   {
     "title": "Doughlings Invasion",
@@ -19702,8 +19029,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2019",
-    "slug": "doughlingsinvasion"
+    "releaseDate": "2019"
   },
   {
     "title": "EarthNight",
@@ -19732,8 +19058,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2019",
-    "slug": "earthnight"
+    "releaseDate": "2019"
   },
   {
     "title": "Eastside Hockey Manager",
@@ -19756,8 +19081,7 @@
       "Simulation",
       "Sports"
     ],
-    "releaseDate": "2015",
-    "slug": "eastsidehockeymanager"
+    "releaseDate": "2015"
   },
   {
     "title": "Elite Dangerous",
@@ -19791,8 +19115,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "elitedangerous"
+    "releaseDate": "2015"
   },
   {
     "title": "Endless Space® - Collection",
@@ -19821,8 +19144,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "endlessspacecollection"
+    "releaseDate": "2012"
   },
   {
     "title": "Euro Truck Simulator 2",
@@ -19858,8 +19180,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2012",
-    "slug": "eurotrucksimulator2_2"
+    "releaseDate": "2012"
   },
   {
     "title": "Farming Simulator 17",
@@ -19889,8 +19210,7 @@
     "genres": [
       "Simulation"
     ],
-    "releaseDate": "2016",
-    "slug": "farmingsimulator17"
+    "releaseDate": "2016"
   },
   {
     "title": "Firegirl",
@@ -19914,8 +19234,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2021",
-    "slug": "firegirl"
+    "releaseDate": "2021"
   },
   {
     "title": "Flynn: Son of Crimson",
@@ -19941,8 +19260,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2021",
-    "slug": "flynnsonofcrimson"
+    "releaseDate": "2021"
   },
   {
     "title": "Football Manager 2020",
@@ -19968,8 +19286,7 @@
       "Simulation",
       "Sports"
     ],
-    "releaseDate": "2019",
-    "slug": "footballmanager2020"
+    "releaseDate": "2019"
   },
   {
     "title": "FRAMED Collection",
@@ -19996,8 +19313,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "framedcollection"
+    "releaseDate": "2018"
   },
   {
     "title": "Frick, Inc.",
@@ -20019,8 +19335,7 @@
       "Casual",
       "Simulation"
     ],
-    "releaseDate": "2020",
-    "slug": "frickinc"
+    "releaseDate": "2020"
   },
   {
     "title": "FTL",
@@ -20049,8 +19364,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2012",
-    "slug": "ftl"
+    "releaseDate": "2012"
   },
   {
     "title": "Game of Thrones: A Telltale Games Series",
@@ -20071,8 +19385,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2014",
-    "slug": "gameofthronesatelltalegamesseries"
+    "releaseDate": "2014"
   },
   {
     "title": "Gonner",
@@ -20099,8 +19412,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "gonner"
+    "releaseDate": "2016"
   },
   {
     "title": "Guilty Gear X2 #Reload",
@@ -20127,8 +19439,7 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2014",
-    "slug": "guiltygearx2reload"
+    "releaseDate": "2014"
   },
   {
     "title": "Guns & Fishes",
@@ -20151,8 +19462,7 @@
       "Indie",
       "Early Access"
     ],
-    "releaseDate": "2023",
-    "slug": "gunsfishes"
+    "releaseDate": "2023"
   },
   {
     "title": "Gunscape",
@@ -20183,8 +19493,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016",
-    "slug": "gunscape"
+    "releaseDate": "2016"
   },
   {
     "title": "Hack 'n' Slash",
@@ -20211,8 +19520,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "hacknslash"
+    "releaseDate": "2014"
   },
   {
     "title": "Harmony's Odyssey",
@@ -20247,8 +19555,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2022",
-    "slug": "harmonysodyssey"
+    "releaseDate": "2022"
   },
   {
     "title": "Hector: Badge of Carnage",
@@ -20271,8 +19578,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2011",
-    "slug": "hectorbadgeofcarnage"
+    "releaseDate": "2011"
   },
   {
     "title": "Hyper Gunsport",
@@ -20308,8 +19614,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2022",
-    "slug": "hypergunsport"
+    "releaseDate": "2022"
   },
   {
     "title": "Hyper Light Drifter",
@@ -20347,8 +19652,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "hyperlightdrifter"
+    "releaseDate": "2016"
   },
   {
     "title": "In Between",
@@ -20376,8 +19680,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "inbetween"
+    "releaseDate": "2015"
   },
   {
     "title": "Into the Pit",
@@ -20401,8 +19704,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2021",
-    "slug": "intothepit"
+    "releaseDate": "2021"
   },
   {
     "title": "Izmir: An Independence Simulator",
@@ -20426,8 +19728,7 @@
       "Strategy",
       "Early Access"
     ],
-    "releaseDate": "2022",
-    "slug": "izmiranindependencesimulator"
+    "releaseDate": "2022"
   },
   {
     "title": "Jackbox Party Pack 4",
@@ -20463,8 +19764,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "jackboxpartypack4"
+    "releaseDate": "2017"
   },
   {
     "title": "Jurassic Park: The Game",
@@ -20485,8 +19785,7 @@
     ],
     "genres": [
       "Adventure"
-    ],
-    "slug": "jurassicparkthegame"
+    ]
   },
   {
     "title": "Kerbal Space Program",
@@ -20514,8 +19813,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015",
-    "slug": "kerbalspaceprogram_2"
+    "releaseDate": "2015"
   },
   {
     "title": "Kingdom Classic",
@@ -20545,8 +19843,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "kingdomclassic"
+    "releaseDate": "2015"
   },
   {
     "title": "Knights of Pen and Paper 2",
@@ -20575,8 +19872,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015",
-    "slug": "knightsofpenandpaper2"
+    "releaseDate": "2015"
   },
   {
     "title": "Lighthouse Keeper",
@@ -20602,8 +19898,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2022",
-    "slug": "lighthousekeeper"
+    "releaseDate": "2022"
   },
   {
     "title": "Little Orpheus",
@@ -20626,8 +19921,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2022",
-    "slug": "littleorpheus"
+    "releaseDate": "2022"
   },
   {
     "title": "Lust from Beyond - M Edition",
@@ -20652,16 +19946,14 @@
       "Indie"
     ],
     "releaseDate": "2022",
-    "contentWarnings": "LUST FROM BEYOND: M EDITION contains violence, blood, mild nudity and erotic themes. ",
-    "slug": "lustfrombeyondmedition"
+    "contentWarnings": "LUST FROM BEYOND: M EDITION contains violence, blood, mild nudity and erotic themes. "
   },
   {
     "title": "Memoria Soundtrack",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
-    "genres": [],
-    "slug": "memoriasoundtrack"
+    "genres": []
   },
   {
     "title": "Meow Express",
@@ -20682,8 +19974,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2022",
-    "slug": "meowexpress"
+    "releaseDate": "2022"
   },
   {
     "title": "Minecraft: Story Mode - Adventure Pass",
@@ -20705,8 +19996,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2016",
-    "slug": "minecraftstorymodeadventurepass"
+    "releaseDate": "2016"
   },
   {
     "title": "MirrorMoon EP",
@@ -20735,8 +20025,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "mirrormoonep"
+    "releaseDate": "2013"
   },
   {
     "title": "MirrorMoon EP",
@@ -20765,8 +20054,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "mirrormoonep_2"
+    "releaseDate": "2013"
   },
   {
     "title": "Monaco",
@@ -20810,8 +20098,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2013",
-    "slug": "monaco"
+    "releaseDate": "2013"
   },
   {
     "title": "Mount & Blade: Warband",
@@ -20839,8 +20126,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2010",
-    "slug": "mountbladewarband"
+    "releaseDate": "2010"
   },
   {
     "title": "My Memory of Us",
@@ -20869,8 +20155,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "mymemoryofus"
+    "releaseDate": "2018"
   },
   {
     "title": "NBA 2K20",
@@ -20906,8 +20191,7 @@
       "Simulation",
       "Sports"
     ],
-    "releaseDate": "2019",
-    "slug": "nba2k20"
+    "releaseDate": "2019"
   },
   {
     "title": "Newt One",
@@ -20933,8 +20217,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2019",
-    "slug": "newtone"
+    "releaseDate": "2019"
   },
   {
     "title": "No Time to Explain Remastered",
@@ -20971,8 +20254,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "notimetoexplainremastered"
+    "releaseDate": "2015"
   },
   {
     "title": "Non-Stop Raiders",
@@ -20996,8 +20278,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2023",
-    "slug": "nonstopraiders"
+    "releaseDate": "2023"
   },
   {
     "title": "Orbital Racer",
@@ -21020,8 +20301,7 @@
       "Racing",
       "Simulation"
     ],
-    "releaseDate": "2017",
-    "slug": "orbitalracer"
+    "releaseDate": "2017"
   },
   {
     "title": "Overgrowth",
@@ -21053,8 +20333,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "overgrowth_2"
+    "releaseDate": "2017"
   },
   {
     "title": "Overlord II",
@@ -21075,8 +20354,7 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2009",
-    "slug": "overlordii"
+    "releaseDate": "2009"
   },
   {
     "title": "PAYDAY 2",
@@ -21112,8 +20390,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2013",
-    "slug": "payday2"
+    "releaseDate": "2013"
   },
   {
     "title": "Pesterquest",
@@ -21137,8 +20414,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2019",
-    "slug": "pesterquest"
+    "releaseDate": "2019"
   },
   {
     "title": "Pilgrims",
@@ -21167,8 +20443,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2019",
-    "slug": "pilgrims"
+    "releaseDate": "2019"
   },
   {
     "title": "Pill Baby",
@@ -21196,8 +20471,7 @@
       "Indie"
     ],
     "releaseDate": "2022",
-    "contentWarnings": "Depictions of drug use, cartoon violence.",
-    "slug": "pillbaby"
+    "contentWarnings": "Depictions of drug use, cartoon violence."
   },
   {
     "title": "Pixross",
@@ -21219,8 +20493,7 @@
     "genres": [
       "Casual"
     ],
-    "releaseDate": "2020",
-    "slug": "pixross"
+    "releaseDate": "2020"
   },
   {
     "title": "Planet of the Eyes",
@@ -21250,8 +20523,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015",
-    "slug": "planetoftheeyes_2"
+    "releaseDate": "2015"
   },
   {
     "title": "Planet TD",
@@ -21274,8 +20546,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2023",
-    "slug": "planettd"
+    "releaseDate": "2023"
   },
   {
     "title": "Plunge",
@@ -21301,8 +20572,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2019",
-    "slug": "plunge"
+    "releaseDate": "2019"
   },
   {
     "title": "Poker Night 2",
@@ -21327,8 +20597,7 @@
       "Casual",
       "Sports"
     ],
-    "releaseDate": "2013",
-    "slug": "pokernight2"
+    "releaseDate": "2013"
   },
   {
     "title": "Poker Night at the Inventory",
@@ -21350,8 +20619,7 @@
       "Casual",
       "Sports"
     ],
-    "releaseDate": "2010",
-    "slug": "pokernightattheinventory"
+    "releaseDate": "2010"
   },
   {
     "title": "Project Chemistry",
@@ -21376,8 +20644,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2021",
-    "slug": "projectchemistry"
+    "releaseDate": "2021"
   },
   {
     "title": "Puzzle Agent 2",
@@ -21402,8 +20669,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2011",
-    "slug": "puzzleagent2"
+    "releaseDate": "2011"
   },
   {
     "title": "Puzzle Agent",
@@ -21427,8 +20693,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2010",
-    "slug": "puzzleagent"
+    "releaseDate": "2010"
   },
   {
     "title": "Quadrata",
@@ -21453,8 +20718,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2022",
-    "slug": "quadrata"
+    "releaseDate": "2022"
   },
   {
     "title": "Realpolitiks",
@@ -21478,8 +20742,7 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "realpolitiks"
+    "releaseDate": "2017"
   },
   {
     "title": "Regular Human Basketball",
@@ -21513,8 +20776,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2018",
-    "slug": "regularhumanbasketball_2"
+    "releaseDate": "2018"
   },
   {
     "title": "Remnants of Naezith",
@@ -21547,8 +20809,7 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2018",
-    "slug": "remnantsofnaezith"
+    "releaseDate": "2018"
   },
   {
     "title": "Rym 9000",
@@ -21574,8 +20835,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018",
-    "slug": "rym9000"
+    "releaseDate": "2018"
   },
   {
     "title": "Sam & Max: Devil's Playhouse",
@@ -21596,8 +20856,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2010",
-    "slug": "sammaxdevilsplayhouse"
+    "releaseDate": "2010"
   },
   {
     "title": "Shadow Tactics: Blades of the Shogun",
@@ -21627,8 +20886,7 @@
       "Strategy"
     ],
     "releaseDate": "2016",
-    "contentWarnings": "Shadow Tactics: Blades of the Shogun is a tactical game about a team of specialists who are tasked with eliminating their opponents by assassinating or sabotaging them. Depending on your style of game play, violence is present: For most missions, there are non-lethal ways to neutralize your opponents, but if you choose to kill them to reach your goal, there will be blood.",
-    "slug": "shadowtacticsbladesoftheshogun_2"
+    "contentWarnings": "Shadow Tactics: Blades of the Shogun is a tactical game about a team of specialists who are tasked with eliminating their opponents by assassinating or sabotaging them. Depending on your style of game play, violence is present: For most missions, there are non-lethal ways to neutralize your opponents, but if you choose to kill them to reach your goal, there will be blood."
   },
   {
     "title": "Sonic & SEGA All Stars Racing",
@@ -21657,8 +20915,7 @@
     "genres": [
       "Racing"
     ],
-    "releaseDate": "2010",
-    "slug": "sonicsegaallstarsracing"
+    "releaseDate": "2010"
   },
   {
     "title": "Soul Searching",
@@ -21690,8 +20947,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "soulsearching"
+    "releaseDate": "2017"
   },
   {
     "title": "Soulblight",
@@ -21718,8 +20974,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2018",
-    "slug": "soulblight"
+    "releaseDate": "2018"
   },
   {
     "title": "Soulflow",
@@ -21744,8 +20999,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2022",
-    "slug": "soulflow"
+    "releaseDate": "2022"
   },
   {
     "title": "Space Crew: Legendary Edition",
@@ -21774,8 +21028,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2020",
-    "slug": "spacecrewlegendaryedition"
+    "releaseDate": "2020"
   },
   {
     "title": "Spelunky",
@@ -21810,8 +21063,7 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "spelunky"
+    "releaseDate": "2013"
   },
   {
     "title": "Stacking",
@@ -21836,8 +21088,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2012",
-    "slug": "stacking_2"
+    "releaseDate": "2012"
   },
   {
     "title": "StarCrossed",
@@ -21868,8 +21119,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2020",
-    "slug": "starcrossed"
+    "releaseDate": "2020"
   },
   {
     "title": "Stick Fight",
@@ -21900,8 +21150,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017",
-    "slug": "stickfight"
+    "releaseDate": "2017"
   },
   {
     "title": "stikir",
@@ -21925,8 +21174,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2019",
-    "slug": "stikir"
+    "releaseDate": "2019"
   },
   {
     "title": "Strange Brigade",
@@ -21956,8 +21204,7 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2018",
-    "slug": "strangebrigade"
+    "releaseDate": "2018"
   },
   {
     "title": "Stygian: Reign of the Old Ones",
@@ -21984,8 +21231,7 @@
       "RPG"
     ],
     "releaseDate": "2019",
-    "contentWarnings": "This game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
-    "slug": "stygianreignoftheoldones"
+    "contentWarnings": "This game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
   },
   {
     "title": "Sunlight",
@@ -22008,8 +21254,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2021",
-    "slug": "sunlight"
+    "releaseDate": "2021"
   },
   {
     "title": "Super Time Force Ultra",
@@ -22038,8 +21283,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2014",
-    "slug": "supertimeforceultra"
+    "releaseDate": "2014"
   },
   {
     "title": "Surviving Mars",
@@ -22069,8 +21313,7 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018",
-    "slug": "survivingmars_2"
+    "releaseDate": "2018"
   },
   {
     "title": "Symmetry",
@@ -22101,8 +21344,7 @@
       "Racing",
       "Early Access"
     ],
-    "releaseDate": "2019",
-    "slug": "symmetry"
+    "releaseDate": "2019"
   },
   {
     "title": "System Shock 2",
@@ -22128,8 +21370,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2013",
-    "slug": "systemshock2"
+    "releaseDate": "2013"
   },
   {
     "title": "System Shock 2",
@@ -22155,8 +21396,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2013",
-    "slug": "systemshock2_2"
+    "releaseDate": "2013"
   },
   {
     "title": "System Shock Enhanced Edition",
@@ -22180,8 +21420,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "systemshockenhancededition"
+    "releaseDate": "2015"
   },
   {
     "title": "System Shock: Enhanced Edition",
@@ -22205,8 +21444,7 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "slug": "systemshockenhancededition_2"
+    "releaseDate": "2015"
   },
   {
     "title": "Tales from the Borderlands",
@@ -22229,8 +21467,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2021",
-    "slug": "talesfromtheborderlands"
+    "releaseDate": "2021"
   },
   {
     "title": "Telltale Texas Hold'em",
@@ -22250,8 +21487,7 @@
     "genres": [
       "Casual"
     ],
-    "releaseDate": "2008",
-    "slug": "telltaletexasholdem"
+    "releaseDate": "2008"
   },
   {
     "title": "The Amazing American Circus",
@@ -22278,8 +21514,7 @@
       "Strategy"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "The game contains references to the use of alcohol and general content considered mature.",
-    "slug": "theamazingamericancircus"
+    "contentWarnings": "The game contains references to the use of alcohol and general content considered mature."
   },
   {
     "title": "The Ball",
@@ -22306,8 +21541,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2010",
-    "slug": "theball"
+    "releaseDate": "2010"
   },
   {
     "title": "The Inner World",
@@ -22333,8 +21567,7 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013",
-    "slug": "theinnerworld"
+    "releaseDate": "2013"
   },
   {
     "title": "The Walking Dead: 400 Days",
@@ -22359,8 +21592,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2013",
-    "slug": "thewalkingdead400days"
+    "releaseDate": "2013"
   },
   {
     "title": "The Walking Dead: Season 1",
@@ -22385,8 +21617,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2012",
-    "slug": "thewalkingdeadseason1"
+    "releaseDate": "2012"
   },
   {
     "title": "The Walking Dead: Season 2",
@@ -22410,8 +21641,7 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2013",
-    "slug": "thewalkingdeadseason2"
+    "releaseDate": "2013"
   },
   {
     "title": "The Wolf Among Us",
@@ -22437,8 +21667,7 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2013",
-    "slug": "thewolfamongus"
+    "releaseDate": "2013"
   },
   {
     "title": "This War of Mine",
@@ -22468,8 +21697,7 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2014",
-    "slug": "thiswarofmine_2"
+    "releaseDate": "2014"
   },
   {
     "title": "Titan Quest Anniversary Edition",
@@ -22501,8 +21729,7 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2016",
-    "slug": "titanquestanniversaryedition"
+    "releaseDate": "2016"
   },
   {
     "title": "Vertiginous Golf",
@@ -22532,8 +21759,7 @@
       "Indie",
       "Sports"
     ],
-    "releaseDate": "2015",
-    "slug": "vertiginousgolf"
+    "releaseDate": "2015"
   },
   {
     "title": "Witch It",
@@ -22565,8 +21791,7 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2020",
-    "slug": "witchit"
+    "releaseDate": "2020"
   },
   {
     "title": "Worms Rumble",
@@ -22592,8 +21817,7 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2020",
-    "slug": "wormsrumble"
+    "releaseDate": "2020"
   },
   {
     "title": "X-Morph: Defense Complete Pack",
@@ -22628,8 +21852,7 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2017",
-    "slug": "xmorphdefensecompletepack"
+    "releaseDate": "2017"
   },
   {
     "title": "XEL",
@@ -22653,8 +21876,7 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2022",
-    "slug": "xel"
+    "releaseDate": "2022"
   },
   {
     "title": "Zombie Driver HD",
@@ -22683,7 +21905,6 @@
       "Indie",
       "Racing"
     ],
-    "releaseDate": "2012",
-    "slug": "zombiedriverhd"
+    "releaseDate": "2012"
   }
 ]

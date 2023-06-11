@@ -29,48 +29,58 @@ const prizeList = async function() {
     });
 
     // init games
-    const maxDescriptionLen = 150;
-    for (let i = 0; i < data.games.length; i++) {
-        const game = data.games[i];
+    {
+        const slugsUsed = {};
+        const maxDescriptionLen = 150;
+        for (let i = 0; i < data.games.length; i++) {
+            const game = data.games[i];
 
-        // set display info
-        game.visible = data.showMature || !game.contentWarnings;
-        game.searchableText = [game.title, game.type, game.description, ...game.categories, ...game.genres, game.releaseDate].join(" ").toLowerCase();
-        game.truncatedDescription = game.description?.length > maxDescriptionLen
-            ? game.description.slice(0, maxDescriptionLen) + "…"
-            : null;
+            // set slug
+            game.slug = game.title.toLowerCase().replace(/[^a-z0-9]+/g, '');
+            if (slugsUsed[game.slug])
+                game.slug += "_" + (++slugsUsed[game.slug]);
+            else
+                slugsUsed[game.slug] = 1;
 
-        // set URL
-        if (game.appId)
-            game.url = "https://store.steampowered.com/app/" + game.appId;
-        else if (game.bundleId)
-            game.url = "https://store.steampowered.com/sub/" + game.bundleId;
+            // set display info
+            game.visible = data.showMature || !game.contentWarnings;
+            game.searchableText = [game.title, game.type, game.description, ...game.categories, ...game.genres, game.releaseDate].join(" ").toLowerCase();
+            game.truncatedDescription = game.description?.length > maxDescriptionLen
+                ? game.description.slice(0, maxDescriptionLen) + "…"
+                : null;
 
-        // set prize group
-        for (let key of Object.keys(data.config.prizeGroups))
-        {
-            const minPrice = data.config.prizeGroups[key];
-            if (!minPrice || game.price >= minPrice)
+            // set URL
+            if (game.appId)
+                game.url = "https://store.steampowered.com/app/" + game.appId;
+            else if (game.bundleId)
+                game.url = "https://store.steampowered.com/sub/" + game.bundleId;
+
+            // set prize group
+            for (let key of Object.keys(data.config.prizeGroups))
             {
-                game.prizeGroup = key;
-                break;
+                const minPrice = data.config.prizeGroups[key];
+                if (!minPrice || game.price >= minPrice)
+                {
+                    game.prizeGroup = key;
+                    break;
+                }
             }
-        }
 
-        // mark claimed if applicable
-        game.claimed = false;
-        if (game.appId > 0 || game.bundleId > 0) {
-            const list = game.appId > 0
-                ? data.config.claimed.appIds
-                : data.config.claimed.bundleIds;
-            const id = game.appId > 0
-                ? game.appId
-                : game.bundleId;
+            // mark claimed if applicable
+            game.claimed = false;
+            if (game.appId > 0 || game.bundleId > 0) {
+                const list = game.appId > 0
+                    ? data.config.claimed.appIds
+                    : data.config.claimed.bundleIds;
+                const id = game.appId > 0
+                    ? game.appId
+                    : game.bundleId;
 
-            const index = list.indexOf(id);
-            if (index > -1) {
-                game.claimed = true;
-                list.splice(index, 1);
+                const index = list.indexOf(id);
+                if (index > -1) {
+                    game.claimed = true;
+                    list.splice(index, 1);
+                }
             }
         }
     }
