@@ -166,15 +166,25 @@ GameRecord[] ReadSearchData()
 
 	return parser
 		.GetRecords<CsvGameRecord>()
-		.Select(row => new GameRecord
+		.Select(row =>
 		{
-			Source = row.Source.Trim(),
-			SearchTitle = row.Title.Trim(),
-			AppId = row.OverrideAppId ?? 0,
-			BundleId = row.OverrideBundleId ?? 0,
-			OverridePrice = !string.IsNullOrWhiteSpace(row.OverridePrice) ? row.OverridePrice.Trim().Trim('$') : null,
-			OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription.Trim() : null
+			if (row.IgnoreKey ?? false)
+			{
+				Console.WriteLine($"Ignored disabled game key '{row.Title}' (comments: '{row.Comments}').");
+				return null;
+			}
+			
+			return new GameRecord
+			{
+				Source = row.Source.Trim(),
+				SearchTitle = row.Title.Trim(),
+				AppId = row.OverrideAppId ?? 0,
+				BundleId = row.OverrideBundleId ?? 0,
+				OverridePrice = !string.IsNullOrWhiteSpace(row.OverridePrice) ? row.OverridePrice.Trim().Trim('$') : null,
+				OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription.Trim() : null
+			};
 		})
+		.Where(p => p is not null)
 		.OrderBy(p => p.SearchTitle, StringComparer.OrdinalIgnoreCase)
 		.ToArray();
 }
@@ -492,6 +502,8 @@ public class CsvGameRecord
 	public int? OverrideBundleId { get; set; }
 	public string OverridePrice { get; set; }
 	public string OverrideDescription { get; set; }
+	public bool? IgnoreKey { get; set; }
+	public string Comments { get; set; }
 }
 
 public class GameRecord
