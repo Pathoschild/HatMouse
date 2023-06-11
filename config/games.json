@@ -1101,10 +1101,30 @@
     "keys": [
       "App Game Kit 2"
     ],
+    "appId": 325180,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/325180/capsule_184x69.jpg?t=1668455182",
+    "type": "game",
+    "description": "AppGameKit Classic is a powerful game development engine, ideal for Hobbyist and Indie developers. Choose to code in the easy to learn AppGameKit BASIC or use our libraries in C++ & XCode. Write your code once and deploy easily to multiple mobile & desktop platforms.",
+    "priceCurrency": "USD",
+    "price": "49.99",
     "metaCriticScore": 0,
-    "platforms": [],
-    "categories": [],
-    "genres": []
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Steam Workshop"
+    ],
+    "genres": [
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Education",
+      "Software Training",
+      "Utilities",
+      "Web Publishing"
+    ],
+    "releaseDate": "2014"
   },
   {
     "keys": [
@@ -2373,6 +2393,9 @@
     "keys": [
       "Bone - Episode 1 & Episode 2"
     ],
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/8310\">Bone: Out from Boneville</a> and <a href=\"https://store.steampowered.com/app/8320\">Bone: The Great Cow Race</a>.",
+    "priceCurrency": "USD",
+    "price": "19.98",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -2419,15 +2442,44 @@
     "keys": [
       "Borderlands 3 Director's Cut DLC"
     ],
+    "appId": 1361831,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1361831/capsule_184x69.jpg?t=1617902253",
+    "type": "DLC",
+    "description": "Test your mettle against the most fearsome of all Varkids, scour the galaxy to solve a string of murders, experience never-before-seen content and insights from the creation of Borderlands 3, and earn rewards with three new Vault Cards featuring themed loot and powerful gear.",
+    "priceCurrency": "USD",
+    "price": "14.99",
     "metaCriticScore": 0,
-    "platforms": [],
-    "categories": [],
-    "genres": []
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Downloadable Content",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "releaseDate": "2021",
+    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. \r\n\r\nThis may include:\r\nFrequent Violence or Gore\r\nGeneral Mature Content\r\nSexual Themes"
   },
   {
     "keys": [
       "Botanicula, Machinarium, and Samorost 2"
     ],
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/207690\">Botanicula</a>, <a href=\"https://store.steampowered.com/app/40700\">Machinarium</a>, and <a href=\"https://store.steampowered.com/app/40720\">Samorost 2</a>.",
     "priceCurrency": "USD",
     "price": "26.97",
     "metaCriticScore": 0,
@@ -2498,15 +2550,6 @@
       "Strategy"
     ],
     "releaseDate": "2017"
-  },
-  {
-    "keys": [
-      "Brazen Prototype"
-    ],
-    "metaCriticScore": 0,
-    "platforms": [],
-    "categories": [],
-    "genres": []
   },
   {
     "keys": [
@@ -2714,10 +2757,26 @@
     "keys": [
       "Burnout Paradise: The Ultimate Box"
     ],
-    "metaCriticScore": 0,
-    "platforms": [],
-    "categories": [],
-    "genres": []
+    "appId": 24740,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/24740/capsule_184x69.jpg?t=1591283062",
+    "type": "game",
+    "description": "Download Burnout™ Paradise: The Ultimate Box today. Paradise City is the largest and most dangerous setting yet for the best-selling Burnout series. The massive setting gives players an open-ended world to explore, as they race their vehicles through hundreds of miles of roads and underground passages with more than 70 different cars.",
+    "priceCurrency": "USD",
+    "price": "19.99",
+    "metaCriticScore": 87,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/burnout-paradise-the-ultimate-box",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Racing"
+    ],
+    "releaseDate": "2009"
   },
   {
     "keys": [
@@ -3400,6 +3459,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/285440/capsule_184x69.jpg?t=1681233051",
     "type": "game",
     "description": "Prepare yourself for an insatiable rain of bullets, bombs, and beams in Crimzon Clover. From Japanese indie developer Yotsubane, this retro top-down shooter is a wild ride you won't want to miss out on.",
+    "priceCurrency": "USD",
+    "price": "9.99",
     "metaCriticScore": 85,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/crimzon-clover-world-ignition",
     "platforms": [
@@ -4553,6 +4614,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/402590/capsule_184x69.jpg?t=1667849889",
     "type": "series",
     "description": "A collaboration between 2 Player Productions and Double Fine Productions, the \"Double Fine Adventure\" series chronicles the creation of “Broken Age,” a three-year journey spanning twenty episodes, and the most in-depth look at video game development ever created.",
+    "priceCurrency": "USD",
+    "price": "3.99",
     "metaCriticScore": 0,
     "platforms": [
       "Linux",
@@ -4756,6 +4819,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/268080/capsule_184x69.jpg?t=1621519543",
     "type": "DLC",
     "description": "Dungeon of the Endless is a Rogue-Like Dungeon-Defense game, in which the player and their team of heroes must protect the generator of their crashed ship while exploring an ever-expanding dungeon, all while facing waves of monsters and special events as they try to find their way out...",
+    "priceCurrency": "USD",
+    "price": "2.19",
     "metaCriticScore": 0,
     "platforms": [
       "macOS",
@@ -5877,6 +5942,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/280200/capsule_184x69.jpg?t=1656612018",
     "type": "game",
     "description": "In this fully 3D, real-time space flight simulator, you will play a pivotal role in the war between the United Earth Alliance and a vicious alien threat known as the Revi. Strap into the cockpit, get your joystick ready, and join the fight in this retro space sim inspired by the games of the '90's.",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 0,
     "platforms": [
       "Windows"
@@ -6133,6 +6200,7 @@
     "keys": [
       "Fieldrunners, BIT.TRIP BEAT, SpaceChem, and Uplink"
     ],
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/209690\">Fieldrunners</a>, <a href=\"https://store.steampowered.com/app/63700\">BIT.TRIP BEAT</a>, <a href=\"https://store.steampowered.com/app/92800\">SpaceChem</a>, and <a href=\"https://store.steampowered.com/app/1510\">Uplink</a>.",
     "priceCurrency": "USD",
     "price": "34.96",
     "metaCriticScore": 0,
@@ -6942,6 +7010,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/330840/capsule_184x69.jpg?t=1555446231",
     "type": "game",
     "description": "Game of Thrones - A Telltale Games Series is a six part episodic game series set in the world of HBO's groundbreaking TV show. This new story tells of House Forrester, a noble family from the north of Westeros, loyal to the Starks of Winterfell.",
+    "priceCurrency": "USD",
+    "price": "14.99",
     "metaCriticScore": 0,
     "platforms": [
       "macOS",
@@ -8009,6 +8079,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/209270/capsule_184x69.jpg?t=1546888006",
     "type": "game",
     "description": "Test your skills in this light-hearted battle between friends! Heroic teams have gathered to engage in friendly contests on the Academy playfields. Will your team emerge triumphant?",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 75,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/hero-academy",
     "platforms": [
@@ -8061,10 +8133,30 @@
     "keys": [
       "HITMAN™: THE COMPLETE FIRST SEASON"
     ],
-    "metaCriticScore": 0,
-    "platforms": [],
-    "categories": [],
-    "genres": []
+    "appId": 1829593,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1829593/capsule_184x69.jpg?t=1653314890",
+    "type": "DLC",
+    "description": "Purchasing or redeeming this Access Pass will grant access to the locations from 'HITMAN 1 - Complete First Season' in HITMAN 3. You must own HITMAN 3 to access this content.",
+    "priceCurrency": "USD",
+    "price": "69.99",
+    "metaCriticScore": 87,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/hitman-3",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Downloadable Content",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "releaseDate": "2022",
+    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content."
   },
   {
     "keys": [
@@ -8359,7 +8451,7 @@
     "keys": [
       "Humble Frozenbyte Bundle"
     ],
-    "overrideDescription": "Includes Trine, Shadowgrounds, and Shadowgrounds: Survivor.",
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/35700\">Trine</a>, <a href=\"https://store.steampowered.com/app/2500\">Shadowgrounds</a>, and <a href=\"https://store.steampowered.com/app/11200\">Shadowgrounds: Survivor</a>.",
     "priceCurrency": "USD",
     "price": "31.97",
     "metaCriticScore": 0,
@@ -8371,7 +8463,7 @@
     "keys": [
       "Humble Voxatron Debut"
     ],
-    "overrideDescription": "Includes Gish, The Binding of Isaac, and Blocks That Matter.",
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/9500\">Gish</a>, <a href=\"https://store.steampowered.com/app/113200\">The Binding of Isaac</a>, and <a href=\"https://store.steampowered.com/app/111800\">Blocks That Matter</a>.",
     "priceCurrency": "USD",
     "price": "19.97",
     "metaCriticScore": 0,
@@ -9088,6 +9180,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/201830/capsule_184x69.jpg?t=1542232453",
     "type": "game",
     "description": "Experience a brand new adventure set during the events of the first Jurassic Park movie and see new areas and dinosaurs in this landmark adventure 65 million years in the making!",
+    "priceCurrency": "USD",
+    "price": "19.99",
     "metaCriticScore": 54,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/jurassic-park-the-game",
     "platforms": [
@@ -10176,6 +10270,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/598022/capsule_184x69.jpg?t=1589905638",
     "type": "DLC",
     "description": "Haunted by the murder of his surrogate family, Lincoln joins Father James at Sammy’s to find closure. But on their arrival, they collide with a deranged cult using sites of suffering and loss for human sacrifices and ritualistic horrors.",
+    "priceCurrency": "USD",
+    "price": "9.99",
     "metaCriticScore": 0,
     "platforms": [
       "Windows"
@@ -10550,6 +10646,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/456630/capsule_184x69.jpg?t=1556548654",
     "type": "DLC",
     "description": "The Adventure Pass includes access to download Episodes Six, Seven, and Eight. These new episodes continue the story of the New Order of the Stone, following Jesse and the group as they explore uncharted worlds beyond their own.",
+    "priceCurrency": "USD",
+    "price": "14.99",
     "metaCriticScore": 0,
     "platforms": [
       "macOS",
@@ -11455,6 +11553,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/545270/capsule_184x69.jpg?t=1538774766",
     "type": "game",
     "description": "Classic NBA arcade action is back! Take your “A” game to the playground and beat the best in high-flying 2-on-2 basketball action. Practice your skills offline, play with up to three others and take your talents online to posterize your opponents with acrobatic jams and ridiculous displays of skill.",
+    "priceCurrency": "USD",
+    "price": "19.99",
     "metaCriticScore": 67,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/nba-playgrounds",
     "platforms": [
@@ -12987,6 +13087,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/234710/capsule_184x69.jpg?t=1567209058",
     "type": "game",
     "description": "The chips are down and the ante is up in this sentence already bursting with poker clichés! Take the fifth seat in Poker Night 2, at a table featuring Claptrap (Borderlands 2), Brock Samson (The Venture Bros.), Ash (Army of Darkness) and Sam (Sam and Max series).",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 75,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/poker-night-2",
     "platforms": [
@@ -13014,6 +13116,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/31280/capsule_184x69.jpg?t=1558627507",
     "type": "game",
     "description": "Prepare for a different kind of poker night in a very different kind of club and play against familiar faces!",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 71,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/poker-night-at-the-inventory",
     "platforms": [
@@ -13371,6 +13475,7 @@
     "keys": [
       "Psychonauts, Stacking, and Costume Quest"
     ],
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/3830\">Psychonauts</a>, <a href=\"https://store.steampowered.com/app/115110\">Stacking</a>, and <a href=\"https://store.steampowered.com/app/115100\">Costume Quest</a>.",
     "priceCurrency": "USD",
     "price": "29.97",
     "metaCriticScore": 0,
@@ -17107,6 +17212,8 @@
     "keys": [
       "Superfrog HD"
     ],
+    "priceCurrency": "USD",
+    "price": "9.99",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -17523,6 +17630,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/302850/capsule_184x69.jpg?t=1547756365",
     "type": "game",
     "description": "In Team Indie a selection of indie game characters join forces combining their unique skills. Play coop with your own previous runs and bend time to master puzzles and action sequences!",
+    "priceCurrency": "USD",
+    "price": "12.99",
     "metaCriticScore": 0,
     "platforms": [
       "macOS",
@@ -17607,6 +17716,9 @@
     "keys": [
       "Telltale Games"
     ],
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/31290/Back_to_the_Future_The_Game/\">Back to the Future: The Game</a>, <a href=\"https://store.steampowered.com/app/901399\">Sam & Max: The Devil's Playhouse</a>, <a href=\"https://store.steampowered.com/app/31280\">Poker Night at the Inventory</a>, <a href=\"https://store.steampowered.com/app/94620\">Hector: Badge of Carnage</a>, <a href=\"https://store.steampowered.com/app/31270\">Puzzle Agent</a>, <a href=\"https://store.steampowered.com/app/94590\">Puzzle Agent 2</a>, and <a href=\"https://store.steampowered.com/app/31100\">Wallace & Gromit's Grand Adventures</a>.",
+    "priceCurrency": "USD",
+    "price": "74.93",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -18411,6 +18523,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/23310/capsule_184x69.jpg?t=1536078342",
     "type": "game",
     "description": "Mitra, yama, qsiti, sovani... These four races exist in one world. A world filled with Remnants — mysterious artifacts from an ancient era. Who created the Remnant? How long ago? And for what purpose? With these questions left unanswered, the Remnants became beneficial tools used for the good of civilization. The world was at peace...",
+    "priceCurrency": "USD",
+    "price": "9.99",
     "metaCriticScore": 66,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/the-last-remnant",
     "platforms": [
@@ -20563,6 +20677,9 @@
     "keys": [
       "Western Press Mk Cans II Character DLC"
     ],
+    "overrideDescription": "A <a href=\"https://steamcommunity.com/app/377360/discussions/0/152390648084872474/\">bonus character normally only available to Humble Monthly subscribers</a>.",
+    "priceCurrency": "USD",
+    "price": "0.99",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -20762,6 +20879,7 @@
     "keys": [
       "Wizorb, BIT.TRIP.RUNNER, Gratuitous Space Battles, and Jamestown"
     ],
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/207420\">Wizorb</a>, <a href=\"https://store.steampowered.com/app/63710\">BIT.TRIP.RUNNER</a>, <a href=\"https://store.steampowered.com/app/41800\">Gratuitous Space Battles</a>, and <a href=\"https://store.steampowered.com/app/94200\">Jamestown</a>.",
     "priceCurrency": "USD",
     "price": "37.96",
     "metaCriticScore": 0,
@@ -20802,6 +20920,7 @@
     "keys": [
       "World of Goo, Anomaly, Osmos, and EDGE"
     ],
+    "overrideDescription": "Includes <a href=\"https://store.steampowered.com/app/22000\">World of Goo</a>, <a href=\"https://store.steampowered.com/app/2116460\">Anomaly</a>, <a href=\"https://store.steampowered.com/app/29180\">Osmos</a>, and <a href=\"https://store.steampowered.com/app/38740\">EDGE</a>.",
     "priceCurrency": "USD",
     "price": "36.97",
     "metaCriticScore": 0,
