@@ -260,7 +260,7 @@
     "keys": [
       "Brutal Legend",
       "Brütal Legend",
-      "Brütal Legend ",
+      "Brütal Legend",
       "Brütal Legend"
     ],
     "appId": 225260,
@@ -1064,7 +1064,7 @@
       "AI War: Fleet Command"
     ],
     "appId": 40400,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/40400/capsule_184x69.jpg?t=1641758804",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/40400/capsule_184x69.jpg?t=1686421255",
     "type": "game",
     "description": "\"You are outgunned. You are massively outnumbered. You must win.\" These are your orders. Humanity has already fought its war against the machines -- and lost. AI death squads stand watch over every planet and every wormhole, the few remaining human settlements are held captive in orbiting bubbles, and the AIs have turned their...",
     "priceCurrency": "USD",
@@ -1339,8 +1339,15 @@
     "keys": [
       "Alien Breed Complete Pack"
     ],
+    "bundleId": 7678,
+    "image": "https://cdn.akamai.steamstatic.com/steam/subs/7678/capsule_231x87.jpg?t=1447447183",
+    "type": "bundle",
+    "priceCurrency": "USD",
+    "price": "22.99",
     "metaCriticScore": 0,
-    "platforms": [],
+    "platforms": [
+      "Windows"
+    ],
     "categories": [],
     "genres": []
   },
@@ -1804,10 +1811,35 @@
     "keys": [
       "Awesomenauts Cluck Costume"
     ],
+    "appId": 230886,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/230886/capsule_184x69.jpg?t=1493970573",
+    "type": "DLC",
+    "description": "Roam the Awesomenauts battlefield as Cluck Clunk! Omelettes never contained this much aluminium! This DLC contains a custom skin for Cluck in Awesomenauts. You need to have Cluck available as a playable character in order to access the skin in-game. Owning this skin will also unlock the special portrait for use in-game.",
+    "priceCurrency": "USD",
+    "price": "2.49",
     "metaCriticScore": 0,
-    "platforms": [],
-    "categories": [],
-    "genres": []
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Downloadable Content",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Steam Leaderboards"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ]
   },
   {
     "keys": [
@@ -2408,6 +2440,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/356050/capsule_184x69.jpg?t=1631125345",
     "type": "game",
     "description": "Beyond Eyes is a modern fairy tale about finding courage and friendship. Step by step, uncover an incredible world, carefully guiding Rae, a young blind girl, on a life changing journey.",
+    "priceCurrency": "USD",
+    "price": "14.99",
     "metaCriticScore": 60,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/beyond-eyes",
     "platforms": [
@@ -2606,6 +2640,8 @@
     "keys": [
       "Botanicula, Machinarium, and Samorost 2"
     ],
+    "priceCurrency": "USD",
+    "price": "$26.97",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -2985,6 +3021,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/512034/capsule_184x69.jpg?t=1613788699",
     "type": "DLC",
     "description": "The Australia Civilization & Scenario Pack includes the Australian civilization with John Curtin, the Digger unique unit, Outback Station unique improvement, a new Natural Wonder and the new Outback Tycoon scenario.",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 0,
     "platforms": [
       "Linux",
@@ -3013,6 +3051,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/512032/capsule_184x69.jpg?t=1613788705",
     "type": "DLC",
     "description": "Bring Europe under your rule as the mightiest Viking lord in the most detailed scenario released yet for Sid Meier’s Civilization VI. The Viking Scenario Pack also includes three new Natural Wonders and six new City-States, two of which grant new tile improvements.",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 0,
     "platforms": [
       "Linux",
@@ -3849,12 +3889,12 @@
     "keys": [
       "Dead Space"
     ],
-    "appId": 1693980,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1693980/capsule_184x69.jpg?t=1684172906",
+    "appId": 17470,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/17470/capsule_184x69.jpg?t=1664889864",
     "type": "game",
-    "description": "The sci-fi survival-horror classic returns, completely rebuilt to offer an even more immersive experience — including visual, audio, and gameplay improvements — while staying faithful to the original game’s thrilling vision.",
+    "description": "You are Isaac Clarke, an engineer on the spacecraft USG Ishimura. You're not a warrior. You're not a soldier. You are, however, the last line of defense for the remaining living crew.",
     "priceCurrency": "USD",
-    "price": "59.99",
+    "price": "19.99",
     "metaCriticScore": 87,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/dead-space",
     "platforms": [
@@ -3862,16 +3902,17 @@
     ],
     "categories": [
       "Single-player",
-      "Steam Achievements",
       "Full controller support",
-      "Steam Cloud"
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
     ],
     "genres": [
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2023",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
+    "releaseDate": "2009"
   },
   {
     "keys": [
@@ -5515,6 +5556,8 @@
     "keys": [
       "Fieldrunners, BIT.TRIP BEAT, SpaceChem, and Uplink"
     ],
+    "priceCurrency": "USD",
+    "price": "$34.96",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -7304,6 +7347,9 @@
     "keys": [
       "Humble Frozenbyte Bundle"
     ],
+    "description": "Includes Trine, Shadowgrounds, and Shadowgrounds: Survivor.",
+    "priceCurrency": "USD",
+    "price": "$31.97",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -7313,6 +7359,9 @@
     "keys": [
       "Humble Voxatron Debut"
     ],
+    "description": "Includes Gish, The Binding of Isaac, and Blocks That Matter.",
+    "priceCurrency": "USD",
+    "price": "$19.97",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -8883,6 +8932,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/214560/capsule_184x69.jpg?t=1668892924",
     "type": "game",
     "description": "In Mark of the Ninja, you'll know what it is to truly be a ninja. You must be silent, agile and clever to outwit your opponents in a world of gorgeous scenery and flowing animation. Marked with cursed tattoos giving you heightened senses, every situation presents you with options.",
+    "priceCurrency": "USD",
+    "price": "$14.99",
     "metaCriticScore": 91,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/mark-of-the-ninja",
     "platforms": [
@@ -9629,6 +9680,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/385760/capsule_184x69.jpg?t=1630701765",
     "type": "game",
     "description": "Following the record-breaking launch of NBA 2K16, the NBA 2K franchise continues to stake its claim as the most authentic sports video game with NBA 2K17. As the franchise that “all sports video games should aspire to be” (GamesRadar), NBA 2K17 will take the game to new heights and continue to blur the lines between video game and...",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 90,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/nba-2k17",
     "platforms": [
@@ -11017,6 +11070,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/234630/capsule_184x69.jpg?t=1667844333",
     "type": "game",
     "description": "THE ULTIMATE DRIVER JOURNEY delivers the soul of motor racing in the world’s most beautiful, authentic, and technically-advanced racing game.",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 83,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/project-cars",
     "platforms": [
@@ -11047,6 +11102,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/378860/capsule_184x69.jpg?t=1663714740",
     "type": "game",
     "description": "THE ULTIMATE DRIVER JOURNEY! Project CARS 2 delivers the soul of motor racing in the world’s most beautiful, authentic, and technically-advanced racing game.",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 84,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/project-cars-2",
     "platforms": [
@@ -11152,6 +11209,8 @@
     "keys": [
       "Psychonauts, Stacking, and Costume Quest"
     ],
+    "priceCurrency": "USD",
+    "price": "$29.97",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -11478,6 +11537,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/686600/capsule_184x69.jpg?t=1628780089",
     "type": "game",
     "description": "The Rapture Has Happened. You didn't make the cut. Rapture Rejects is a top down isometric last man standing game set in the apocalyptic Cyanide & Happiness universe.",
+    "priceCurrency": "USD",
+    "price": "0.99",
     "metaCriticScore": 0,
     "platforms": [
       "Windows"
@@ -11502,6 +11563,8 @@
     "keys": [
       "Rapture Rejects - Humble Exclusive \"Safari Outfit\" DLC"
     ],
+    "priceCurrency": "USD",
+    "price": "0.99",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -13173,6 +13236,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/63380/capsule_184x69.jpg?t=1601483610",
     "type": "game",
     "description": "In the dark days of the end of World War Two amidst the ruins of Berlin, one bullet can change history…",
+    "priceCurrency": "USD",
+    "price": "$24.99",
     "metaCriticScore": 66,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/sniper-elite-v2",
     "platforms": [
@@ -13840,32 +13905,6 @@
   },
   {
     "keys": [
-      "Streamline Early Access"
-    ],
-    "appId": 1348020,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1348020/capsule_184x69.jpg?t=1597050145",
-    "type": "game",
-    "description": "Streamline is a very early build of the FPS being developed by Watson Digital. Featuring many game modes such as Capture the Flag, and Team Deathmatch.",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Multi-player",
-      "PvP",
-      "Online PvP"
-    ],
-    "genres": [
-      "Action",
-      "Free to Play",
-      "Indie",
-      "Early Access"
-    ],
-    "releaseDate": "Coming soon",
-    "contentWarnings": "-Depictions of blood\r\n-Graphic and realistic-looking depictions of physical conflict. May involve extreme and/or realistic blood, gore, weapons and depictions of human injury and death\r\n-Depictions or dialogue involving slapstick or suggestive humor"
-  },
-  {
-    "keys": [
       "Strike Suit Zero"
     ],
     "appId": 209540,
@@ -14435,8 +14474,15 @@
     "keys": [
       "System Shock Pack"
     ],
+    "bundleId": 82345,
+    "image": "https://cdn.akamai.steamstatic.com/steam/subs/82345/capsule_231x87.jpg?t=1447462229",
+    "type": "bundle",
+    "priceCurrency": "USD",
+    "price": "19.99",
     "metaCriticScore": 0,
-    "platforms": [],
+    "platforms": [
+      "Windows"
+    ],
     "categories": [],
     "genres": []
   },
@@ -16643,6 +16689,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/385730/capsule_184x69.jpg?t=1572397400",
     "type": "game",
     "description": "The newest addition to the flagship WWE video game franchise will deliver fun, authentic and hard-hitting action, including returning fan-favourite features and game modes, new innovations and more!",
+    "priceCurrency": "USD",
+    "price": "5.99",
     "metaCriticScore": 74,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/wwe-2k16",
     "platforms": [
@@ -16952,6 +17000,8 @@
     "keys": [
       "Warhammer: End Times - Vermintide The Outsider DLC"
     ],
+    "priceCurrency": "USD",
+    "price": "$0.99",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -17346,6 +17396,8 @@
     "keys": [
       "Wizorb, BIT.TRIP.RUNNER, Gratuitous Space Battles, and Jamestown"
     ],
+    "priceCurrency": "USD",
+    "price": "$37.96",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -17384,6 +17436,8 @@
     "keys": [
       "World of Goo, Anomaly, Osmos, and EDGE"
     ],
+    "priceCurrency": "USD",
+    "price": "$36.97",
     "metaCriticScore": 0,
     "platforms": [],
     "categories": [],
@@ -18005,7 +18059,7 @@
   },
   {
     "keys": [
-      "112 Operator "
+      "112 Operator"
     ],
     "appId": 793460,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/793460/capsule_184x69.jpg?t=1684158253",
@@ -18519,10 +18573,26 @@
     "keys": [
       "Deponia Doomsday Soundtrack"
     ],
+    "appId": 558150,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/558150/capsule_184x69.jpg?t=1581550353",
+    "type": "music",
+    "description": "The entire „Deponia Doomsday“ soundtrack.",
+    "priceCurrency": "USD",
+    "price": "2.99",
     "metaCriticScore": 0,
-    "platforms": [],
-    "categories": [],
-    "genres": []
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Additional High-Quality Audio"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "releaseDate": "2016"
   },
   {
     "keys": [
@@ -18860,6 +18930,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1100600/capsule_184x69.jpg?t=1671725182",
     "type": "game",
     "description": "Run your football club, your way. Every decision counts in Football Manager 2020 with new features and polished game mechanics rewarding planning and progression like never before, empowering managers to develop and refine both your club’s and your own unique identity.",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 84,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/football-manager-2020",
     "platforms": [
@@ -19470,10 +19542,26 @@
     "keys": [
       "Memoria Soundtrack"
     ],
+    "appId": 558210,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/558210/capsule_184x69.jpg?t=1581628304",
+    "type": "music",
+    "description": "The entire „Memoria“ soundtrack.",
+    "priceCurrency": "USD",
+    "price": "2.99",
     "metaCriticScore": 0,
-    "platforms": [],
-    "categories": [],
-    "genres": []
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Additional High-Quality Audio"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "releaseDate": "2016"
   },
   {
     "keys": [
@@ -19669,6 +19757,8 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1089350/capsule_184x69.jpg?t=1663810795",
     "type": "game",
     "description": "NOTE: All multiplayer servers for NBA 2K20 will be shutdown as of 12/31/2021. After that time, all game functions requiring online servers will no longer function.",
+    "priceCurrency": "USD",
+    "price": "4.99",
     "metaCriticScore": 74,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/nba-2k20",
     "platforms": [
@@ -20675,34 +20765,30 @@
     "keys": [
       "Symmetry"
     ],
-    "appId": 1130400,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1130400/capsule_184x69.jpg?t=1644751830",
+    "appId": 537520,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/537520/capsule_184x69.jpg?t=1589292558",
     "type": "game",
-    "description": "A 3D platforming challenge like no other! Play solo or against up to 3 others in Symmetry - a ball roller that is sure to put your nerves to the test!",
+    "description": "A research spaceship reaches an abandoned planet. Nothing is what it seems here and the situation quickly slips out of control. Can the crew manage to survive and get back home?",
     "priceCurrency": "USD",
-    "price": "7.99",
-    "metaCriticScore": 0,
+    "price": "11.99",
+    "metaCriticScore": 60,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/symmetry",
     "platforms": [
+      "macOS",
       "Windows"
     ],
     "categories": [
       "Single-player",
-      "Multi-player",
-      "PvP",
-      "Shared/Split Screen PvP",
-      "Shared/Split Screen",
       "Steam Achievements",
-      "Full controller support",
-      "Remote Play Together"
+      "Steam Cloud"
     ],
     "genres": [
-      "Action",
       "Adventure",
       "Indie",
-      "Racing",
-      "Early Access"
+      "Simulation",
+      "Strategy"
     ],
-    "releaseDate": "2019"
+    "releaseDate": "2018"
   },
   {
     "keys": [

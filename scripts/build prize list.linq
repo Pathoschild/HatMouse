@@ -168,12 +168,12 @@ GameRecord[] ReadSearchData()
 		.GetRecords<CsvGameRecord>()
 		.Select(row => new GameRecord
 		{
-			Source = row.Source,
-			SearchTitle = row.Title,
+			Source = row.Source.Trim(),
+			SearchTitle = row.Title.Trim(),
 			AppId = row.OverrideAppId ?? 0,
 			BundleId = row.OverrideBundleId ?? 0,
-			OverridePrice = !string.IsNullOrWhiteSpace(row.OverridePrice) ? row.OverridePrice : null,
-			OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription : null
+			OverridePrice = !string.IsNullOrWhiteSpace(row.OverridePrice) ? row.OverridePrice.Trim() : null,
+			OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription.Trim() : null
 		})
 		.ToArray();
 }
