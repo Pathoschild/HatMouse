@@ -927,6 +927,38 @@
   },
   {
     "keys": [
+      "Amnesia: Rebirth"
+    ],
+    "appId": 999220,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/999220/capsule_184x69.jpg?t=1685698954",
+    "type": "game",
+    "description": "A first-person horror adventure. Uncover your past and survive the Algerian desert. Fear is your enemy; stay calm to not succumb to an illness threatening you and your loved one. Avoid darkness, hide from monsters and solve puzzles. Adventure Mode available for a less scary experience.",
+    "priceCurrency": "USD",
+    "price": "29.99",
+    "metaCriticScore": 80,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/amnesia-rebirth",
+    "platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Remote Play Together"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "releaseDate": "2020",
+    "contentWarnings": "This game contains strong horror themes, gore (such as corpses), depictions of violence, non-sexual nudity, and strong language."
+  },
+  {
+    "keys": [
       "Anna's Quest"
     ],
     "appId": 327220,
@@ -2011,6 +2043,35 @@
   },
   {
     "keys": [
+      "Biomutant"
+    ],
+    "appId": 597820,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/597820/capsule_184x69.jpg?t=1664962616",
+    "type": "game",
+    "description": "BIOMUTANT® is an open-world, post-apocalyptic Kung-Fu fable RPG, with a unique martial arts styled combat system allowing you to mix melee, shooting and mutant ability action.",
+    "priceCurrency": "USD",
+    "price": "39.99",
+    "metaCriticScore": 66,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/biomutant",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "releaseDate": "2021"
+  },
+  {
+    "keys": [
       "Bioshock Remastered",
       "BioShock™ Remastered"
     ],
@@ -2311,6 +2372,52 @@
   {
     "keys": [
       "Bone - Episode 1 & Episode 2"
+    ],
+    "metaCriticScore": 0,
+    "platforms": [],
+    "categories": [],
+    "genres": []
+  },
+  {
+    "keys": [
+      "Borderlands 3"
+    ],
+    "appId": 397540,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/397540/capsule_184x69.jpg?t=1679590953",
+    "type": "game",
+    "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters.",
+    "priceCurrency": "USD",
+    "price": "79.99",
+    "metaCriticScore": 81,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/borderlands-3",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "releaseDate": "2020",
+    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. \r\n\r\nThis may include:\r\nFrequent Violence or Gore\r\nGeneral Mature Content\r\nSexual Themes"
+  },
+  {
+    "keys": [
+      "Borderlands 3 Director's Cut DLC"
     ],
     "metaCriticScore": 0,
     "platforms": [],
@@ -4025,6 +4132,65 @@
   },
   {
     "keys": [
+      "Death Stranding"
+    ],
+    "appId": 1850570,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1850570/capsule_184x69.jpg?t=1683196693",
+    "type": "game",
+    "description": "From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. Can you reunite the shattered world, one step at a time?",
+    "priceCurrency": "USD",
+    "price": "39.99",
+    "metaCriticScore": 85,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/death-stranding-directors-cut",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "releaseDate": "2022",
+    "contentWarnings": "This Game may contain content not appropriate for all ages. General Mature Content"
+  },
+  {
+    "keys": [
+      "Deathloop"
+    ],
+    "appId": 1252330,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252330/capsule_184x69.jpg?t=1685023314",
+    "type": "game",
+    "description": "DEATHLOOP is a next-gen FPS from Arkane Lyon, the award-winning studio behind Dishonored. In DEATHLOOP, two rival assassins are trapped in a mysterious timeloop on the island of Blackreef, doomed to repeat the same day for eternity.",
+    "priceCurrency": "USD",
+    "price": "59.99",
+    "metaCriticScore": 87,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/deathloop",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "releaseDate": "2021",
+    "contentWarnings": "DEATHLOOP will contain intense violence, blood and gore, sexual content, and strong language. "
+  },
+  {
+    "keys": [
       "Deponia Doomsday",
       "Deponia Doomsday"
     ],
@@ -4204,6 +4370,45 @@
   },
   {
     "keys": [
+      "DIRT 5"
+    ],
+    "appId": 1038250,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1038250/capsule_184x69.jpg?t=1663755334",
+    "type": "game",
+    "description": "DIRT 5 is a fun, amplified, off-road arcade racing experience created by Codemasters. Blaze a trail on routes across the world, covering gravel, ice, snow and sand, with a roster of cars ranging from rally icons to trucks, to GT heroes.",
+    "priceCurrency": "USD",
+    "price": "59.99",
+    "metaCriticScore": 72,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/dirt-5",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Remote Play Together"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Racing",
+      "Sports"
+    ],
+    "releaseDate": "2020"
+  },
+  {
+    "keys": [
       "DiRT Rally"
     ],
     "appId": 690790,
@@ -4306,6 +4511,39 @@
       "Strategy"
     ],
     "releaseDate": "2018"
+  },
+  {
+    "keys": [
+      "Doom Eternal"
+    ],
+    "appId": 782330,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/782330/capsule_184x69.jpg?t=1661971606",
+    "type": "game",
+    "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you.",
+    "priceCurrency": "USD",
+    "price": "39.99",
+    "metaCriticScore": 88,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/doom-eternal",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "releaseDate": "2020",
+    "contentWarnings": "Similar to DOOM from 2016, DOOM Eternal will contain Blood and Gore, Intense Violence and Strong Language"
   },
   {
     "keys": [
@@ -8867,6 +9105,34 @@
   },
   {
     "keys": [
+      "Jurassic World Evolution 2"
+    ],
+    "appId": 1244460,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244460/capsule_184x69_alt_assets_1.jpg?t=1686217929",
+    "type": "game",
+    "description": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier’s highly successful Jurassic World Evolution. This bold new era in the Jurassic World Evolution game franchise builds upon the ground-breaking and immersive 2018 management simulation.",
+    "priceCurrency": "USD",
+    "price": "59.99",
+    "metaCriticScore": 77,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/jurassic-world-evolution-2",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Stats"
+    ],
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "releaseDate": "2021"
+  },
+  {
+    "keys": [
       "Kathy Rain"
     ],
     "appId": 370910,
@@ -10014,6 +10280,34 @@
       "Adventure",
       "Indie"
     ]
+  },
+  {
+    "keys": [
+      "Mass Effect Legendary Edition"
+    ],
+    "appId": 1328670,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1328670/capsule_184x69.jpg?t=1669773470",
+    "type": "game",
+    "description": "The Mass Effect™ Legendary Edition includes single-player base content and over 40 DLC from the highly acclaimed Mass Effect, Mass Effect 2, and Mass Effect 3 games, including promo weapons, armors, and packs — remastered and optimized for 4K Ultra HD.",
+    "priceCurrency": "USD",
+    "price": "59.99",
+    "metaCriticScore": 86,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/mass-effect-legendary-edition",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on TV"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "releaseDate": "2021"
   },
   {
     "keys": [
@@ -20990,6 +21284,33 @@
     ],
     "releaseDate": "2018",
     "contentWarnings": "The game contains the following items that may not be suitable for all audiences: \r\nBlood, Intense Violence, Sexual Content, Strong Language, Use of Alcohol"
+  },
+  {
+    "keys": [
+      "Yakuza 3 Remastered"
+    ],
+    "appId": 1088710,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1088710/capsule_184x69.jpg?t=1615575232",
+    "type": "game",
+    "description": "Kazuma Kiryu has earned his retirement on the sandy beaches of Okinawa. But when a deadly power struggle arrives on his doorstep, he’ll have to walk the streets of Kamurocho to escape his past for good. Complete The Dragon of Dojima’s journey.",
+    "priceCurrency": "USD",
+    "price": "19.99",
+    "metaCriticScore": 0,
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "releaseDate": "2021",
+    "contentWarnings": "The game may contain following contents not suitable for all audiences:\r\nBlood\r\nIntense Violence\r\nPartial Nudity\r\nSexual Themes\r\nStrong Language\r\nUse of Alcohol"
   },
   {
     "keys": [
