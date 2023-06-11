@@ -1802,49 +1802,6 @@
   },
   {
     "keys": [
-      "Awesomenauts"
-    ],
-    "appId": 204300,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/204300/capsule_184x69.jpg?t=1575970562",
-    "type": "game",
-    "description": "Use your power, show your might! Play this Multiplayer Online Battle Arena (MOBA) game for FREE now! AWESOMENAUTS combines 2D platforming with team-based strategy and hero based action. Whether you are a new recruit or an intergalactic legend, play AWESOMENAUTS!",
-    "metaCriticScore": 78,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/awesomenauts",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Valve Anti-Cheat enabled",
-      "Steam Leaderboards",
-      "Includes level editor",
-      "Remote Play on TV",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Action",
-      "Free to Play",
-      "Indie",
-      "Strategy"
-    ],
-    "releaseDate": "2012"
-  },
-  {
-    "keys": [
       "Awesomenauts Cluck Costume"
     ],
     "metaCriticScore": 0,
@@ -8279,39 +8236,6 @@
   },
   {
     "keys": [
-      "Laser League"
-    ],
-    "appId": 570460,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/570460/capsule_184x69.jpg?t=1680572469",
-    "type": "game",
-    "description": "Vaporize the opposition in the light-speed future of sport. An all new multiplayer experience - easy to pick up, but near impossible to put down, Laser League starts as a simple test of your reflexes, but soon becomes a strategic showdown with deep team tactics. Now it's free to join.",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "In-App Purchases"
-    ],
-    "genres": [
-      "Action",
-      "Indie",
-      "Sports"
-    ],
-    "releaseDate": "2018"
-  },
-  {
-    "keys": [
       "Last Day of June",
       "Last Day of June"
     ],
@@ -8486,36 +8410,6 @@
       "RPG"
     ],
     "releaseDate": "2014"
-  },
-  {
-    "keys": [
-      "Life Is Strange™ - Episode 1"
-    ],
-    "appId": 319630,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/319630/capsule_184x69.jpg?t=1662395426",
-    "type": "game",
-    "description": "Episode 1 now FREE! Life is Strange is an award-winning and critically acclaimed episodic adventure game that allows the player to rewind time and affect the past, present and future.",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "releaseDate": "2015"
   },
   {
     "keys": [
@@ -9150,44 +9044,6 @@
       "Strategy"
     ],
     "releaseDate": "2015"
-  },
-  {
-    "keys": [
-      "Minion Masters"
-    ],
-    "appId": 489520,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/489520/capsule_184x69_alt_assets_10.jpg?t=1686222094",
-    "type": "game",
-    "description": "An addictive fast-paced hybrid of Card games & Tower-Defense. Play 1v1 - or bring a friend for 2v2 - and engage in epic online multiplayer battles full of innovative strategy and awesome plays! Collect 200+ cards with unique mechanics, all free!",
-    "metaCriticScore": 0,
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "In-App Purchases",
-      "Steam Cloud",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Free to Play",
-      "Indie",
-      "RPG",
-      "Strategy"
-    ],
-    "releaseDate": "2019"
   },
   {
     "keys": [
@@ -10362,39 +10218,6 @@
   },
   {
     "keys": [
-      "Oil Rush"
-    ],
-    "appId": 200390,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/200390/capsule_184x69.jpg?t=1642774781",
-    "type": "game",
-    "description": "Oil Rush is a naval strategy game that takes place in a world where nuclear war has melted the ice caps, changing the face of the planet forever. Oil Rush offers unique gameplay, avoiding micromanagement of every single unit, while still providing full control over all important aspects of strategy and economy.",
-    "metaCriticScore": 67,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/oil-rush",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "LAN PvP",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Cloud",
-      "Stats",
-      "Steam Leaderboards"
-    ],
-    "genres": [
-      "Indie",
-      "Strategy"
-    ],
-    "releaseDate": "2012"
-  },
-  {
-    "keys": [
       "Okhlos"
     ],
     "appId": 400180,
@@ -11426,30 +11249,6 @@
       "Indie"
     ],
     "releaseDate": "2014"
-  },
-  {
-    "keys": [
-      "Quake Champions Early Access plus 50 Shards, 100 Platinum, 2000 Favor"
-    ],
-    "appId": 611500,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/611500/capsule_184x69.jpg?t=1673980683",
-    "type": "game",
-    "description": "Step into the Arena. Compete against players from around the world in this fast-paced shooter that combines the dark mythos of the original Quake with the skill-based competition of Quake III Arena. Become a Champion.",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Steam Achievements"
-    ],
-    "genres": [
-      "Action",
-      "Free to Play"
-    ],
-    "releaseDate": "2022"
   },
   {
     "keys": [
@@ -12775,27 +12574,6 @@
       "Casual"
     ],
     "releaseDate": "2012"
-  },
-  {
-    "keys": [
-      "Sherlock Holmes: Mystery of the Mummy"
-    ],
-    "appId": 11130,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/11130/capsule_184x69.jpg?t=1667214421",
-    "type": "game",
-    "description": "Take on the role of the famous detective Sherlock Holmes and get ready to avoid numerous traps and to solve riddles. A mysterious murder, numerous suspects, and the famous mummy for a case that appears to be not that easy...",
-    "metaCriticScore": 61,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/sherlock-holmes-the-mystery-of-the-mummy",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player"
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "releaseDate": "2009"
   },
   {
     "keys": [
@@ -19576,38 +19354,6 @@
     "genres": [
       "Adventure"
     ]
-  },
-  {
-    "keys": [
-      "Kingdom Classic"
-    ],
-    "appId": 368230,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/368230/capsule_184x69.jpg?t=1674055442",
-    "type": "game",
-    "description": "Kingdom is a 2D sidescrolling strategy/resource management hybrid with a minimalist feel wrapped in a beautiful, modern pixel art aesthetic.",
-    "metaCriticScore": 74,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/kingdom",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "releaseDate": "2015"
   },
   {
     "keys": [

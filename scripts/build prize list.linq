@@ -35,7 +35,7 @@ async Task Main()
 {
 	// read list of raw files
 	Console.WriteLine("Reading search file...");
-	GameRecord[] games = this.ReadSearchData().ToArray();
+	List<GameRecord> games = this.ReadSearchData().ToList();
 
 	// init
 	var client = new SteamApiClient();
@@ -47,11 +47,11 @@ async Task Main()
 		var progress = new Util.ProgressBar("Fetching basic game info...", true).Dump();
 
 		int fetched = 0;
-		for (int i = 0; i < games.Length; i++)
+		for (int i = 0; i < games.Count; i++)
 		{
 			var game = games[i];
-			progress.Caption = $"Fetching basic info for game {i + 1} of {games.Length} ({game.SearchTitle})...";
-			progress.Fraction = (i * 1d) / games.Length;
+			progress.Caption = $"Fetching basic info for game {i + 1} of {games.Count} ({game.SearchTitle})...";
+			progress.Fraction = (i * 1d) / games.Count;
 
 			// skip: explicitly marked no match
 			if (game.AppId == -1)
@@ -82,7 +82,7 @@ async Task Main()
 		}
 
 		progress.Fraction = 1;
-		Console.WriteLine($"Fetched basic game info for {games.Length} games.");
+		Console.WriteLine($"Fetched basic game info for {games.Count} games.");
 	}
 
 	// fetch game info
@@ -90,11 +90,11 @@ async Task Main()
 		var progress = new Util.ProgressBar("Fetching game details...", true).Dump();
 
 		int fetched = 0;
-		for (int i = 0; i < games.Length; i++)
+		for (int i = 0; i < games.Count; i++)
 		{
 			var game = games[i];
-			progress.Caption = $"Fetching details for game {i + 1} of {games.Length} ({game.SearchTitle})...";
-			progress.Fraction = (i * 1d) / games.Length;
+			progress.Caption = $"Fetching details for game {i + 1} of {games.Count} ({game.SearchTitle})...";
+			progress.Fraction = (i * 1d) / games.Count;
 
 			if (game.AppId > 0)
 			{
@@ -127,7 +127,19 @@ async Task Main()
 		}
 
 		progress.Fraction = 1;
-		Console.WriteLine($"Fetched details for {games.Length} games.");
+		Console.WriteLine($"Fetched details for {games.Count} games.");
+	}
+
+	// ignore free games
+	for (int i = 0; i < games.Count; i++)
+	{
+		GameRecord game = games[i];
+		if (game.IsFree)
+		{
+			Util.WordRun(false, "Ignored free game ", new Hyperlinq(game.GetUrl(), game.Title), $" for game key '{game.SearchTitle}'.").Dump();
+			games.RemoveAt(i);
+			i--;
+		}
 	}
 
 	// build exports
@@ -160,7 +172,7 @@ GameRecord[] ReadSearchData()
 
 /// <summary>Save the fetched game info to the CSV export file for the internal spreadsheet.</summary>
 /// <param name="game">The game data to save.</param>
-void WriteCsvExportFile(GameRecord[] games)
+void WriteCsvExportFile(IList<GameRecord> games)
 {
 	string exportPath = Path.Combine(ScriptDir, "results.csv");
 	using FileStream fileStream = File.OpenWrite(exportPath);
@@ -171,7 +183,7 @@ void WriteCsvExportFile(GameRecord[] games)
 
 /// <summary>Save the fetched game info to the JSON export file for the public prize page.</summary>
 /// <param name="game">The game data to save.</param>
-void WritePublicJsonExportFile(GameRecord[] games)
+void WritePublicJsonExportFile(IList<GameRecord> games)
 {
 	// get export models
 	List<PublicGameRecord> exportGames = games
@@ -373,6 +385,8 @@ public class SteamApiClient : FluentClient
 		game.ShortDescription = HttpUtility.HtmlDecode(data.Value<string>("short_description"));
 		game.Languages = HttpUtility.HtmlDecode(data.Value<string>("supported_languages"));
 
+		game.IsFree = data.Value<bool>("is_free");
+
 		var prices = data.Value<JToken>("price_overview");
 		if (prices != null)
 		{
@@ -490,6 +504,7 @@ public class GameRecord
 	public string ShortDescription { get; set; }
 	public string Languages { get; set; }
 
+	public bool IsFree { get; set; }
 	public string PriceCurrency { get; set; }
 	public string BasePrice { get; set; }
 	public int PriceDiscountPercent { get; set; }
@@ -504,6 +519,17 @@ public class GameRecord
 	public string Genres { get; set; }
 	public string ReleaseDate { get; set; }
 	public string ContentWarnings { get; set; }
+
+	public string GetUrl()
+	{
+		if (this.AppId > 0)
+			return "https://store.steampowered.com/app/" + this.AppId;
+
+		if (this.BundleId > 0)
+			return "https://store.steampowered.com/sub/" + this.BundleId;
+
+		return null;
+	}
 }
 
 public class PublicGameRecord
