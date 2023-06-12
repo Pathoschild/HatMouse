@@ -60,10 +60,16 @@
                     </div>
                 </div>
 
-                <div v-for="prizeGroup of Object.keys(config.prizeGroups)" v-cloak>
-                    <h2>{{prizeGroup}}</h3>
+                <div v-for="prizeGroup of gamesByPrizeGroup" v-cloak>
+                    <h2>{{prizeGroup.groupName}}</h3>
 
-                    <small>{{games.filter(p => p.visible && p.prizeGroup == prizeGroup).length}} prizes in this group.</small>
+                    <small v-if="prizeGroup.countHidden">
+                        {{prizeGroup.countVisible}} prizes shown in this group ({{prizeGroup.countHidden}} hidden).
+                    </small>
+                    <small v-else>
+                        {{prizeGroup.countVisible}} prizes in this group.
+                    </small>
+
                     <table class="wikitable game-list">
                         <thead>
                             <tr>
@@ -82,7 +88,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr v-bind:class="{ claimed: game.claimed }" v-for="game in games" v-if="game.prizeGroup == prizeGroup" :key="game.slug" v-bind:id="game.slug" v-show="game.visible" v-bind:data-type="game.type">
+                            <tr v-bind:class="{ claimed: game.claimed }" v-for="game in prizeGroup.games" :key="game.slug" v-bind:id="game.slug" v-bind:data-type="game.type">
                                 <td class="image" v-if="showLogos">
                                     <img v-bind:src="game.image" v-if="game.image" loading="lazy" />
                                 </td>

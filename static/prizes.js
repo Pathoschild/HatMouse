@@ -159,6 +159,25 @@ const prizeList = async function() {
             // jump to anchor (since table is added after page load)
             this.fixHashPosition();
         },
+        computed: {
+            gamesByPrizeGroup() {
+                const groups = [];
+
+                for (const groupName of Object.keys(data.config.prizeGroups)) {
+                    const allGames = data.games.filter(game => game.prizeGroup == groupName);
+                    const visibleGames = allGames.filter(game => game.visible);
+
+                    groups.push({
+                        groupName: groupName,
+                        games: visibleGames,
+                        countVisible: visibleGames.length,
+                        countHidden: allGames.length - visibleGames.length
+                    });
+                }
+
+                return groups;
+            }
+        },
         methods: {
             /**
              * Update the visibility of all games based on the current search text and filters.
