@@ -22,6 +22,7 @@ To build the prize list:
    `OverridePrice` | Show this USD price instead of the one fetched from the Steam API (e.g. for unlisted games).
    `OverrideDescription` | Show this description instead of the one fetched from the Steam API. You can use HTML in this field (e.g. to link to multiple store pages).
    `IgnoreKey` | If `true`, don't show this game key (e.g. for games which no longer exist).
+   `Claimed` | If `true`, the game key is struck out and marked claimed in the prize list.
    `Comments` | Arbitrary comments ignored by the code (e.g. to explain why we're overriding fields).
 
 4. Open `scripts/build prize list.linq` in LINQPad.
@@ -42,9 +43,6 @@ You can edit `config/config.json` to change a few settings:
 * `prizeGroups` groups prizes into sections based on the Steam retail price. The key is the display
   label, and the value is the minimum price. Each game uses the first matching group, and there
   should always be a final group with a price of `0` for any games that don't fit in another group.
-* `claimed` is the app/bundle IDs which have already been claimed by a winner. Each ID will only
-  remove one entry from the prize list (e.g. if two of the same game were claimed, list the ID
-  twice).
 
 You can edit `index.html` directly to change the intro text.
 

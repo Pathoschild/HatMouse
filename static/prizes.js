@@ -88,23 +88,6 @@ const prizeList = async function() {
                     break;
                 }
             }
-
-            // mark claimed if applicable
-            game.claimed = false;
-            if (game.appId > 0 || game.bundleId > 0) {
-                const list = game.appId > 0
-                    ? data.config.claimed.appIds
-                    : data.config.claimed.bundleIds;
-                const id = game.appId > 0
-                    ? game.appId
-                    : game.bundleId;
-
-                const index = list.indexOf(id);
-                if (index > -1) {
-                    game.claimed = true;
-                    list.splice(index, 1);
-                }
-            }
         }
     }
 

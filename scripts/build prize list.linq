@@ -181,7 +181,8 @@ GameRecord[] ReadSearchData()
 				AppId = row.OverrideAppId ?? 0,
 				BundleId = row.OverrideBundleId ?? 0,
 				OverridePrice = !string.IsNullOrWhiteSpace(row.OverridePrice) ? row.OverridePrice.Trim().Trim('$') : null,
-				OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription.Trim() : null
+				OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription.Trim() : null,
+				Claimed = row.Claimed ?? false
 			};
 		})
 		.Where(p => p is not null)
@@ -211,8 +212,8 @@ void WritePublicJsonExportFile(IList<GameRecord> games)
 
 	// group duplicates
 	{
-		Dictionary<int, PublicGameRecord> byAppId = new();
-		Dictionary<int, PublicGameRecord> byBundleId = new();
+		Dictionary<(int, bool), PublicGameRecord> byAppId = new();
+		Dictionary<(int, bool), PublicGameRecord> byBundleId = new();
 
 		for (int i = 0; i < exportGames.Count; i++)
 		{
@@ -223,14 +224,15 @@ void WritePublicJsonExportFile(IList<GameRecord> games)
 			var lookup = game.AppId > 0 ? byAppId : byBundleId;
 			int id = game.AppId > 0 ? game.AppId.Value : game.BundleId.Value;
 
-			if (lookup.TryGetValue(id, out PublicGameRecord mainRecord))
+			var key = (id, game.Claimed ?? false);
+			if (lookup.TryGetValue(key, out PublicGameRecord mainRecord))
 			{
 				mainRecord.Keys.AddRange(game.Keys);
 				exportGames.RemoveAt(i);
 				i--;
 			}
 			else
-				lookup[id] = game;
+				lookup[key] = game;
 		}
 	}
 
@@ -503,6 +505,7 @@ public class CsvGameRecord
 	public string OverridePrice { get; set; }
 	public string OverrideDescription { get; set; }
 	public bool? IgnoreKey { get; set; }
+	public bool? Claimed { get; set; }
 	public string Comments { get; set; }
 }
 
@@ -538,6 +541,9 @@ public class GameRecord
 	public string ReleaseDate { get; set; }
 	public string ContentWarnings { get; set; }
 
+	public bool Claimed { get; set; }
+
+	/// <summary>Get the URL to the game's Steam store page, if any.</summary>
 	public string GetUrl()
 	{
 		if (this.AppId > 0)
@@ -571,6 +577,8 @@ public class PublicGameRecord
 	public string ReleaseDate { get; }
 	public string ContentWarnings { get; }
 
+	public bool? Claimed { get; set; }
+
 	public PublicGameRecord(GameRecord game)
 	{
 		this.Keys = new List<string> { game.SearchTitle };
@@ -600,21 +608,12 @@ public class PublicGameRecord
 		this.ReleaseDate = this.GetReleaseYear(game.ReleaseDate);
 		this.ContentWarnings = game.ContentWarnings;
 
+		this.Claimed = game.Claimed
+			? true
+			: null;
+
 		if (this.Type == "dlc")
 			this.Type = "DLC";
-	}
-
-	/// <summary>Get the URL to the game's Steam store page.</summary>
-	/// <param name="game">The game data.</param>
-	private string GetUrl(GameRecord game)
-	{
-		if (game.AppId > 0)
-			return $"https://store.steampowered.com/app/{game.AppId}";
-
-		if (game.BundleId > 0)
-			return $"https://store.steampowered.com/sub/{game.BundleId}";
-
-		return null;
 	}
 
 	/// <summary>Normalize a MetaCritical review page URL.</summary>
