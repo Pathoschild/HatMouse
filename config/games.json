@@ -316,7 +316,11 @@
       "Indie"
     ],
     "releaseDate": "2020",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. Frequent violence, gore, and general mature content."
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -405,7 +409,11 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2020"
+    "releaseDate": "2020",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -955,7 +963,11 @@
       "Indie"
     ],
     "releaseDate": "2020",
-    "contentWarnings": "This game contains strong horror themes, gore (such as corpses), depictions of violence, non-sexual nudity, and strong language."
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -1698,7 +1710,9 @@
       "Indie"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "Backbone heavily features strong language, themes of violence, systemic racism and sexism, drug abuse, depression, terminal illness, body horror, death. All imagery is suggestive and not direct, but we would still never recommend this game to children."
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -2191,7 +2205,10 @@
       "Indie"
     ],
     "releaseDate": "2020",
-    "contentWarnings": "Violence and death due to falls, blunt force, gunshots, and explosions. Over the top dismemberment of NPCs (gibing) that some may see as realistic."
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -2253,7 +2270,11 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2020"
+    "releaseDate": "2020",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -2287,7 +2308,12 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2019"
+    "releaseDate": "2019",
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -2436,7 +2462,11 @@
       "RPG"
     ],
     "releaseDate": "2020",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. \r\n\r\nThis may include:\r\nFrequent Violence or Gore\r\nGeneral Mature Content\r\nSexual Themes"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -2473,7 +2503,11 @@
       "RPG"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. \r\n\r\nThis may include:\r\nFrequent Violence or Gore\r\nGeneral Mature Content\r\nSexual Themes"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -2751,7 +2785,11 @@
       "Strategy"
     ],
     "releaseDate": "2013",
-    "contentWarnings": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -2894,7 +2932,10 @@
       "Adventure"
     ],
     "releaseDate": "2022",
-    "contentWarnings": "This game contains strong language, sex, self-harm and references to drug and alcohol abuse."
+    "contentWarnings": [
+      1,
+      5
+    ]
   },
   {
     "keys": [
@@ -3234,7 +3275,11 @@
       "Strategy"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "Conan Exiles has brutal combat where you can cut off limbs and heads of human opponents and blood is shown frequently.\r\n\r\nPlayers may choose to play the game with either no, partial or full nudity enabled. This is possible in both single and multiplayer.\r\n"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -4217,7 +4262,9 @@
       "Adventure"
     ],
     "releaseDate": "2022",
-    "contentWarnings": "This Game may contain content not appropriate for all ages. General Mature Content"
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -4248,7 +4295,11 @@
       "Action"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "DEATHLOOP will contain intense violence, blood and gore, sexual content, and strong language. "
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -4571,7 +4622,11 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      1,
+      5
+    ]
   },
   {
     "keys": [
@@ -4604,7 +4659,10 @@
       "Action"
     ],
     "releaseDate": "2020",
-    "contentWarnings": "Similar to DOOM from 2016, DOOM Eternal will contain Blood and Gore, Intense Violence and Strong Language"
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -7239,7 +7297,11 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2019"
+    "releaseDate": "2019",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -7399,7 +7461,10 @@
       "RPG"
     ],
     "releaseDate": "2016",
-    "contentWarnings": "Killing enemies in the game can result in blood and death fx."
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -7761,7 +7826,9 @@
       "Simulation"
     ],
     "releaseDate": "2015",
-    "contentWarnings": "Contains depictions of computer hacking, some of which have serious implied consequences."
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -8005,7 +8072,11 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -8156,7 +8227,10 @@
       "Adventure"
     ],
     "releaseDate": "2022",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content."
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -8185,7 +8259,9 @@
       "RPG"
     ],
     "releaseDate": "2017",
-    "contentWarnings": "Fantasy Violence, Mild Blood, Suggestive Themes, Language, Alcohol Reference, Comic Mischief. Sequels to HIVESWAP: Act 1 contain increasing levels of mature content."
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -8637,7 +8713,11 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -9502,7 +9582,11 @@
       "Adventure",
       "RPG"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      1,
+      5
+    ]
   },
   {
     "keys": [
@@ -10110,7 +10194,10 @@
       "Indie"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "Violence\r\nBlood and Gore\r\nSexually Suggestive Content"
+    "contentWarnings": [
+      1,
+      5
+    ]
   },
   {
     "keys": [
@@ -10198,7 +10285,11 @@
       "Indie"
     ],
     "releaseDate": "2022",
-    "contentWarnings": "LUST FROM BEYOND: M EDITION contains violence, blood, mild nudity and erotic themes. "
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -10260,7 +10351,11 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2020"
+    "releaseDate": "2020",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -10292,7 +10387,12 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -10403,7 +10503,12 @@
       "Action",
       "RPG"
     ],
-    "releaseDate": "2021"
+    "releaseDate": "2021",
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -10426,7 +10531,12 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2023"
+    "releaseDate": "2023",
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -10962,7 +11072,9 @@
       "Simulation"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "Monster Prom features mature themes, naughty words and some objectively bawdy scenarios, not suited for the sheepish or the faint of heart. Please bear this in mind before playing."
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -11159,7 +11271,11 @@
       "Indie"
     ],
     "releaseDate": "2016",
-    "contentWarnings": "Mother Russia Bleeds contains Violence, Blood and Gore, Sexual Themes, Nudity, Use of Drugs, Strong Language."
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -12367,7 +12483,11 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -12620,7 +12740,11 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -12804,7 +12928,9 @@
       "Indie"
     ],
     "releaseDate": "2022",
-    "contentWarnings": "Depictions of drug use, cartoon violence."
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -13786,7 +13912,11 @@
       "Early Access"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "Cartoon Violence\r\nCartoon Blood\r\nCrude Humor\r\nStrong Language\r\nMild Sexual Themes\r\nDrug and Alcohol use"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -13911,7 +14041,11 @@
       "Steam Leaderboards"
     ],
     "genres": [],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -14239,7 +14373,11 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -14673,7 +14811,11 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2014"
+    "releaseDate": "2014",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -14705,7 +14847,10 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2011"
+    "releaseDate": "2011",
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -14948,7 +15093,10 @@
       "Strategy"
     ],
     "releaseDate": "2016",
-    "contentWarnings": "Shadow Tactics: Blades of the Shogun is a tactical game about a team of specialists who are tasked with eliminating their opponents by assassinating or sabotaging them. Depending on your style of game play, violence is present: For most missions, there are non-lethal ways to neutralize your opponents, but if you choose to kill them to reach your goal, there will be blood."
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -15138,7 +15286,9 @@
       "Adventure"
     ],
     "releaseDate": "2023",
-    "contentWarnings": "The game contains exploration of crime scenes, depiction of blood."
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -16454,7 +16604,11 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      1,
+      5
+    ]
   },
   {
     "keys": [
@@ -16773,7 +16927,11 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -16838,7 +16996,11 @@
       "RPG"
     ],
     "releaseDate": "2019",
-    "contentWarnings": "This game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -17361,7 +17523,11 @@
       "RPG",
       "Strategy"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -17427,7 +17593,9 @@
       "Strategy"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "Contains cartoon violence and mild language. References to alcohol."
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -17620,7 +17788,10 @@
       "Simulation"
     ],
     "releaseDate": "2017",
-    "contentWarnings": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content.\r\nGore and blood can be disabled completely with an in-game setting.\r\n"
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -17841,7 +18012,9 @@
       "Strategy"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "The game contains references to the use of alcohol and general content considered mature."
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -18077,7 +18250,11 @@
       "RPG"
     ],
     "releaseDate": "2017",
-    "contentWarnings": "Blood and gore\r\nSexual themes\r\nUse of alcohol\r\nViolence"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -18387,7 +18564,10 @@
       "Simulation"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "The Forest contains intense violence, blood and gore, as well as horror themes and occasional nudity."
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -18636,7 +18816,10 @@
       "Strategy"
     ],
     "releaseDate": "2015",
-    "contentWarnings": "Blood from killing creatures and player deaths."
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -18982,7 +19165,12 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -19015,7 +19203,10 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2014"
+    "releaseDate": "2014",
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -20378,7 +20569,11 @@
     "genres": [
       "Strategy"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -20481,7 +20676,11 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "contentWarnings": [
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -21402,7 +21601,11 @@
       "RPG"
     ],
     "releaseDate": "2018",
-    "contentWarnings": "The game contains the following items that may not be suitable for all audiences: \r\nBlood, Intense Violence, Sexual Content, Strong Language, Use of Alcohol"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -21429,7 +21632,11 @@
       "Adventure"
     ],
     "releaseDate": "2021",
-    "contentWarnings": "The game may contain following contents not suitable for all audiences:\r\nBlood\r\nIntense Violence\r\nPartial Nudity\r\nSexual Themes\r\nStrong Language\r\nUse of Alcohol"
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [
@@ -21462,7 +21669,11 @@
       "RPG"
     ],
     "releaseDate": "2019",
-    "contentWarnings": "The game may contain following contents not suitable for all audiences:\r\nBlood\r\nIntense Violence\r\nPartial Nudity\r\nSexual Themes\r\nStrong Language\r\nUse of Alcohol "
+    "contentWarnings": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "keys": [

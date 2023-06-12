@@ -121,6 +121,7 @@ table.wikitable > caption {
 
 .game-list tbody td.description,
 .game-list tbody td.categories,
-.game-list tbody td.genres {
+.game-list tbody td.genres,
+.game-list tbody td.contentWarnings {
     font-size: 0.8em;
 }

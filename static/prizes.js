@@ -72,6 +72,47 @@ const prizeList = async function() {
                 ? game.description.slice(0, maxDescriptionLen) + "…"
                 : null;
 
+            // parse content warnings
+            if (game.contentWarnings?.length)
+            {
+                const warnings = [];
+                const lookup = Object.fromEntries(game.contentWarnings.map(id => [id, true]));
+
+                // adult content (only show one)
+                if (lookup[3]) {
+                    warnings.push("adult-only sexual content");
+                    delete lookup[3];
+                    delete lookup[4];
+                    delete lookup[1];
+                }
+                else if (lookup[4]) {
+                    warnings.push("frequent nudity or sexual content");
+                    delete lookup[4];
+                    delete lookup[1];
+                }
+                else if (lookup[1]) {
+                    warnings.push("some nudity or sexual content");
+                    delete lookup[1];
+                }
+
+                // other
+                if (lookup[2]) {
+                    warnings.push("frequent violence or gore");
+                    delete lookup[2];
+                }
+                if (lookup[5]) {
+                    warnings.push("general mature content");
+                    delete lookup[5];
+                }
+                for (const id of Object.keys(lookup))
+                    warnings.push ("unknown (" + id + ")");
+
+                game.contentWarningText = warnings.join(", ") + ".";
+                game.contentWarningText = game.contentWarningText[0].toUpperCase() + game.contentWarningText.slice(1);
+            }
+            else
+                game.contentWarningText = "";
+
             // set URL
             if (game.appId)
                 game.url = "https://store.steampowered.com/app/" + game.appId;
@@ -129,9 +170,7 @@ const prizeList = async function() {
                 // apply criteria
                 for (let i = 0; i < data.games.length; i++) {
                     const game = data.games[i];
-                    game.visible = true;
 
-                    // check filters
                     game.visible = this.matchesFilters(game, words);
                 }
             },
@@ -161,6 +200,10 @@ const prizeList = async function() {
                 // check hash
                 if (location.hash === "#" + game.slug)
                     return true;
+
+                // check content filter
+                if (!data.showMature && game.contentWarnings)
+                    return false;
 
                 // check platform
                 const hasValidPlatform =

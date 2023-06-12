@@ -42,6 +42,11 @@
                         <label for="search-box">Search: </label>
                         <input type="text" id="search-box" v-model="search" v-on:input="applyFilters" />
                     </div>
+                    <div id="filters" v-cloak>
+                        <div v-for="(filterGroup, key) in filters">
+                            {{filterGroup.label}}: <span v-for="filter in filterGroup.value" v-bind:class="{ active: filter.value }"><input type="checkbox" v-bind:id="filter.id" v-model="filter.value" v-on:change="applyFilters" /> <label v-bind:for="filter.id">{{filter.label}}</label></span>
+                        </div>
+                    </div>
                     <div id="filter-area">
                         <div>
                             <input type="checkbox" id="show-logos" v-model="showLogos" />
@@ -49,14 +54,8 @@
                         </div>
 
                         <div>
-                            <input type="checkbox" id="show-mature" v-model="showMature" />
-                            <label for="show-mature">show games with mature content</label>
-                        </div>
-
-                        <div id="filters" v-cloak>
-                            <div v-for="(filterGroup, key) in filters">
-                                {{filterGroup.label}}: <span v-for="filter in filterGroup.value" v-bind:class="{ active: filter.value }"><input type="checkbox" v-bind:id="filter.id" v-model="filter.value" v-on:change="applyFilters" /> <label v-bind:for="filter.id">{{filter.label}}</label></span>
-                            </div>
+                            <input type="checkbox" id="show-mature" v-model="showMature" v-on:change="applyFilters" />
+                            <label for="show-mature"><strong>show games with mature content</strong></label>
                         </div>
                     </div>
                 </div>
@@ -64,7 +63,7 @@
                 <div v-for="prizeGroup of Object.keys(config.prizeGroups)" v-cloak>
                     <h2>{{prizeGroup}}</h3>
 
-                    <small>{{games.filter(p => p.prizeGroup == prizeGroup).length}} prizes in this group.</small>
+                    <small>{{games.filter(p => p.visible && p.prizeGroup == prizeGroup).length}} prizes in this group.</small>
                     <table class="wikitable game-list">
                         <thead>
                             <tr>
@@ -111,7 +110,9 @@
                                 <td class="categories">{{game.categories.join(', ')}}</td>
                                 <td class="genres">{{game.genres.join(', ')}}</td>
                                 <td>{{game.releaseDate}}</td>
-                                <td v-if="showMature">{{game.contentWarnings}}</td>
+                                <td class="contentWarnings" v-if="showMature">
+                                    {{game.contentWarningText}}
+                                </td>
                                 <td>
                                     <small>
                                         <a v-bind:href="'#' + game.slug">#</a>

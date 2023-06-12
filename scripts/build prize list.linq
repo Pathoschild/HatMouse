@@ -438,7 +438,7 @@ public class SteamApiClient : FluentClient
 			game.Genres = string.Join(", ", genres.Select(p => p.Value<string>("description")));
 
 		game.ReleaseDate = data.Value<JToken>("release_date")?.Value<string>("date");
-		game.ContentWarnings = HttpUtility.HtmlDecode(data.Value<JToken>("content_descriptors")?.Value<string>("notes"));
+		game.ContentWarnings = data.Value<JObject>("content_descriptors")?.Value<JArray>("ids").Values<int>().ToArray();
 
 		return true;
 	}
@@ -544,7 +544,7 @@ public class GameRecord
 	public string Categories { get; set; }
 	public string Genres { get; set; }
 	public string ReleaseDate { get; set; }
-	public string ContentWarnings { get; set; }
+	public int[] ContentWarnings { get; set; }
 
 	public bool Claimed { get; set; }
 
@@ -580,7 +580,7 @@ public class PublicGameRecord
 	public string[] Genres { get; }
 
 	public string ReleaseDate { get; }
-	public string ContentWarnings { get; }
+	public int[] ContentWarnings { get; }
 
 	public bool? Claimed { get; set; }
 
@@ -611,7 +611,7 @@ public class PublicGameRecord
 		this.Categories = game.Categories?.Split(',', StringSplitOptions.TrimEntries) ?? Array.Empty<string>();
 		this.Genres = game.Genres?.Split(',', StringSplitOptions.TrimEntries) ?? Array.Empty<string>();
 		this.ReleaseDate = this.GetReleaseYear(game.ReleaseDate);
-		this.ContentWarnings = game.ContentWarnings;
+		this.ContentWarnings = game.ContentWarnings?.Length > 0 ? game.ContentWarnings : null;
 
 		this.Claimed = game.Claimed
 			? true
