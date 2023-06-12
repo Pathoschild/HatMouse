@@ -31,7 +31,7 @@
             <div id="intro">
                 <p>This page shows the prizes you can win in the Stardew Valley Discord hat mouse event.</p>
 
-                <p>You can choose up to $100 in prizes (max one from group A, two from group B, and any number from group C). Each game key can only be redeemed by one winner, so top winners get dibs. If you want to see all games, tick the "show games with mature content" checkbox.</p>
+                <p>You can choose up to $100 in prizes (max one from group A, two from group B, and any number from group C). Each game key can only be redeemed by one winner, so top winners get dibs. If you want to see all games, tick the "show games with content warnings" checkbox.</p>
 
                 <p><strong>The <em>title</em> column is the name of the game key. All other info (including the link to the Steam page) was filled in based on the name, so there may be discrepencies.</strong></p>
             </div>
@@ -54,8 +54,8 @@
                         </div>
 
                         <div>
-                            <input type="checkbox" id="show-mature" v-model="showMature" v-on:change="applyFilters" />
-                            <label for="show-mature"><strong>show games with mature content</strong></label>
+                            <input type="checkbox" id="show-mature" v-model="showGamesWithContentWarnings" v-on:change="applyFilters" />
+                            <label for="show-mature"><strong>show games with content warnings</strong></label>
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
                                 <th>categories</th>
                                 <th>genres</th>
                                 <th>release date</th>
-                                <th v-if="showMature">content warnings</th>
+                                <th v-if="showGamesWithContentWarnings">content warnings</th>
                                 <th>&nbsp;</th>
                             </tr>
                         </thead>
@@ -116,7 +116,7 @@
                                 <td class="categories">{{game.categories.join(', ')}}</td>
                                 <td class="genres">{{game.genres.join(', ')}}</td>
                                 <td>{{game.releaseDate}}</td>
-                                <td class="contentWarnings" v-if="showMature">
+                                <td class="contentWarnings" v-if="showGamesWithContentWarnings">
                                     {{game.contentWarningText}}
                                 </td>
                                 <td>

@@ -6,7 +6,7 @@ const prizeList = async function() {
         config: await $.getJSON("config/config.json?r=4"),
         games: await $.getJSON("config/games.json?r=4"),
         showLogos: false,
-        showMature: false,
+        showGamesWithContentWarnings: false,
         filters: {
             platforms: {
                 value: {
@@ -66,7 +66,7 @@ const prizeList = async function() {
                 slugsUsed[game.slug] = 1;
 
             // set display info
-            game.visible = data.showMature || !game.contentWarnings;
+            game.visible = true;
             game.searchableText = [game.title, game.type, game.description, ...game.categories, ...game.genres, game.releaseDate].join(" ").toLowerCase();
             game.truncatedDescription = game.description?.length > maxDescriptionLen
                 ? game.description.slice(0, maxDescriptionLen) + "…"
@@ -221,7 +221,7 @@ const prizeList = async function() {
                     return true;
 
                 // check content filter
-                if (!data.showMature && game.contentWarnings)
+                if (!data.showGamesWithContentWarnings && game.contentWarnings)
                     return false;
 
                 // check platform
