@@ -14,15 +14,15 @@ To build the prize list:
 3. Replace `scripts/game keys.csv` with the list of game keys. It must have these fields (with a
    header row matching these exact names):
 
-   field    | effect
-   -------- | ------
-   `Source` | Who donated the game key. This is ignored by the code, it's just tracked so they can provide the key when a winner claims it.
-   `Title`  | The game key name, ideally with text like `Steam Key` or `(Steam)` removed.
-   `OverrideAppId`<br />`OverrideBundleId` | Link the game key to a specific store page on Steam. This matches the number in the store page URL after `app/` (for `OverrideAppId`) or `sub/` (for `OverrideBundleId`). If both are omitted, the script will use the Steam API to find the matching game if possible (though that doesn't work for DLC or bundles).
-   `OverridePrice` | Show this USD price instead of the one fetched from the Steam API (e.g. for unlisted games).
-   `OverrideDescription` | Show this description instead of the one fetched from the Steam API. You can use HTML in this field (e.g. to link to multiple store pages).
-   `IgnoreKey` | If `true`, don't show this game key (e.g. for games which no longer exist).
-   `Claimed` | If `true`, the game key is struck out and marked claimed in the prize list.
+   field     | effect
+   --------- | ------
+   `Source`  | Who donated the game key. This is ignored by the code, it's just tracked so they can provide the key when a winner claims it.
+   `Title`   | The game key name, ideally with text like `Steam Key` or `(Steam)` removed.
+   `Ignored` | _(Optional)_ If `true`, don't show this game key (e.g. for games which no longer exist).
+   `Claimed` | _(Optional)_ If `true`, the game key is struck out and marked claimed in the prize list.
+   `AppId`<br />`BundleId` | _(Optional)_ Link the game key to a specific store page on Steam. This matches the number in the store page URL after `app/` (for `OverrideAppId`) or `sub/` (for `OverrideBundleId`). If both are omitted, the script will use the Steam API to find the matching game if possible (though that doesn't work for DLC or bundles).
+   `Price`   | _(Optional)_ Show this USD price instead of the one fetched from the Steam API (e.g. for unlisted games).
+   `Description` | _(Optional)_ Show this description instead of the one fetched from the Steam API. You can use HTML in this field (e.g. to link to multiple store pages).
    `Comments` | Arbitrary comments ignored by the code (e.g. to explain why we're overriding fields).
 
 4. Open `scripts/build prize list.linq` in LINQPad.

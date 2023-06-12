@@ -168,7 +168,7 @@ GameRecord[] ReadSearchData()
 		.GetRecords<CsvGameRecord>()
 		.Select(row =>
 		{
-			if (row.IgnoreKey ?? false)
+			if (row.Ignored ?? false)
 			{
 				Console.WriteLine($"Ignored disabled game key '{row.Title}' (comments: '{row.Comments}').");
 				return null;
@@ -178,10 +178,10 @@ GameRecord[] ReadSearchData()
 			{
 				Source = row.Source.Trim(),
 				SearchTitle = row.Title.Trim(),
-				AppId = row.OverrideAppId ?? 0,
-				BundleId = row.OverrideBundleId ?? 0,
-				OverridePrice = !string.IsNullOrWhiteSpace(row.OverridePrice) ? row.OverridePrice.Trim().Trim('$') : null,
-				OverrideDescription = !string.IsNullOrWhiteSpace(row.OverrideDescription) ? row.OverrideDescription.Trim() : null,
+				AppId = row.AppId ?? 0,
+				BundleId = row.BundleId ?? 0,
+				OverridePrice = !string.IsNullOrWhiteSpace(row.Price) ? row.Price.Trim().Trim('$') : null,
+				OverrideDescription = !string.IsNullOrWhiteSpace(row.Description) ? row.Description.Trim() : null,
 				Claimed = row.Claimed ?? false
 			};
 		})
@@ -498,14 +498,19 @@ public record SteamSearchResult(int AppId, string Title);
 
 public class CsvGameRecord
 {
+	// game key
 	public string Source { get; set; }
 	public string Title { get; set; }
-	public int? OverrideAppId { get; set; }
-	public int? OverrideBundleId { get; set; }
-	public string OverridePrice { get; set; }
-	public string OverrideDescription { get; set; }
-	public bool? IgnoreKey { get; set; }
+	public bool? Ignored { get; set; }
 	public bool? Claimed { get; set; }
+
+	// override game info
+	public int? AppId { get; set; }
+	public int? BundleId { get; set; }
+	public string Price { get; set; }
+	public string Description { get; set; }
+
+	// comments
 	public string Comments { get; set; }
 }
 
