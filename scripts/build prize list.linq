@@ -27,6 +27,20 @@ readonly static string CacheDirPath = Path.Combine(ScriptDir, "cache");
 /// <summary>The absolute path to the directory containing the web files.</summary>
 readonly static string WebDir = Path.Combine(ScriptDir, "..");
 
+/// <summary>If a game has multiple package prices, ignore packages whose names contain any of these case-insensitive strings (unless that would remove all of them).</summary>
+readonly static List<string> IgnoreSubPackageNames = new()
+{
+	"2-Pack",
+	"3-Pack",
+	"Digital Book",
+	"Double Pack",
+	"Expansion Pass",
+	"Multiplayer Standalone",
+	"Sights and Sounds",
+	"Soundtrack",
+	"Wallpaper"
+};
+
 
 /*********
 ** Script
@@ -407,14 +421,10 @@ public class SteamApiClient : FluentClient
 		game.Languages = HttpUtility.HtmlDecode(data.Value<string>("supported_languages"));
 
 		game.IsFree = data.Value<bool>("is_free");
-
-		var prices = data.Value<JToken>("price_overview");
-		if (prices != null)
+		if (!game.IsFree && game.OverridePrice is null && this.TryInteractivelyGetGamePrice(data, game.Title, game.GetUrl(), out decimal price, out string currency))
 		{
-			decimal price = prices.Value<decimal>("initial");
-
-			game.PriceCurrency = prices.Value<string>("currency");
-			game.Price = (price / 100).ToString("0.00");
+			game.Price = price.ToString("0.00");
+			game.PriceCurrency = currency;
 		}
 
 		var platform = data.Value<JToken>("platforms");
@@ -441,6 +451,171 @@ public class SteamApiClient : FluentClient
 		game.ContentWarnings = data.Value<JObject>("content_descriptors")?.Value<JArray>("ids").Values<int>().ToArray();
 
 		return true;
+	}
+
+	/// <summary>Get the price of a game from the Steam API data, interactively asking the user if there are multiple prices and we can't auto-select one.</summary>
+	/// <param name="data">The raw game data returned by <see cref="GetRawGameData" />.</param>
+	/// <param name="title">The game's title from the Steam API.</param>
+	/// <param name="url">The game's store page URL.</param>
+	/// <param name="price">The game price, if found.</param>
+	/// <param name="currency">The price currency, if found.</param>
+	/// <returns>Returns whether a price was successfully read from the game data.</returns>
+	public bool TryInteractivelyGetGamePrice(JObject data, string title, string url, out decimal price, out string currency)
+	{
+		List<(decimal Price, string Currency, string Label)> prices = new();
+
+		// default price (not necessarily for the base game if it has package prices too)
+		decimal? defaultPrice = null;
+		string defaultCurrency = "USD";
+		{
+			JToken priceOverview = data.Value<JToken>("price_overview");
+			if (priceOverview != null)
+			{
+				defaultPrice = priceOverview.Value<decimal>("initial") / 100;
+				defaultCurrency = priceOverview.Value<string>("currency");
+				prices.Add((defaultPrice.Value, defaultCurrency, "default price"));
+			}
+		}
+
+		// package groups (e.g. "Base Game", "Deluxe Edition", etc)
+		{
+			JArray packageGroups = data.Value<JArray>("package_groups");
+			if (packageGroups != null)
+			{
+				foreach (JToken packageGroup in packageGroups)
+				{
+					if (packageGroup.Value<bool?>("is_recurring_subscription") is true)
+						continue;
+
+					string packageTitle = packageGroup.Value<string>("title");
+
+					foreach (JObject sub in packageGroup.Value<JArray>("subs"))
+					{
+						string subLabel = sub.Value<string>("option_text");
+						if (packageTitle != null)
+							subLabel = $"{packageTitle}: {subLabel}";
+
+						string percentDiscount = sub.Value<string>("percent_savings_text");
+
+						// extract original price from package label (since it's not saved separately), else show discounted price with info in label
+						decimal curPrice;
+						Match discountedLabelMatch = Regex.Match(subLabel, @"^(.+) - (?:<span class=""discount_original_price"">\$([\d\.]+)</span> )?\$([\d\.]+)$");
+						if (discountedLabelMatch.Success)
+						{
+							subLabel = discountedLabelMatch.Groups[1].Value;
+							curPrice = discountedLabelMatch.Groups[2].Success
+								? decimal.Parse(discountedLabelMatch.Groups[2].Value)  // <s>original price</s> discounted price
+								: decimal.Parse(discountedLabelMatch.Groups[3].Value); // original price
+						}
+						else
+						{
+							curPrice = sub.Value<decimal>("price_in_cents_with_discount");
+
+							if (!string.IsNullOrWhiteSpace(percentDiscount))
+								subLabel += $" - {percentDiscount} off";
+						}
+
+						prices.Add((curPrice, defaultCurrency, $"package: {subLabel}"));
+					}
+				}
+			}
+		}
+
+		// filter out soundtracks, etc
+		if (prices.Count > 1)
+		{
+			var filteredPrices = prices.ToList();
+			for (int i = filteredPrices.Count - 1; i >= 0; i--)
+			{
+				var match = filteredPrices[i];
+				foreach (string ignoreText in IgnoreSubPackageNames)
+				{
+					if (match.Label.Contains(ignoreText, StringComparison.OrdinalIgnoreCase))
+					{
+						filteredPrices.RemoveAt(i);
+						break;
+					}
+				}
+			}
+
+			if (filteredPrices.Count > 0 && filteredPrices.Count < prices.Count)
+				prices = filteredPrices;
+		}
+
+		// select best price
+		switch (prices.Count)
+		{
+			case 0:
+				price = 0;
+				currency = null;
+				return false;
+
+			case 1:
+				price = prices[0].Price;
+				currency = prices[0].Currency;
+				return true;
+
+			default:
+				// We can auto-select a price in two cases:
+				//   - all prices are the same;
+				//   - or all package prices are higher than the default price (since the default price should always include the base game, so they're likely special editions)
+				if (defaultPrice != null)
+				{
+					bool anyLower = false;
+					foreach (var match in prices)
+					{
+						if (match.Price < defaultPrice && match.Currency == defaultCurrency)
+						{
+							anyLower = true;
+							break;
+						}
+					}
+
+					if (!anyLower)
+					{
+						price = defaultPrice.Value;
+						currency = defaultCurrency;
+						return true;
+					}
+				}
+
+				// else choose a price interactively
+				{
+					const string indent = "    ";
+					Util.WordRun(false, indent, new Hyperlinq(url, title), " has multiple prices available:").Dump();
+					for (int i = 0; i < prices.Count; i++)
+					{
+						var priceMatch = prices[i];
+						$"{indent}  • [{i + 1}] {priceMatch.Currency} {priceMatch.Price} — {priceMatch.Label}".Dump();
+					}
+					Console.WriteLine($"{indent}Or enter the USD price to use (in the form 00.00)\n");
+
+					while (true)
+					{
+						string input = Util.ReadLine("Select an option or enter a USD price:", "1");
+
+						if (input.Contains('.'))
+						{
+							if (decimal.TryParse(input, out decimal curPrice))
+							{
+								price = curPrice;
+								currency = "USD";
+								return true;
+							}
+						}
+						else if (int.TryParse(input, out int option))
+						{
+							if (option > 0 && option <= prices.Count)
+							{
+								var match = prices[option - 1];
+								price = match.Price;
+								currency = match.Currency;
+								return true;
+							}
+						}
+					}
+				}
+		}
 	}
 
 	/// <summary>Populate a game record from the raw data returned by <see cref="GetRawBundleInfo" />.</summary>
