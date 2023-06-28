@@ -16522,6 +16522,58 @@
   },
   {
     "keys": [
+      "Stardew Valley (Switch AU/NZ edition)",
+      "Stardew Valley (Switch AU/NZ edition)",
+      "Stardew Valley (Switch AU/NZ edition)",
+      "Stardew Valley (Switch AU/NZ edition)",
+      "Stardew Valley (Switch AU/NZ edition)",
+      "Stardew Valley (Switch EU/UK edition)",
+      "Stardew Valley (Switch EU/UK edition)",
+      "Stardew Valley (Switch EU/UK edition)",
+      "Stardew Valley (Switch US edition)",
+      "Stardew Valley (Switch US edition)",
+      "Stardew Valley (Switch US edition)",
+      "Stardew Valley (Switch US edition)"
+    ],
+    "appId": 413150,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_184x69.jpg?t=1666917466",
+    "type": "game",
+    "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+    "overrideStorePageUrl": "https://www.nintendo.com/en-ca/store/products/stardew-valley-switch/",
+    "priceCurrency": "USD",
+    "price": "16.99",
+    "metaCriticScore": 89,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/stardew-valley",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together"
+    ],
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "releaseDate": "2016"
+  },
+  {
+    "keys": [
       "Starseed Pilgrim"
     ],
     "appId": 230980,
