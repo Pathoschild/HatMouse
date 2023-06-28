@@ -16,7 +16,6 @@ To build the prize list:
 
    field     | effect
    --------- | ------
-   `Source`  | Who donated the game key. This is ignored by the code, it's just tracked so they can provide the key when a winner claims it.
    `Title`   | The game key name, ideally with text like `Steam Key` or `(Steam)` removed.
    `Ignored` | _(Optional)_ If `true`, don't show this game key (e.g. for games which no longer exist).
    `Claimed` | _(Optional)_ If `true`, the game key is struck out and marked claimed in the prize list.

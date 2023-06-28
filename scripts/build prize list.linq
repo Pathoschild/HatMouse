@@ -18,7 +18,7 @@
 /// <summary>The absolute path to the directory containing this script.</summary>
 readonly static string ScriptDir = Path.GetDirectoryName(Util.CurrentQueryPath);
 
-/// <summary>A CSV file containing the games to search. This should have two columns: the source (i.e. who can redeem the key) and the game title to search.</summary>
+/// <summary>A CSV file containing the games to search. See the <c>README.md</c> file for the expected CSV format.</summary>
 readonly static string SearchFile = Path.Combine(ScriptDir, "game keys.csv");
 
 /// <summary>The folder in which to store cached data.</summary>
@@ -190,7 +190,6 @@ GameRecord[] ReadSearchData()
 			
 			return new GameRecord
 			{
-				Source = row.Source.Trim(),
 				SearchTitle = row.Title.Trim(),
 				AppId = row.AppId ?? 0,
 				BundleId = row.BundleId ?? 0,
@@ -675,7 +674,6 @@ public record SteamSearchResult(int AppId, string Title);
 public class CsvGameRecord
 {
 	// game key
-	public string Source { get; set; }
 	public string Title { get; set; }
 	public bool? Ignored { get; set; }
 	public bool? Claimed { get; set; }
@@ -693,7 +691,6 @@ public class CsvGameRecord
 
 public class GameRecord
 {
-	public string Source { get; set; }
 	public string SearchTitle { get; set; }
 
 	public int AppId { get; set; }
