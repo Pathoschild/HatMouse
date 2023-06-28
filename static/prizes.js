@@ -3,8 +3,8 @@ let app;
 const prizeList = async function() {
     // init data
     const data = {
-        config: await $.getJSON("config/config.json?r=4"),
-        games: await $.getJSON("config/games.json?r=4"),
+        config: await $.getJSON("config/config.json"),
+        games: await $.getJSON("config/games.json"),
         showLogos: false,
         showGamesWithContentWarnings: false,
         filters: {
@@ -114,7 +114,9 @@ const prizeList = async function() {
                 game.contentWarningText = "";
 
             // set URL
-            if (game.appId)
+            if (game.overrideStorePageUrl)
+                game.url = game.overrideStorePageUrl;
+            else if (game.appId)
                 game.url = "https://store.steampowered.com/app/" + game.appId;
             else if (game.bundleId)
                 game.url = "https://store.steampowered.com/sub/" + game.bundleId;

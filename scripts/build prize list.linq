@@ -196,6 +196,7 @@ GameRecord[] ReadSearchData()
 				BundleId = row.BundleId ?? 0,
 				OverridePrice = !string.IsNullOrWhiteSpace(row.Price) ? row.Price.Trim().Trim('$') : null,
 				OverrideDescription = !string.IsNullOrWhiteSpace(row.Description) ? row.Description.Trim() : null,
+				OverrideStorePageUrl = !string.IsNullOrWhiteSpace(row.StorePageUrl) ? row.StorePageUrl.Trim() : null,
 				Claimed = row.Claimed ?? false
 			};
 		})
@@ -684,6 +685,7 @@ public class CsvGameRecord
 	public int? BundleId { get; set; }
 	public string Price { get; set; }
 	public string Description { get; set; }
+	public string StorePageUrl { get; set; }
 
 	// comments
 	public string Comments { get; set; }
@@ -703,6 +705,7 @@ public class GameRecord
 	public string Type { get; set; }
 	public string Description { get; set; }
 	public string OverrideDescription { get; set; }
+	public string OverrideStorePageUrl { get; set; }
 
 	public string Languages { get; set; }
 
@@ -726,6 +729,9 @@ public class GameRecord
 	/// <summary>Get the URL to the game's Steam store page, if any.</summary>
 	public string GetUrl()
 	{
+		if (this.OverrideStorePageUrl != null)
+			return this.OverrideStorePageUrl;
+		
 		if (this.AppId > 0)
 			return "https://store.steampowered.com/app/" + this.AppId;
 
@@ -745,6 +751,7 @@ public class PublicGameRecord
 	public string Type { get; }
 	public string Description { get; }
 	public string OverrideDescription { get; }
+	public string OverrideStorePageUrl { get; }
 	public string PriceCurrency { get; }
 	public string Price { get; }
 	public int MetaCriticScore { get; }
@@ -768,6 +775,7 @@ public class PublicGameRecord
 		this.Type = game.Type;
 		this.Description = game.Description;
 		this.OverrideDescription = game.OverrideDescription;
+		this.OverrideStorePageUrl = game.OverrideStorePageUrl;
 
 		if (game.OverridePrice != null)
 		{

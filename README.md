@@ -23,6 +23,7 @@ To build the prize list:
    `AppId`<br />`BundleId` | _(Optional)_ Link the game key to a specific store page on Steam. This matches the number in the store page URL after `app/` (for `OverrideAppId`) or `sub/` (for `OverrideBundleId`). If both are omitted, the script will use the Steam API to find the matching game if possible (though that doesn't work for DLC or bundles).
    `Price`   | _(Optional)_ Show this USD price instead of the one fetched from the Steam API (e.g. for unlisted games).
    `Description` | _(Optional)_ Show this description instead of the one fetched from the Steam API. You can use HTML in this field (e.g. to link to multiple store pages).
+   `StorePageUrl` | _(Optional)_ The full URL to the store page to link the game key to, for non-Steam games. The script will still try to match it to Steam to fill in the other info, so you should set the `Price` column to match the custom store too.
    `Comments` | Arbitrary comments ignored by the code (e.g. to explain why we're overriding fields).
 
 4. Open `scripts/build prize list.linq` in LINQPad.
