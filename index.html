@@ -5,15 +5,21 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hat mouse prizes | Stardew Valley Discord</title>
-    <link rel="stylesheet" href="static/main.css" />
-    <link rel="stylesheet" href="static/prizes.css" />
 
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/tablesorter@2.31.3" crossorigin="anonymous"></script>
-    <script src="static/prizes.js"></script>
     <script>
-        $(prizeList);
+        $(async () => {
+            const timestamp = Math.round(new Date().getTime() / 60000); // minutes since epoch
+
+            $("head")
+                .append(`<link rel="stylesheet" type="text/css" href="static/main.css?r=${timestamp}" />`)
+                .append(`<link rel="stylesheet" type="text/css" href="static/prizes.css?r=${timestamp}" />`);
+
+            await $.getScript("static/prizes.js");
+            prizeList();
+        });
     </script>
 </head>
 <body>

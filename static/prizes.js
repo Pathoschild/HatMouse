@@ -1,10 +1,12 @@
 let app;
 
 const prizeList = async function() {
+    const timestamp = Math.round(new Date().getTime() / 60000); // minutes since epoch
+
     // init data
     const data = {
-        config: await $.getJSON("config/config.json"),
-        games: await $.getJSON("config/games.json"),
+        config: await $.getJSON("config/config.json", { r: timestamp }),
+        games: await $.getJSON("config/games.json", { r: timestamp }),
         showLogos: false,
         showGamesWithContentWarnings: false,
         filters: {
