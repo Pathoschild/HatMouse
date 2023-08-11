@@ -818,7 +818,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -895,7 +896,8 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2019"
+    "releaseDate": "2019",
+    "claimed": true
   },
   {
     "keys": [
@@ -931,7 +933,8 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -1839,7 +1842,8 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2011"
+    "releaseDate": "2011",
+    "claimed": true
   },
   {
     "keys": [
@@ -2041,7 +2045,8 @@
       "Casual",
       "Strategy"
     ],
-    "releaseDate": "2010"
+    "releaseDate": "2010",
+    "claimed": true
   },
   {
     "keys": [
@@ -2687,7 +2692,8 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -3344,7 +3350,8 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -3401,7 +3408,8 @@
       "Casual",
       "RPG"
     ],
-    "releaseDate": "2011"
+    "releaseDate": "2011",
+    "claimed": true
   },
   {
     "keys": [
@@ -3441,7 +3449,32 @@
   },
   {
     "keys": [
-      "Crayon Physics Deluxe",
+      "Crayon Physics Deluxe"
+    ],
+    "appId": 26900,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/26900/capsule_184x69.jpg?t=1667476228",
+    "type": "game",
+    "description": "Crayon Physics Deluxe is a 2D physics puzzle / sandbox game, in which you get to experience what it would be like if your drawings would be magically transformed into real physical objects. Solve puzzles with your artistic vision and creative use of physics.",
+    "priceCurrency": "USD",
+    "price": "19.99",
+    "metaCriticScore": 79,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/crayon-physics-deluxe",
+    "platforms": [
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "releaseDate": "2009",
+    "claimed": true
+  },
+  {
+    "keys": [
       "Crayon Physics Deluxe"
     ],
     "appId": 26900,
@@ -3664,7 +3697,8 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "claimed": true
   },
   {
     "keys": [
@@ -3842,7 +3876,8 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -4816,7 +4851,8 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2010"
+    "releaseDate": "2010",
+    "claimed": true
   },
   {
     "keys": [
@@ -5799,7 +5835,8 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -5864,7 +5901,8 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -6193,11 +6231,41 @@
     "genres": [
       "Simulation"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
-      "FEZ",
+      "FEZ"
+    ],
+    "appId": 224760,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/224760/capsule_184x69.jpg?t=1572375251",
+    "type": "game",
+    "description": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives.",
+    "priceCurrency": "USD",
+    "price": "9.99",
+    "metaCriticScore": 91,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/fez",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Steam Leaderboards"
+    ],
+    "genres": [
+      "Indie"
+    ],
+    "releaseDate": "2013",
+    "claimed": true
+  },
+  {
+    "keys": [
       "FEZ",
       "Fez"
     ],
@@ -6447,7 +6515,8 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -6662,7 +6731,8 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "claimed": true
   },
   {
     "keys": [
@@ -8016,7 +8086,8 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -8334,7 +8405,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -8458,7 +8530,8 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2012"
+    "releaseDate": "2012",
+    "claimed": true
   },
   {
     "keys": [
@@ -8490,7 +8563,8 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -9585,7 +9659,8 @@
     "contentWarnings": [
       1,
       5
-    ]
+    ],
+    "claimed": true
   },
   {
     "keys": [
@@ -9946,7 +10021,8 @@
       "Windows"
     ],
     "categories": [],
-    "genres": []
+    "genres": [],
+    "claimed": true
   },
   {
     "keys": [
@@ -10012,7 +10088,37 @@
   },
   {
     "keys": [
-      "Little Inferno",
+      "Little Inferno"
+    ],
+    "appId": 221260,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/221260/capsule_184x69.jpg?t=1668741117",
+    "type": "game",
+    "description": "Throw your toys into your fire, and play with them as they burn. An adventure that takes place almost entirely in front of a fireplace - about looking up up up out of the chimney, and the cold world just on the other side of the wall. From the creators of World of Goo and Human Resource Machine.",
+    "priceCurrency": "USD",
+    "price": "14.99",
+    "metaCriticScore": 68,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/little-inferno",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "releaseDate": "2012",
+    "claimed": true
+  },
+  {
+    "keys": [
       "Little Inferno"
     ],
     "appId": 221260,
@@ -10415,7 +10521,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -10507,7 +10614,8 @@
       1,
       2,
       5
-    ]
+    ],
+    "claimed": true
   },
   {
     "keys": [
@@ -10664,7 +10772,8 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2014"
+    "releaseDate": "2014",
+    "claimed": true
   },
   {
     "keys": [
@@ -10680,7 +10789,8 @@
       "Windows"
     ],
     "categories": [],
-    "genres": []
+    "genres": [],
+    "claimed": true
   },
   {
     "keys": [
@@ -10715,7 +10825,8 @@
       "Action",
       "Adventure"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -11564,7 +11675,8 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2019"
+    "releaseDate": "2019",
+    "claimed": true
   },
   {
     "keys": [
@@ -11891,7 +12003,8 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -11961,7 +12074,8 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2020"
+    "releaseDate": "2020",
+    "claimed": true
   },
   {
     "keys": [
@@ -12620,7 +12734,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -12772,7 +12887,8 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -12866,7 +12982,8 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2019"
+    "releaseDate": "2019",
+    "claimed": true
   },
   {
     "keys": [
@@ -12897,7 +13014,8 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2019"
+    "releaseDate": "2019",
+    "claimed": true
   },
   {
     "keys": [
@@ -12959,7 +13077,8 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -13039,7 +13158,8 @@
     "genres": [
       "Casual"
     ],
-    "releaseDate": "2020"
+    "releaseDate": "2020",
+    "claimed": true
   },
   {
     "keys": [
@@ -13636,7 +13756,8 @@
       "RPG",
       "Simulation"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -14967,7 +15088,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -15259,7 +15381,8 @@
     "genres": [
       "Adventure"
     ],
-    "releaseDate": "2009"
+    "releaseDate": "2009",
+    "claimed": true
   },
   {
     "keys": [
@@ -15287,7 +15410,8 @@
     "releaseDate": "2023",
     "contentWarnings": [
       5
-    ]
+    ],
+    "claimed": true
   },
   {
     "keys": [
@@ -16529,9 +16653,6 @@
       "Stardew Valley (Switch EU/UK edition)",
       "Stardew Valley (Switch EU/UK edition)",
       "Stardew Valley (Switch EU/UK edition)",
-      "Stardew Valley (Switch US edition)",
-      "Stardew Valley (Switch US edition)",
-      "Stardew Valley (Switch US edition)",
       "Stardew Valley (Switch US edition)"
     ],
     "appId": 413150,
@@ -16573,6 +16694,50 @@
   },
   {
     "keys": [
+      "Stardew Valley (Switch US edition)",
+      "Stardew Valley (Switch US edition)",
+      "Stardew Valley (Switch US edition)"
+    ],
+    "appId": 413150,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_184x69.jpg?t=1666917466",
+    "type": "game",
+    "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+    "overrideStorePageUrl": "https://www.nintendo.com/en-ca/store/products/stardew-valley-switch/",
+    "priceCurrency": "USD",
+    "price": "16.99",
+    "metaCriticScore": 89,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/stardew-valley",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together"
+    ],
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "releaseDate": "2016",
+    "claimed": true
+  },
+  {
+    "keys": [
       "Starseed Pilgrim"
     ],
     "appId": 230980,
@@ -16595,7 +16760,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013"
+    "releaseDate": "2013",
+    "claimed": true
   },
   {
     "keys": [
@@ -17747,7 +17913,8 @@
       "Windows"
     ],
     "categories": [],
-    "genres": []
+    "genres": [],
+    "claimed": true
   },
   {
     "keys": [
@@ -18618,7 +18785,8 @@
     "contentWarnings": [
       2,
       5
-    ]
+    ],
+    "claimed": true
   },
   {
     "keys": [
@@ -18718,7 +18886,8 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -19548,7 +19717,8 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -20172,7 +20342,36 @@
   },
   {
     "keys": [
-      "Undertale",
+      "Undertale"
+    ],
+    "appId": 391540,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/391540/capsule_184x69.jpg?t=1579096091",
+    "type": "game",
+    "description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+    "priceCurrency": "USD",
+    "price": "9.99",
+    "metaCriticScore": 92,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/undertale",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "releaseDate": "2015",
+    "claimed": true
+  },
+  {
+    "keys": [
       "Undertale"
     ],
     "appId": 391540,
@@ -20554,7 +20753,8 @@
       "Indie",
       "Strategy"
     ],
-    "releaseDate": "2019"
+    "releaseDate": "2019",
+    "claimed": true
   },
   {
     "keys": [
@@ -21753,7 +21953,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "claimed": true
   },
   {
     "keys": [
@@ -21885,7 +22086,8 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
