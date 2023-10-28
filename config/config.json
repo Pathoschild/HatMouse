@@ -2,17 +2,17 @@
 	"defaultCurrency": "USD",
 	"prizeGroups": [
 		{
-			"key": "Prize group A ($40 and up)",
+			"key": "Hidden prize group A ($40 and up)",
 			"minPrice": 39.90,
-			"visible": true
+			"visible": false
 		},
 		{
-			"key": "Prize group B ($20 and up)",
+			"key": "Hidden prize group B ($20 and up)",
 			"minPrice": 19.90,
-			"visible": true
+			"visible": false
 		},
 		{
-			"key": "Prize group C (remaining games)",
+			"key": "Prize list",
 			"minPrice": 0,
 			"visible": true
 		}

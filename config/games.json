@@ -794,35 +794,6 @@
   },
   {
     "keys": [
-      "Alchemist's Castle"
-    ],
-    "appId": 726340,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/726340/capsule_184x69.jpg?t=1569073037",
-    "type": "game",
-    "description": "Fight your way through the dungeons of the Alchemist's Castle, collect power ups and take back what is rightfully yours from the Alchemist himself in this old-school metroidvania!",
-    "priceCurrency": "USD",
-    "price": "0.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Alien Breed Complete Pack"
     ],
     "bundleId": 7678,
@@ -865,76 +836,6 @@
       "Indie"
     ],
     "releaseDate": "2017"
-  },
-  {
-    "keys": [
-      "Almost There: The Platformer"
-    ],
-    "appId": 951940,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/951940/capsule_184x69.jpg?t=1584995097",
-    "type": "game",
-    "description": "Sprint between saw blades while dodging homing missiles. Duck under lasers while the floor crumbles beneath you. Almost There was designed specifically for fans of the hardcore platforming genre - you've been warned.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "releaseDate": "2019",
-    "claimed": true
-  },
-  {
-    "keys": [
-      "American Truck Simulator"
-    ],
-    "appId": 270880,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/270880/capsule_184x69.jpg?t=1683639031",
-    "type": "game",
-    "description": "Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States.",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 76,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/american-truck-simulator",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Includes level editor",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Indie",
-      "Simulation"
-    ],
-    "releaseDate": "2016",
-    "claimed": true
   },
   {
     "keys": [
@@ -1811,42 +1712,6 @@
   },
   {
     "keys": [
-      "Bastion"
-    ],
-    "appId": 107100,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/107100/capsule_184x69.jpg?t=1670649904",
-    "type": "game",
-    "description": "Discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 86,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/bastion",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Indie",
-      "RPG"
-    ],
-    "releaseDate": "2011",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Battle Chef Brigade"
     ],
     "appId": 452570,
@@ -2018,35 +1883,6 @@
       "Indie"
     ],
     "releaseDate": "2013"
-  },
-  {
-    "keys": [
-      "Bejeweled™ 3"
-    ],
-    "appId": 78000,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/78000/capsule_184x69.jpg?t=1615298902",
-    "type": "game",
-    "description": "The biggest, brightest Bejeweled ever! Discover all-new ways to play the world’s #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods.",
-    "priceCurrency": "USD",
-    "price": "4.99",
-    "metaCriticScore": 82,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/bejeweled-3",
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "Casual",
-      "Strategy"
-    ],
-    "releaseDate": "2010",
-    "claimed": true
   },
   {
     "keys": [
@@ -2651,49 +2487,6 @@
       "Indie"
     ],
     "releaseDate": "2016"
-  },
-  {
-    "keys": [
-      "BROFORCE"
-    ],
-    "appId": 274190,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/274190/capsule_184x69.jpg?t=1666986997",
-    "type": "game",
-    "description": "When evil threatens the world, the world calls on Broforce - an under-funded, over-powered paramilitary organization dealing exclusively in excessive force. Brace your loins with up to four players to run ‘n’ gun as dozens of different bros and eliminate the opposing terrorist forces that threaten our way of life.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 83,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/broforce",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Full controller support",
-      "Includes level editor",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
   },
   {
     "keys": [
@@ -3326,35 +3119,6 @@
   },
   {
     "keys": [
-      "Copoka"
-    ],
-    "appId": 582620,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/582620/capsule_184x69.jpg?t=1488163990",
-    "type": "game",
-    "description": "Copoka is an open-world exploratory indie game where you play as a bird flying around a city looking for twigs to build your nest.",
-    "priceCurrency": "USD",
-    "price": "4.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Captions available",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Cosmic Express"
     ],
     "appId": 583270,
@@ -3379,37 +3143,6 @@
       "Indie"
     ],
     "releaseDate": "2017"
-  },
-  {
-    "keys": [
-      "Costume Quest"
-    ],
-    "appId": 115100,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/115100/capsule_184x69.jpg?t=1669238171",
-    "type": "game",
-    "description": "A Halloween adventure from Tim Schafer's Double Fine Productions.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Partial Controller Support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "RPG"
-    ],
-    "releaseDate": "2011",
-    "claimed": true
   },
   {
     "keys": [
@@ -3446,32 +3179,6 @@
       "RPG"
     ],
     "releaseDate": "2017"
-  },
-  {
-    "keys": [
-      "Crayon Physics Deluxe"
-    ],
-    "appId": 26900,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/26900/capsule_184x69.jpg?t=1667476228",
-    "type": "game",
-    "description": "Crayon Physics Deluxe is a 2D physics puzzle / sandbox game, in which you get to experience what it would be like if your drawings would be magically transformed into real physical objects. Solve puzzles with your artistic vision and creative use of physics.",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 79,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/crayon-physics-deluxe",
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player"
-    ],
-    "genres": [
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2009",
-    "claimed": true
   },
   {
     "keys": [
@@ -3669,39 +3376,6 @@
   },
   {
     "keys": [
-      "Cultist Simulator"
-    ],
-    "appId": 718670,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/718670/capsule_184x69.jpg?t=1685707068",
-    "type": "game",
-    "description": "Seize forbidden treasures. Summon alien gods. Feed on your disciples. Cultist Simulator is a game of apocalypse and yearning. Play as a seeker after unholy mysteries, in a 1920s-themed setting of hidden gods and secret histories.",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 71,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/cultist-simulator",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "releaseDate": "2018",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Cursed Castilla (Maldita Castilla EX)"
     ],
     "appId": 534290,
@@ -3846,38 +3520,6 @@
       "RPG"
     ],
     "releaseDate": "2015"
-  },
-  {
-    "keys": [
-      "DARK SOULS™ III"
-    ],
-    "appId": 374320,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_184x69.jpg?t=1682651227",
-    "type": "game",
-    "description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
-    "priceCurrency": "USD",
-    "price": "59.99",
-    "metaCriticScore": 89,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/dark-souls-iii",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "releaseDate": "2016",
-    "claimed": true
   },
   {
     "keys": [
@@ -4832,30 +4474,6 @@
   },
   {
     "keys": [
-      "Dragon Age™: Origins"
-    ],
-    "appId": 47810,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/47810/capsule_184x69.jpg?t=1615244558",
-    "type": "game",
-    "description": "Dragon Age: Origins - Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.",
-    "priceCurrency": "USD",
-    "price": "29.99",
-    "metaCriticScore": 91,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/dragon-age-origins",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player"
-    ],
-    "genres": [
-      "RPG"
-    ],
-    "releaseDate": "2010",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Dragon's Dogma: Dark Arisen"
     ],
     "appId": 367500,
@@ -5803,43 +5421,6 @@
   },
   {
     "keys": [
-      "Elite Dangerous"
-    ],
-    "appId": 359320,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/359320/capsule_184x69.jpg?t=1673300526",
-    "type": "game",
-    "description": "Take control of your own starship in a cutthroat galaxy. Elite Dangerous is the definitive massively multiplayer space epic.",
-    "priceCurrency": "USD",
-    "price": "29.99",
-    "metaCriticScore": 80,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/elite-dangerous",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "MMO",
-      "Co-op",
-      "VR Supported",
-      "VR Support",
-      "In-App Purchases",
-      "Partial Controller Support",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Massively Multiplayer",
-      "RPG",
-      "Simulation",
-      "Strategy"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Ellipsis"
     ],
     "appId": 514620,
@@ -5869,40 +5450,6 @@
       "Indie"
     ],
     "releaseDate": "2017"
-  },
-  {
-    "keys": [
-      "Emily is Away Too"
-    ],
-    "appId": 523780,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/523780/capsule_184x69.jpg?t=1572365609",
-    "type": "game",
-    "description": "Emily is Away Too is a brand new story featuring new characters and multiple different endings. Message your friends, surf the web and choose your path through this branching narrative.",
-    "priceCurrency": "USD",
-    "price": "4.99",
-    "metaCriticScore": 81,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/emily-is-away-too",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Stats"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
   },
   {
     "keys": [
@@ -6203,69 +5750,6 @@
   },
   {
     "keys": [
-      "Farming Simulator 17"
-    ],
-    "appId": 447020,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/447020/capsule_184x69.jpg?t=1658488796",
-    "type": "game",
-    "description": "Take on the role of a modern farmer in Farming Simulator 17! Explore farming possibilities in a new North American environment. Drive over 250 farming vehicles and equipment from over 75 manufacturers, including new brands such as Challenger, Fendt, Valtra or Massey Ferguson.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 69,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/farming-simulator-17",
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Simulation"
-    ],
-    "releaseDate": "2016",
-    "claimed": true
-  },
-  {
-    "keys": [
-      "FEZ"
-    ],
-    "appId": 224760,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/224760/capsule_184x69.jpg?t=1572375251",
-    "type": "game",
-    "description": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 91,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/fez",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Steam Leaderboards"
-    ],
-    "genres": [
-      "Indie"
-    ],
-    "releaseDate": "2013",
-    "claimed": true
-  },
-  {
-    "keys": [
       "FEZ",
       "Fez"
     ],
@@ -6484,42 +5968,6 @@
   },
   {
     "keys": [
-      "Flat Heroes"
-    ],
-    "appId": 508790,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/508790/capsule_184x69.jpg?t=1667386580",
-    "type": "game",
-    "description": "Dodge, jump, and dash your way through hundreds of terrifying geometric levels and epic bosses. Too tough? Bring your friends!",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "releaseDate": "2016",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Fluffy Horde"
     ],
     "appId": 777880,
@@ -6703,36 +6151,6 @@
       "Early Access"
     ],
     "releaseDate": "2017"
-  },
-  {
-    "keys": [
-      "FRAMED Collection"
-    ],
-    "appId": 322450,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/322450/capsule_184x69.jpg?t=1665634026",
-    "type": "game",
-    "description": "Rearrange the panels of an animated comic book to craft the story of a noir-styled spy adventure in the FRAMED Collection--a compilation of the multi-award winning puzzle games FRAMED and FRAMED 2.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2018",
-    "claimed": true
   },
   {
     "keys": [
@@ -8056,41 +7474,6 @@
   },
   {
     "keys": [
-      "Hearts of Iron IV"
-    ],
-    "appId": 394360,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/394360/capsule_184x69.jpg?t=1686142873",
-    "type": "game",
-    "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
-    "priceCurrency": "USD",
-    "price": "39.99",
-    "metaCriticScore": 83,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/hearts-of-iron-iv",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "Simulation",
-      "Strategy"
-    ],
-    "releaseDate": "2016",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Hector: Badge of Carnage"
     ],
     "appId": 94620,
@@ -8373,43 +7756,6 @@
   },
   {
     "keys": [
-      "Hollow Knight",
-      "Hollow Knight",
-      "Hollow Knight"
-    ],
-    "appId": 367520,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/367520/capsule_184x69.jpg?t=1667006028",
-    "type": "game",
-    "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 87,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/hollow-knight",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Holy Potatoes! We're in Space?!"
     ],
     "appId": 505730,
@@ -8500,71 +7846,6 @@
       "RPG"
     ],
     "releaseDate": "2015"
-  },
-  {
-    "keys": [
-      "Hotline Miami"
-    ],
-    "appId": 219150,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/219150/capsule_184x69.jpg?t=1686261983",
-    "type": "game",
-    "description": "Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 85,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/hotline-miami",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards"
-    ],
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "releaseDate": "2012",
-    "claimed": true
-  },
-  {
-    "keys": [
-      "Hotline Miami 2: Wrong Number"
-    ],
-    "appId": 274170,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/274170/capsule_184x69.jpg?t=1659054816",
-    "type": "game",
-    "description": "Hotline Miami 2: Wrong Number is the brutal conclusion to the Hotline Miami saga, set against a backdrop of escalating violence and retribution over spilled blood in the original game.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Includes level editor",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
   },
   {
     "keys": [
@@ -9629,41 +8910,6 @@
   },
   {
     "keys": [
-      "Kingdom Come: Deliverance"
-    ],
-    "appId": 379430,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/379430/capsule_184x69.jpg?t=1676294999",
-    "type": "game",
-    "description": "Story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. Explore castles, forests, villages and other realistic settings in medieval Bohemia!",
-    "priceCurrency": "USD",
-    "price": "29.99",
-    "metaCriticScore": 76,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/kingdom-come-deliverance",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "RPG"
-    ],
-    "releaseDate": "2018",
-    "contentWarnings": [
-      1,
-      5
-    ],
-    "claimed": true
-  },
-  {
-    "keys": [
       "Kingdom: New Lands Royal Edition"
     ],
     "bundleId": 232138,
@@ -10007,25 +9253,6 @@
   },
   {
     "keys": [
-      "Life is Strange Complete Season (Episodes 1-5)"
-    ],
-    "bundleId": 56692,
-    "image": "https://cdn.akamai.steamstatic.com/steam/subs/56692/capsule_231x87.jpg?t=1509147192",
-    "type": "bundle",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [],
-    "genres": [],
-    "claimed": true
-  },
-  {
-    "keys": [
       "Lighthouse Keeper"
     ],
     "appId": 2023050,
@@ -10085,37 +9312,6 @@
       "Indie"
     ],
     "releaseDate": "2011"
-  },
-  {
-    "keys": [
-      "Little Inferno"
-    ],
-    "appId": 221260,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/221260/capsule_184x69.jpg?t=1668741117",
-    "type": "game",
-    "description": "Throw your toys into your fire, and play with them as they burn. An adventure that takes place almost entirely in front of a fireplace - about looking up up up out of the chimney, and the cold world just on the other side of the wall. From the creators of World of Goo and Human Resource Machine.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 68,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/little-inferno",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2012",
-    "claimed": true
   },
   {
     "keys": [
@@ -10501,31 +9697,6 @@
   },
   {
     "keys": [
-      "Maize"
-    ],
-    "appId": 284240,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/284240/capsule_184x69.jpg?t=1602694531",
-    "type": "game",
-    "description": "Maize is a first-person adventure game about what happens when two scientists misinterpret a memo from the U.S. Government and create sentient corn. And that last sentence is pretty much the least ridiculous thing about the game.",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Partial Controller Support"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2016",
-    "claimed": true
-  },
-  {
-    "keys": [
       "MANOS: The Hands of Fate Director's Cut"
     ],
     "appId": 350780,
@@ -10582,40 +9753,6 @@
       "Adventure",
       "Indie"
     ]
-  },
-  {
-    "keys": [
-      "Mass Effect Legendary Edition"
-    ],
-    "appId": 1328670,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1328670/capsule_184x69.jpg?t=1669773470",
-    "type": "game",
-    "description": "The Mass Effect™ Legendary Edition includes single-player base content and over 40 DLC from the highly acclaimed Mass Effect, Mass Effect 2, and Mass Effect 3 games, including promo weapons, armors, and packs — remastered and optimized for 4K Ultra HD.",
-    "priceCurrency": "USD",
-    "price": "59.99",
-    "metaCriticScore": 86,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/mass-effect-legendary-edition",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "RPG"
-    ],
-    "releaseDate": "2021",
-    "contentWarnings": [
-      1,
-      2,
-      5
-    ],
-    "claimed": true
   },
   {
     "keys": [
@@ -10745,88 +9882,6 @@
       "Casual"
     ],
     "releaseDate": "2022"
-  },
-  {
-    "keys": [
-      "METAL GEAR SOLID V: GROUND ZEROES"
-    ],
-    "appId": 311340,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/311340/capsule_184x69.jpg?t=1653976882",
-    "type": "game",
-    "description": "World-renowned Kojima Productions brings the Metal Gear Solid franchise to Steam with METAL GEAR SOLID V: GROUND ZEROES. Play as the legendary hero Snake and infiltrate a Cuban military base to rescue the hostages. Can you make it out alive?",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 80,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/metal-gear-solid-v-ground-zeroes",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Steam Leaderboards"
-    ],
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "releaseDate": "2014",
-    "claimed": true
-  },
-  {
-    "keys": [
-      "METAL GEAR SOLID V: The Definitive Experience DLC"
-    ],
-    "bundleId": 132479,
-    "image": "https://cdn.akamai.steamstatic.com/steam/subs/132479/capsule_231x87.jpg?t=1653977022",
-    "type": "bundle",
-    "priceCurrency": "USD",
-    "price": "29.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [],
-    "genres": [],
-    "claimed": true
-  },
-  {
-    "keys": [
-      "METAL GEAR SOLID V: THE PHANTOM PAIN"
-    ],
-    "appId": 287700,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/287700/capsule_184x69.jpg?t=1667801931",
-    "type": "game",
-    "description": "Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 91,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/metal-gear-solid-v-the-phantom-pain",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Captions available",
-      "In-App Purchases",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
   },
   {
     "keys": [
@@ -11644,42 +10699,6 @@
   },
   {
     "keys": [
-      "My Time at Portia"
-    ],
-    "appId": 666140,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/666140/capsule_184x69.jpg?t=1685413057",
-    "type": "game",
-    "description": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land!",
-    "priceCurrency": "USD",
-    "price": "29.99",
-    "metaCriticScore": 73,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/my-time-at-portia",
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "releaseDate": "2019",
-    "claimed": true
-  },
-  {
-    "keys": [
       "NAIRI: Tower of Shirin"
     ],
     "appId": 802450,
@@ -11975,39 +10994,6 @@
   },
   {
     "keys": [
-      "Ninja Pizza Girl"
-    ],
-    "appId": 319470,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/319470/capsule_184x69.jpg?t=1562654221",
-    "type": "game",
-    "description": "Ninja Pizza Girl is a serious game about bullying, emotional resilience – and pizza delivering ninjas! It’s a fast, flow-based game about Gemma, a sixteen-year-old girl trying to keep her dreams alive in face of the most merciless enemies known to any teenage girl – other teenagers.",
-    "priceCurrency": "USD",
-    "price": "6.99",
-    "metaCriticScore": 82,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/ninja-pizza-girl",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Indie"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
-  },
-  {
-    "keys": [
       "No Time to Explain",
       "No Time to Explain Remastered"
     ],
@@ -12045,37 +11031,6 @@
       "Indie"
     ],
     "releaseDate": "2015"
-  },
-  {
-    "keys": [
-      "Noita"
-    ],
-    "appId": 881100,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/881100/capsule_184x69.jpg?t=1675987871",
-    "type": "game",
-    "description": "Noita is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself.",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Workshop",
-      "Partial Controller Support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "releaseDate": "2020",
-    "claimed": true
   },
   {
     "keys": [
@@ -12704,41 +11659,6 @@
   },
   {
     "keys": [
-      "Owlboy",
-      "Owlboy"
-    ],
-    "appId": 115800,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/115800/capsule_184x69.jpg?t=1659086154",
-    "type": "game",
-    "description": "Owlboy is a story-driven platform adventure game, where you can fly and explore a brand new world in the clouds! Pick up your friends, and bring them with you as you explore the open skies, in one of the most detailed adventures of this era.",
-    "priceCurrency": "USD",
-    "price": "24.99",
-    "metaCriticScore": 88,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/owlboy",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2016",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Oxenfree"
     ],
     "appId": 388880,
@@ -12862,36 +11782,6 @@
   },
   {
     "keys": [
-      "Passpartout: The Starving Artist"
-    ],
-    "appId": 582550,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/582550/capsule_184x69.jpg?t=1667903449",
-    "type": "game",
-    "description": "Even you can become a great artist! Wrestle subjectivity as you attempt to sell your art to rude customers in order to progress in this confusing art scene. The only thing threatening you is your expensive wine and baguette addiction! Will your art end up in the Louvre or on your parents' fridge?",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Pathologic Classic HD"
     ],
     "appId": 384110,
@@ -12960,65 +11850,6 @@
   },
   {
     "keys": [
-      "Pesterquest"
-    ],
-    "appId": 1144030,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1144030/capsule_184x69.jpg?t=1667372220",
-    "type": "game",
-    "description": "Embark on a quest of epic importance in Pesterquest, a grimsical episodic visual novel adventure set in the darkly funny Homestuck / Hiveswap universe. Find all the answers you're looking for as you zap between Earth and Alternia making friends as you go.",
-    "priceCurrency": "USD",
-    "price": "11.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie",
-      "RPG"
-    ],
-    "releaseDate": "2019",
-    "claimed": true
-  },
-  {
-    "keys": [
-      "Pilgrims"
-    ],
-    "appId": 1049280,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1049280/capsule_184x69.jpg?t=1669304777",
-    "type": "game",
-    "description": "Pilgrims is a playful adventure game, created by the team behind Machinarium and Samorost. Roam the land as you please and make new friends, share a laugh with your fellow travelers and help them complete their little stories, your way. How many different solutions can you find?",
-    "priceCurrency": "USD",
-    "price": "6.99",
-    "metaCriticScore": 78,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/pilgrims",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2019",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Pill Baby"
     ],
     "appId": 1765560,
@@ -13048,37 +11879,6 @@
     "contentWarnings": [
       5
     ]
-  },
-  {
-    "keys": [
-      "Pillars of Eternity"
-    ],
-    "appId": 291650,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/291650/capsule_184x69.jpg?t=1683221851",
-    "type": "game",
-    "description": "Prepare to be enchanted by a world where the choices you make and the paths you choose shape your destiny. Obsidian Entertainment, the developer of Fallout: New Vegas™ and South Park: The Stick of Truth™, together with Paradox Interactive is proud to present Pillars of Eternity.",
-    "priceCurrency": "USD",
-    "price": "29.99",
-    "metaCriticScore": 89,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/pillars-of-eternity",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Commentary available",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "RPG"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
   },
   {
     "keys": [
@@ -13135,31 +11935,6 @@
       "RPG"
     ],
     "releaseDate": "2014"
-  },
-  {
-    "keys": [
-      "Pixross"
-    ],
-    "appId": 1489680,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1489680/capsule_184x69.jpg?t=1634034822",
-    "type": "game",
-    "description": "Over 150 relaxing nonogram logic puzzles featuring additional challenges and unlockable customizations!",
-    "priceCurrency": "USD",
-    "price": "3.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements"
-    ],
-    "genres": [
-      "Casual"
-    ],
-    "releaseDate": "2020",
-    "claimed": true
   },
   {
     "keys": [
@@ -13727,37 +12502,6 @@
     "platforms": [],
     "categories": [],
     "genres": []
-  },
-  {
-    "keys": [
-      "Purrfect Date - Visual Novel/Dating Simulator"
-    ],
-    "appId": 520600,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/520600/capsule_184x69.jpg?t=1632477900",
-    "type": "game",
-    "description": "As Cat Island’s newest arrival, it’s not long before you realise something’s seriously amiss, or should we say… amorous! A blend of mystery, intrigue and wickedly black humour, will you discover your Purrfect Date before it’s too late? Remember, curiosity killed the cat...",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 72,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/purrfect-date",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Captions available",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
   },
   {
     "keys": [
@@ -15064,35 +13808,6 @@
   },
   {
     "keys": [
-      "Scanner Sombre"
-    ],
-    "appId": 475190,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/475190/capsule_184x69.jpg?t=1669018935",
-    "type": "game",
-    "description": "Inspired by Gone Home and Dear Esther, Scanner Sombre is a cave exploration experience. With stunning visuals and a terrifying theme, it is the 6th major video game released by Introversion Software - creators of the BAFTA award winning Prison Architect as well as Uplink, Darwinia and DEFCON.",
-    "priceCurrency": "USD",
-    "price": "5.99",
-    "metaCriticScore": 67,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/scanner-sombre",
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Tracked Controller Support",
-      "VR Supported",
-      "Partial Controller Support"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Secrets of Raetikon"
     ],
     "appId": 246680,
@@ -15359,59 +14074,6 @@
       "RPG"
     ],
     "releaseDate": "2008"
-  },
-  {
-    "keys": [
-      "Sherlock Holmes: Secret of the Silver Earring"
-    ],
-    "appId": 11150,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/11150/capsule_184x69.jpg?t=1667211602",
-    "type": "game",
-    "description": "Melvyn Bromsby, a rich tycoon, is about to make a statement, when suddenly a shot rings out. Sir Bromsby collapses - a mortal wound to the heart... A baffling murder, dozens of witnesses and no suspects! You, Sherlock Holmes, must use all your skills to shed light on this mysterious case.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 68,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/sherlock-holmes-the-silver-earring",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player"
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "releaseDate": "2009",
-    "claimed": true
-  },
-  {
-    "keys": [
-      "Sherlock Holmes: The Awakened"
-    ],
-    "appId": 1949030,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949030/capsule_184x69.jpg?t=1682489179",
-    "type": "game",
-    "description": "Experience a nerve-racking Lovecraftian adventure, rebuilt from the ground up with modern graphics and gameplay. Become Sherlock Holmes, and find yourself at the heart of the terrifying Cthulhu Mythos as you investigate a series of mysterious disappearances in Europe and the US.",
-    "priceCurrency": "USD",
-    "price": "39.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure"
-    ],
-    "releaseDate": "2023",
-    "contentWarnings": [
-      5
-    ],
-    "claimed": true
   },
   {
     "keys": [
@@ -16694,77 +15356,6 @@
   },
   {
     "keys": [
-      "Stardew Valley (Switch US edition)",
-      "Stardew Valley (Switch US edition)",
-      "Stardew Valley (Switch US edition)"
-    ],
-    "appId": 413150,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_184x69.jpg?t=1666917466",
-    "type": "game",
-    "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
-    "overrideStorePageUrl": "https://www.nintendo.com/en-ca/store/products/stardew-valley-switch/",
-    "priceCurrency": "USD",
-    "price": "16.99",
-    "metaCriticScore": 89,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/stardew-valley",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "LAN Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "releaseDate": "2016",
-    "claimed": true
-  },
-  {
-    "keys": [
-      "Starseed Pilgrim"
-    ],
-    "appId": 230980,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/230980/capsule_184x69.jpg?t=1634922642",
-    "type": "game",
-    "description": "Starseed Pilgrim is a game about tending a symphonic garden, exploring space, and embracing fate.You are a gardener, tending to empty noise and empty space to fill them both with colour.You are a refugee, building your own world away from the spreading darkness.You are an explorer, discovering new places, new rules, and new fascinations.",
-    "priceCurrency": "USD",
-    "price": "5.99",
-    "metaCriticScore": 83,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/starseed-pilgrim",
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Partial Controller Support"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2013",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Starward Rogue"
     ],
     "appId": 410820,
@@ -17901,23 +16492,6 @@
   },
   {
     "keys": [
-      "System Shock Pack"
-    ],
-    "bundleId": 82345,
-    "image": "https://cdn.akamai.steamstatic.com/steam/subs/82345/capsule_231x87.jpg?t=1447462229",
-    "type": "bundle",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [],
-    "genres": [],
-    "claimed": true
-  },
-  {
-    "keys": [
       "Tacoma"
     ],
     "appId": 343860,
@@ -18751,45 +17325,6 @@
   },
   {
     "keys": [
-      "The Forest"
-    ],
-    "appId": 242760,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/242760/capsule_184x69.jpg?t=1666811027",
-    "type": "game",
-    "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 83,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/the-forest",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Online Co-op",
-      "LAN Co-op",
-      "Tracked Controller Support",
-      "VR Supported",
-      "Partial Controller Support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Simulation"
-    ],
-    "releaseDate": "2018",
-    "contentWarnings": [
-      2,
-      5
-    ],
-    "claimed": true
-  },
-  {
-    "keys": [
       "The Incredible Adventures of Van Helsing: Final Cut"
     ],
     "appId": 400170,
@@ -18849,45 +17384,6 @@
       "Indie"
     ],
     "releaseDate": "2013"
-  },
-  {
-    "keys": [
-      "The Jackbox Party Pack 2"
-    ],
-    "appId": 397460,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/397460/capsule_184x69.jpg?t=1667412618",
-    "type": "game",
-    "description": "The sequel to the party game phenomenon The Jackbox Party Pack, featuring FIVE fresh, rib-tickling party games! Your phones or tablets are your controllers – no big mess of controllers needed. For up to 8 players plus an Audience of up to 10,000! It’s a game-night riot in a box… without the box!",
-    "priceCurrency": "USD",
-    "price": "24.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Shared/Split Screen Co-op",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Partial Controller Support",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
   },
   {
     "keys": [
@@ -19694,34 +18190,6 @@
   },
   {
     "keys": [
-      "Tiny Echo"
-    ],
-    "appId": 629770,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/629770/capsule_184x69.jpg?t=1634491842",
-    "type": "game",
-    "description": "Explore this lovingly crafted world with all its odd inhabitants as you deliver messages to the spirits. Make your mark in the wordless narrative - with a Tiny Echo.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
-  },
-  {
-    "keys": [
       "TIS-100"
     ],
     "appId": 370360,
@@ -20367,36 +18835,6 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015",
-    "claimed": true
-  },
-  {
-    "keys": [
-      "Undertale"
-    ],
-    "appId": 391540,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/391540/capsule_184x69.jpg?t=1579096091",
-    "type": "game",
-    "description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 92,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/undertale",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Trading Cards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "Indie",
-      "RPG"
-    ],
     "releaseDate": "2015"
   },
   {
@@ -20713,48 +19151,6 @@
       "Strategy"
     ],
     "releaseDate": "2014"
-  },
-  {
-    "keys": [
-      "Wargroove"
-    ],
-    "appId": 607050,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/607050/capsule_184x69.jpg?t=1678987553",
-    "type": "game",
-    "description": "Take to the battlefield with Wargroove, a strategy game for up to 4 players! Choose your Commander and wage turn-based war on battling factions. Design and share maps, cut-scenes and campaigns with easy-to-use editors and in-depth customization tools!",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 82,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/wargroove",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Online Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Turn Notifications",
-      "Includes level editor",
-      "Remote Play on TV",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Indie",
-      "Strategy"
-    ],
-    "releaseDate": "2019",
-    "claimed": true
   },
   {
     "keys": [
@@ -21928,36 +20324,6 @@
   },
   {
     "keys": [
-      "Yoku's Island Express"
-    ],
-    "appId": 334940,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/334940/capsule_184x69.jpg?t=1638519902",
-    "type": "game",
-    "description": "Meet Yoku, the pint-sized postman protagonist of Yoku's Island Express! Use a unique blend of pinball mechanics, platforming and open world exploration to unlock the secrets of Mokumana Island, help the locals, awaken ancient deities and much more in this amazing new tropical adventure!",
-    "priceCurrency": "USD",
-    "price": "19.99",
-    "metaCriticScore": 84,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/yokus-island-express",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2018",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Yooka-Laylee"
     ],
     "appId": 360830,
@@ -22056,38 +20422,6 @@
       "RPG"
     ],
     "releaseDate": "2014"
-  },
-  {
-    "keys": [
-      "Zombie Army Trilogy"
-    ],
-    "appId": 301640,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/301640/capsule_184x69.jpg?t=1589808341",
-    "type": "game",
-    "description": "The cult horror shooter series comes to an apocalyptic conclusion with an epic new third chapter, a heart-pumping new horde mode, and remastered editions of the best-selling Nazi Zombie Army 1 & 2.",
-    "priceCurrency": "USD",
-    "price": "44.99",
-    "metaCriticScore": 72,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/zombie-army-trilogy",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
   },
   {
     "keys": [
