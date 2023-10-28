@@ -66,7 +66,7 @@
                     </div>
                 </div>
 
-                <div v-for="prizeGroup of gamesByPrizeGroup" v-cloak>
+                <div v-for="prizeGroup of gamesByPrizeGroup" v-cloak v-if="prizeGroup.groupVisible">
                     <h2>{{prizeGroup.groupName}}</h3>
 
                     <small v-if="prizeGroup.countHidden">

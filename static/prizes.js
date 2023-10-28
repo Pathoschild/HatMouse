@@ -124,12 +124,12 @@ const prizeList = async function() {
                 game.url = "https://store.steampowered.com/sub/" + game.bundleId;
 
             // set prize group
-            for (let key of Object.keys(data.config.prizeGroups))
+            for (const prizeGroup of data.config.prizeGroups)
             {
-                const minPrice = data.config.prizeGroups[key];
+                const minPrice = prizeGroup.minPrice;
                 if (!minPrice || game.price >= minPrice)
                 {
-                    game.prizeGroup = key;
+                    game.prizeGroup = prizeGroup.key;
                     break;
                 }
             }
@@ -167,12 +167,14 @@ const prizeList = async function() {
             gamesByPrizeGroup() {
                 const groups = [];
 
-                for (const groupName of Object.keys(data.config.prizeGroups)) {
-                    const allGames = data.games.filter(game => game.prizeGroup == groupName);
+                for (const prizeGroup of data.config.prizeGroups) {
+                    const allGames = data.games.filter(game => game.prizeGroup == prizeGroup.key);
                     const visibleGames = allGames.filter(game => game.visible);
 
                     groups.push({
-                        groupName: groupName,
+                        groupName: prizeGroup.key,
+                        groupVisible: prizeGroup.visible,
+
                         games: visibleGames,
                         countVisible: visibleGames.length,
                         countHidden: allGames.length - visibleGames.length
