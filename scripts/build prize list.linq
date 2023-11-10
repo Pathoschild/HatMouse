@@ -799,6 +799,9 @@ public class PublicGameRecord
 
 		if (this.Type == "dlc")
 			this.Type = "DLC";
+
+		if (this.Image is not null)
+			this.Image = Regex.Replace(this.Image, @"\?t=\d+(&|$)", "$1"); // strip cachebusting argument to avoid unneeded changes on update
 	}
 
 	/// <summary>Normalize a MetaCritical review page URL.</summary>
