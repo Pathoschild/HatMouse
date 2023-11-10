@@ -913,15 +913,16 @@
     "description": "In this unique Zelda-lite game, explore and fight your way through surreal and creepy, nature, urban and abstract themed areas in the human Young's subconscious, evoked by a 16-bit-era visual style and a moody, dream-like soundtrack.",
     "priceCurrency": "USD",
     "price": "9.99",
-    "metaCriticScore": 75,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/anodyne",
+    "metaCriticScore": 0,
     "platforms": [
+      "Linux",
       "macOS",
       "Windows"
     ],
     "categories": [
       "Single-player",
       "Steam Achievements",
+      "Full controller support",
       "Steam Trading Cards",
       "Steam Cloud"
     ],
@@ -1155,7 +1156,7 @@
     "type": "game",
     "description": "Armello is a grim fairy-tale board game come to life, with every match combining deep, tactical card play, rich tabletop strategy and RPG elements. Leverage subterfuge, spells and careful strategy to wrangle control of the game's chaotic odds as you quest for the throne.",
     "priceCurrency": "USD",
-    "price": "19.99",
+    "price": "24.99",
     "metaCriticScore": 75,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/armello",
     "platforms": [
@@ -1214,7 +1215,6 @@
       "Includes level editor"
     ],
     "genres": [
-      "Indie",
       "Simulation",
       "Strategy"
     ],
@@ -1586,37 +1586,6 @@
       "Utilities"
     ],
     "releaseDate": "2015"
-  },
-  {
-    "keys": [
-      "Backbone"
-    ],
-    "appId": 865610,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/865610/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Backbone is a post-noir narrative adventure. Become raccoon private eye Howard Lotor and explore dystopian Vancouver inhabited by animals as you uncover a deeply personal story of change and transformation.",
-    "priceCurrency": "USD",
-    "price": "24.99",
-    "metaCriticScore": 72,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/backbone",
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2021",
-    "contentWarnings": [
-      5
-    ]
   },
   {
     "keys": [
@@ -2853,7 +2822,6 @@
       "Steam Achievements",
       "Steam Trading Cards",
       "Steam Workshop",
-      "Partial Controller Support",
       "Steam Cloud",
       "Includes level editor",
       "Remote Play on Tablet"
@@ -3086,7 +3054,7 @@
     "appId": 386620,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/386620/capsule_184x69.jpg",
     "type": "game",
-    "description": "The highest selling and most intense restaurant sim ever made is back! Deceptively easy to learn but incredibly difficult to master, Cook, Serve, Delicious! 2!! is your journey of being the best chef in the world with your small but humble restaurant on the 50th floor of the Teragon Supertower.",
+    "description": "Deceptively easy to learn but incredibly difficult to master, Cook, Serve, Delicious! 2!! is your journey of being the best chef in the world with your small but humble restaurant on the 50th floor of the Teragon Supertower.",
     "priceCurrency": "USD",
     "price": "12.99",
     "metaCriticScore": 62,
@@ -3381,7 +3349,7 @@
     "appId": 534290,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/534290/capsule_184x69.jpg",
     "type": "game",
-    "description": "Cursed Castilla (Maldita Castilla EX) is an arcade action platformer full of creatures from medieval myths from Spain and the rest of Europe, as well as from chivalric romances. This game is an extended version of the renowned classic arcade Maldita Castilla, originally created by the indie Locomalito.",
+    "description": "Cursed Castilla (Maldita Castilla EX) is an arcade action platformer full of creatures from medieval myths from Spain and the rest of Europe, as well as from chivalric romances. The extended version of the classic Maldita Castilla, originally created by the indie Locomalito.",
     "priceCurrency": "USD",
     "price": "11.99",
     "metaCriticScore": 81,
@@ -3578,7 +3546,8 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -4291,6 +4260,7 @@
       "Single-player",
       "Steam Achievements",
       "Steam Trading Cards",
+      "Partial Controller Support",
       "Steam Cloud"
     ],
     "genres": [
@@ -4580,6 +4550,7 @@
       "Single-player",
       "Multi-player",
       "Co-op",
+      "Online Co-op",
       "Cross-Platform Multiplayer",
       "Steam Achievements",
       "Full controller support",
@@ -4707,9 +4678,9 @@
       "Steam Leaderboards"
     ],
     "genres": [
-      "Strategy",
+      "Casual",
       "Indie",
-      "Casual"
+      "Strategy"
     ],
     "releaseDate": "2011"
   },
@@ -5368,7 +5339,6 @@
     "price": "6.99",
     "metaCriticScore": 0,
     "platforms": [
-      "Linux",
       "Windows"
     ],
     "categories": [
@@ -5660,7 +5630,7 @@
       "Euro Truck Simulator 2"
     ],
     "appId": 227300,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_184x69.jpg",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/227300/capsule_184x69_alt_assets_6.jpg",
     "type": "game",
     "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
     "priceCurrency": "USD",
@@ -5803,7 +5773,8 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -6093,7 +6064,7 @@
     "appId": 410900,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/410900/capsule_184x69.jpg",
     "type": "game",
-    "description": "Forts is a physics-based RTS where foes design and build custom bases, arm them to the teeth and blast their opponent's creations to rubble.",
+    "description": "Unleash your creativity and strategic prowess in Forts, the exhilarating physics-based RTS! Design, construct, and customize imposing fortresses, bristling with devastating firepower, and blast your opponent’s buildings to rubble!",
     "priceCurrency": "USD",
     "price": "14.99",
     "metaCriticScore": 74,
@@ -6305,7 +6276,6 @@
       "Stats"
     ],
     "genres": [
-      "Indie",
       "Strategy"
     ],
     "releaseDate": "2015"
@@ -6490,7 +6460,8 @@
     ],
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Game Development"
     ],
     "releaseDate": "2015"
   },
@@ -6517,7 +6488,8 @@
     ],
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Game Development"
     ],
     "releaseDate": "2015"
   },
@@ -6543,7 +6515,8 @@
     ],
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Game Development"
     ],
     "releaseDate": "2015"
   },
@@ -7350,7 +7323,7 @@
       "Haiku, the Robot"
     ],
     "appId": 1231880,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1231880/capsule_184x69_alt_assets_1.jpg",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1231880/capsule_184x69.jpg",
     "type": "game",
     "description": "Delve into the depths of a mechanical world in this cute, adventure-exploration game. Explore and fight in a land full of corrupt robots and machinery. All while seeking answers to the mysteries around you.",
     "priceCurrency": "USD",
@@ -7583,7 +7556,7 @@
       "Shared/Split Screen Co-op",
       "Shared/Split Screen",
       "Steam Achievements",
-      "Full controller support",
+      "Partial Controller Support",
       "Steam Cloud",
       "Valve Anti-Cheat enabled",
       "Remote Play on Tablet",
@@ -7725,7 +7698,7 @@
     "type": "game",
     "description": "YOU ARE THE DRAGON in this award-winning arcade strategy game. Burn villages, collect gold, and level up your dragon while playing 10 minute matches in single player or up to 4 player co-op and competitive modes. Over 30 levels and multiple game modes ensure you'll be burning for a long time!",
     "priceCurrency": "USD",
-    "price": "4.99",
+    "price": "3.99",
     "metaCriticScore": 0,
     "platforms": [
       "Linux",
@@ -8120,7 +8093,10 @@
       "Windows"
     ],
     "categories": [
-      "Single-player"
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Includes level editor"
     ],
     "genres": [
       "Action",
@@ -8636,7 +8612,7 @@
       "Jurassic World Evolution 2"
     ],
     "appId": 1244460,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244460/capsule_184x69_alt_assets_1.jpg",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244460/capsule_184x69.jpg",
     "type": "game",
     "description": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier’s highly successful Jurassic World Evolution. This bold new era in the Jurassic World Evolution game franchise builds upon the ground-breaking and immersive 2018 management simulation.",
     "priceCurrency": "USD",
@@ -8779,6 +8755,7 @@
       "Steam Achievements",
       "Full controller support",
       "Captions available",
+      "Steam Cloud",
       "Remote Play on TV"
     ],
     "genres": [
@@ -8831,6 +8808,7 @@
     "metaCriticScore": 82,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/kero-blaster",
     "platforms": [
+      "macOS",
       "Windows"
     ],
     "categories": [
@@ -8838,6 +8816,7 @@
       "Steam Achievements",
       "Full controller support",
       "Steam Trading Cards",
+      "Steam Cloud",
       "Remote Play on TV"
     ],
     "genres": [
@@ -8852,9 +8831,9 @@
       "Killing Floor 2"
     ],
     "appId": 232090,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/232090/capsule_184x69_alt_assets_3.jpg",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/232090/capsule_184x69_alt_assets_4.jpg",
     "type": "game",
-    "description": "6-player co-op Zed-slaughtering mayhem. And now, 12-player Versus Survival mode, too - now you can BE the Zeds!",
+    "description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by rogue elements of the Horzine Corporation. 6-player Co-Op & 12-player VS Zed-slaughtering mayhem.",
     "priceCurrency": "USD",
     "price": "29.99",
     "metaCriticScore": 75,
@@ -9041,7 +9020,8 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -9073,6 +9053,15 @@
       "Adventure"
     ],
     "releaseDate": "2016"
+  },
+  {
+    "keys": [
+      "Laser League"
+    ],
+    "metaCriticScore": 0,
+    "platforms": [],
+    "categories": [],
+    "genres": []
   },
   {
     "keys": [
@@ -9174,7 +9163,7 @@
     "description": "Layers of Fear is a first-person psychedelic horror game with a heavy focus on story and exploration. Players take control of a painter whose sole purpose is to finish his Magnum Opus. The player must navigate a constantly changing Victorian-era mansion and ghastly visions of the painter’s psyche.",
     "priceCurrency": "USD",
     "price": "19.99",
-    "metaCriticScore": 72,
+    "metaCriticScore": 73,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/layers-of-fear",
     "platforms": [
       "Linux",
@@ -9311,7 +9300,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2011"
+    "releaseDate": "2011",
+    "claimed": true
   },
   {
     "keys": [
@@ -9704,7 +9694,7 @@
     "type": "game",
     "description": "Retro platforming action in this adaptation of a terrible movie.",
     "priceCurrency": "USD",
-    "price": "1.99",
+    "price": "3.99",
     "metaCriticScore": 0,
     "platforms": [
       "Windows"
@@ -9862,29 +9852,6 @@
   },
   {
     "keys": [
-      "Meow Express"
-    ],
-    "appId": 1851730,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1851730/capsule_184x69.jpg",
-    "type": "game",
-    "description": "You are a cat on a robot vacuum cleaner. Which means you are bus driver in the cat world! Dodge obstacles, pop innocent kids' baloons, dash through buildings to collect your fellow cat pussengers. Meow Express is a cute, fun and annoying casual arcade game, just like our furry friends.",
-    "priceCurrency": "USD",
-    "price": "0.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual"
-    ],
-    "releaseDate": "2022"
-  },
-  {
-    "keys": [
       "Metrico+"
     ],
     "appId": 373990,
@@ -9903,7 +9870,7 @@
     "categories": [
       "Single-player",
       "Steam Achievements",
-      "Full controller support",
+      "Partial Controller Support",
       "Steam Cloud",
       "Remote Play on TV"
     ],
@@ -9971,7 +9938,8 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -10270,7 +10238,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013"
+    "releaseDate": "2013",
+    "claimed": true
   },
   {
     "keys": [
@@ -11521,7 +11490,10 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "contentWarnings": [
+      5
+    ]
   },
   {
     "keys": [
@@ -12289,7 +12261,7 @@
     "appId": 321360,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/321360/capsule_184x69.jpg",
     "type": "game",
-    "description": "Dinosaurs versus humans PvP, choose your side! Engage in chaotic FPS action, or go on a 3rd person dino rampage to reach the top of the food chain. Think fast, or you're extinct.",
+    "description": "Hunt humans, slay dinosaurs. It's chaotic prehistoric PvP, make your choice. Think fast, or you're extinct!",
     "priceCurrency": "USD",
     "price": "12.99",
     "metaCriticScore": 0,
@@ -12583,7 +12555,8 @@
     "genres": [
       "Action",
       "Adventure",
-      "Indie"
+      "Indie",
+      "Simulation"
     ],
     "releaseDate": "2018"
   },
@@ -12638,13 +12611,15 @@
     "categories": [
       "Single-player",
       "Steam Achievements",
-      "Full controller support"
+      "Full controller support",
+      "Steam Cloud"
     ],
     "genres": [
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2022"
+    "releaseDate": "2022",
+    "claimed": true
   },
   {
     "keys": [
@@ -13947,7 +13922,6 @@
     "metaCriticScore": 72,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/shank-2",
     "platforms": [
-      "Linux",
       "macOS",
       "Windows"
     ],
@@ -14903,7 +14877,8 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2022"
+    "releaseDate": "2022",
+    "claimed": true
   },
   {
     "keys": [
@@ -15123,7 +15098,35 @@
   },
   {
     "keys": [
-      "Splice",
+      "Splice"
+    ],
+    "appId": 209790,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/209790/capsule_184x69.jpg",
+    "type": "game",
+    "description": "Splice is an experimental and artistic puzzler. Immerse yourself in its microbial world and start splicing! Every level (\"strand\") consists of a number of cells that you will need to rearrange into a target structure in several moves (\"splices\").",
+    "priceCurrency": "USD",
+    "price": "9.99",
+    "metaCriticScore": 70,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/splice",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "genres": [
+      "Indie",
+      "Casual"
+    ],
+    "releaseDate": "2012",
+    "claimed": true
+  },
+  {
+    "keys": [
       "Splice"
     ],
     "appId": 209790,
@@ -16037,7 +16040,7 @@
     "appId": 345860,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/345860/capsule_184x69.jpg",
     "type": "game",
-    "description": "Super Galaxy Squadron is a fast-paced vertical shooter designed for human beings as well as shmup veterans. Featuring multiple game modes, a challenging but merciful difficulty curve, forgiving health system, and seventeen playable ships.",
+    "description": "Super Galaxy Squadron is a fast-paced vertical shooter designed for human beings as well as SHMUP veterans. Featuring multiple game modes, a challenging but merciful difficulty curve, forgiving health system, and SEVENTEEN playable ships.",
     "priceCurrency": "USD",
     "price": "9.99",
     "metaCriticScore": 0,
@@ -16050,6 +16053,7 @@
       "Steam Achievements",
       "Full controller support",
       "Steam Trading Cards",
+      "Steam Cloud",
       "Steam Leaderboards"
     ],
     "genres": [
@@ -16409,30 +16413,34 @@
     "keys": [
       "Symmetry"
     ],
-    "appId": 537520,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/537520/capsule_184x69.jpg",
+    "appId": 1130400,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1130400/capsule_184x69.jpg",
     "type": "game",
-    "description": "A research spaceship reaches an abandoned planet. Nothing is what it seems here and the situation quickly slips out of control. Can the crew manage to survive and get back home?",
+    "description": "A 3D platforming challenge like no other! Play solo or against up to 3 others in Symmetry - a ball roller that is sure to put your nerves to the test!",
     "priceCurrency": "USD",
-    "price": "11.99",
-    "metaCriticScore": 60,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/symmetry",
+    "price": "7.99",
+    "metaCriticScore": 0,
     "platforms": [
-      "macOS",
       "Windows"
     ],
     "categories": [
       "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
       "Steam Achievements",
-      "Steam Cloud"
+      "Full controller support",
+      "Remote Play Together"
     ],
     "genres": [
+      "Action",
       "Adventure",
       "Indie",
-      "Simulation",
-      "Strategy"
+      "Racing",
+      "Early Access"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2019"
   },
   {
     "keys": [
@@ -16577,7 +16585,9 @@
     "genres": [
       "Action",
       "Indie",
-      "Simulation"
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy"
     ],
     "releaseDate": "2017",
     "contentWarnings": [
@@ -16786,7 +16796,7 @@
     "type": "game",
     "description": "Roll up and play a deck building game like no other! Gather weird and wonderful performers, amaze audiences, explore Gilded Age America, and transform your run down circus into an entertainment empire. Play your cards right and you could claim the crown of greatest showman from P.T .Barnum!",
     "priceCurrency": "USD",
-    "price": "19.99",
+    "price": "14.99",
     "metaCriticScore": 0,
     "platforms": [
       "Windows"
@@ -16833,7 +16843,8 @@
     "genres": [
       "Action",
       "Adventure",
-      "Indie"
+      "Indie",
+      "Strategy"
     ],
     "releaseDate": "2010"
   },
@@ -17012,9 +17023,9 @@
       "The Elder Scrolls Online: Tamriel Unlimited"
     ],
     "appId": 306130,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_184x69.jpg",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_184x69_alt_assets_13.jpg",
     "type": "game",
-    "description": "Join over 20 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required.",
+    "description": "Join over 22 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required.",
     "priceCurrency": "USD",
     "price": "19.99",
     "metaCriticScore": 80,
@@ -17433,7 +17444,8 @@
     "genres": [
       "RPG"
     ],
-    "releaseDate": "2009"
+    "releaseDate": "2009",
+    "claimed": true
   },
   {
     "keys": [
@@ -17575,7 +17587,7 @@
     "type": "game",
     "description": "Includes the Sunken Sins free DLC! Your Excellency, in this short game, we prepare for the awakening of our Lord. He hungers for human sacrifice. Sinners try to hide their dark secrets, but all must be purged...",
     "priceCurrency": "USD",
-    "price": "9.99",
+    "price": "12.99",
     "metaCriticScore": 69,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/the-shrouded-isle",
     "platforms": [
@@ -17909,9 +17921,9 @@
     "categories": [
       "Single-player",
       "Steam Achievements",
-      "Full controller support",
       "Steam Trading Cards",
       "Steam Workshop",
+      "Partial Controller Support",
       "Steam Cloud"
     ],
     "genres": [
@@ -17987,12 +17999,10 @@
     "keys": [
       "Ticket to Ride"
     ],
-    "appId": 108200,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/108200/capsule_184x69.jpg",
+    "appId": 2477010,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2477010/capsule_184x69.jpg",
     "type": "game",
-    "description": "CONNECT MORE THAN CITIES! Set off with your friends and family to re(discover) Ticket to Ride, the classic boardgame. In this railway adventure, you’ll need to be the quickest to link up your cities and reach your destinations.",
-    "priceCurrency": "USD",
-    "price": "9.99",
+    "description": "The cross-country train-adventure game is on its way! It's a fresh take on the iconic board game in stunning 3D. Play with friends, family and players of all ages around the world. Drive your enterprise from coast to coast and strategise as lines collide and direct routes grow!",
     "metaCriticScore": 0,
     "platforms": [
       "macOS",
@@ -18003,21 +18013,15 @@
       "Multi-player",
       "PvP",
       "Online PvP",
-      "LAN PvP",
-      "Shared/Split Screen PvP",
-      "Shared/Split Screen",
-      "Cross-Platform Multiplayer",
-      "Steam Achievements",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play Together"
+      "In-App Purchases",
+      "Steam Cloud"
     ],
     "genres": [
       "Casual",
-      "Indie",
+      "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2012"
+    "releaseDate": "2023"
   },
   {
     "keys": [
@@ -18027,8 +18031,6 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/108232/capsule_184x69.jpg",
     "type": "DLC",
     "description": "Expand your base game with 3 new Game variants and a whole new deck of Destinations tickets! Includes 35 new Destination Tickets and a new GlobeTrotter bonus card for completing the most tickets. There are three new ways to play: the 1910 variant, using only the new Destination Tickets; the Mega Game variant, featuring all tickets; and...",
-    "priceCurrency": "USD",
-    "price": "1.99",
     "metaCriticScore": 0,
     "platforms": [
       "macOS",
@@ -18064,8 +18066,6 @@
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/108230/capsule_184x69.jpg",
     "type": "DLC",
     "description": "Ticket to Ride Europe takes you on a new train adventure through the great cities of turn-of-the-century Europe. Discover new rules like Tunnels, Ferries and Stations in this new map, our most popular add-on for Ticket to Ride!",
-    "priceCurrency": "USD",
-    "price": "3.99",
     "metaCriticScore": 0,
     "platforms": [
       "macOS",
@@ -18090,8 +18090,7 @@
       "Casual",
       "Indie",
       "Strategy"
-    ],
-    "releaseDate": "2012"
+    ]
   },
   {
     "keys": [
@@ -18215,7 +18214,8 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -18361,7 +18361,6 @@
     "metaCriticScore": 86,
     "metaCriticUrl": "https://www.metacritic.com/game/pc/tomb-raider",
     "platforms": [
-      "Linux",
       "macOS",
       "Windows"
     ],
@@ -18545,6 +18544,7 @@
       "Online Co-op",
       "Steam Achievements",
       "VR Supported",
+      "Steam Trading Cards",
       "Steam Workshop",
       "Partial Controller Support",
       "Steam Cloud",
@@ -18835,7 +18835,8 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -18844,7 +18845,7 @@
     "appId": 678850,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/678850/capsule_184x69.jpg",
     "type": "game",
-    "description": "Enter the wacky & whimsical world of Uurnog Uurnlimited! Explore a silly, puzzle-filled land full of cubes, bombs, weird people & adorable animals — then steal them all! Play single player or co-op as you jump, grab, throw & teleport your colorful collection back to the Save Room (and try not to destroy it).",
+    "description": "Enter the wacky & whimsical world of Uurnog Uurnlimited! Explore a silly, puzzle-filled land full of cubes, bombs, weird people & adorable animals — then steal them all! Play single player or co-op as you jump, grab, throw & teleport your colorful collection back to the Save Room.",
     "priceCurrency": "USD",
     "price": "9.99",
     "metaCriticScore": 0,
@@ -18889,7 +18890,7 @@
       "Multi-player",
       "Shared/Split Screen",
       "Steam Achievements",
-      "Full controller support",
+      "Partial Controller Support",
       "Steam Leaderboards",
       "Remote Play Together"
     ],
@@ -19506,9 +19507,9 @@
       "Shared/Split Screen",
       "Cross-Platform Multiplayer",
       "Steam Achievements",
-      "Full controller support",
       "Steam Trading Cards",
       "Steam Workshop",
+      "Partial Controller Support",
       "Steam Cloud",
       "Remote Play on TV",
       "Remote Play Together"
@@ -19611,7 +19612,8 @@
       "Casual",
       "Indie"
     ],
-    "releaseDate": "2009"
+    "releaseDate": "2009",
+    "claimed": true
   },
   {
     "keys": [
@@ -19719,7 +19721,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "claimed": true
   },
   {
     "keys": [
