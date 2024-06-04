@@ -1855,38 +1855,6 @@
   },
   {
     "keys": [
-      "Beyond Eyes"
-    ],
-    "appId": 356050,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/356050/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Beyond Eyes is a modern fairy tale about finding courage and friendship. Step by step, uncover an incredible world, carefully guiding Rae, a young blind girl, on a life changing journey.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 60,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/beyond-eyes",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Stats",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2015"
-  },
-  {
-    "keys": [
       "Biomutant"
     ],
     "appId": 597820,
@@ -3519,38 +3487,6 @@
   },
   {
     "keys": [
-      "Darkside Detective"
-    ],
-    "appId": 368390,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/368390/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Grab your trench coat, tune your sixth sense and join the Darkside Division as they investigate the outright bizarre, the downright dangerous and the confusing cases of Twin Lakes. Flesh-hungry tentacles, mafian zombies, and the occasional missing sock are no match for The Darkside Detective.",
-    "priceCurrency": "USD",
-    "price": "14.99",
-    "metaCriticScore": 77,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/the-darkside-detective",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Partial Controller Support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Darksiders II: Deathinitive Edition"
     ],
     "appId": 388410,
@@ -4501,7 +4437,7 @@
     "type": "DLC",
     "description": "Dungeon of the Endless is a Rogue-Like Dungeon-Defense game, in which the player and their team of heroes must protect the generator of their crashed ship while exploring an ever-expanding dungeon, all while facing waves of monsters and special events as they try to find their way out...",
     "priceCurrency": "USD",
-    "price": "2.19",
+    "price": "1.99",
     "metaCriticScore": 0,
     "platforms": [
       "macOS",
@@ -5480,42 +5416,6 @@
   },
   {
     "keys": [
-      "Eon Altar Episode 1"
-    ],
-    "appId": 382050,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/382050/capsule_184x69.jpg",
-    "type": "game",
-    "description": "A role-playing game like no other. Your smartphone is your character! Eon Altar brings modern technology to the social experience of couch co-op gaming. Voice your character, choose which secrets to keep and what lies to tell. Gather your friends, order a pizza and descend to the depths of Eon Altar!",
-    "priceCurrency": "USD",
-    "price": "4.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Shared/Split Screen PvP",
-      "Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "RPG"
-    ],
-    "releaseDate": "2016"
-  },
-  {
-    "keys": [
       "Epistory - Typing Chronicles"
     ],
     "appId": 398850,
@@ -5747,34 +5647,6 @@
       "Indie"
     ],
     "releaseDate": "2013"
-  },
-  {
-    "keys": [
-      "Fidel - Dungeon Rescue"
-    ],
-    "appId": 573170,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/573170/capsule_184x69.jpg",
-    "type": "game",
-    "description": "A critically acclaimed roguelite where you can REWIND to find the optimal path through monsters, treasure and secrets. Quick to play. No grinding. No filler. Deep gameplay.",
-    "priceCurrency": "USD",
-    "price": "11.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Indie",
-      "RPG"
-    ],
-    "releaseDate": "2017",
-    "claimed": true
   },
   {
     "keys": [
@@ -7660,75 +7532,6 @@
   },
   {
     "keys": [
-      "HIVESWAP: Act 1"
-    ],
-    "appId": 623940,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/623940/capsule_184x69.jpg",
-    "type": "game",
-    "description": "A hand-drawn tribute to hilarious '90s adventure games (with none of the accompanying frustration). Play as Joey Claire, a puzzle-solving teen snatched out of her time (1994) and place (Earth) and stranded on a hostile alien planet on the brink of rebellion.",
-    "priceCurrency": "USD",
-    "price": "7.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie",
-      "RPG"
-    ],
-    "releaseDate": "2017",
-    "contentWarnings": [
-      5
-    ]
-  },
-  {
-    "keys": [
-      "HOARD"
-    ],
-    "appId": 63000,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/63000/capsule_184x69.jpg",
-    "type": "game",
-    "description": "YOU ARE THE DRAGON in this award-winning arcade strategy game. Burn villages, collect gold, and level up your dragon while playing 10 minute matches in single player or up to 4 player co-op and competitive modes. Over 30 levels and multiple game modes ensure you'll be burning for a long time!",
-    "priceCurrency": "USD",
-    "price": "3.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "PvP",
-      "Online PvP",
-      "Co-op",
-      "Online Co-op",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud",
-      "Valve Anti-Cheat enabled",
-      "Stats",
-      "Steam Leaderboards"
-    ],
-    "genres": [
-      "Action",
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "releaseDate": "2011"
-  },
-  {
-    "keys": [
       "Holy Potatoes! We're in Space?!"
     ],
     "appId": 505730,
@@ -8996,35 +8799,6 @@
   },
   {
     "keys": [
-      "Labyrinthine Dreams"
-    ],
-    "appId": 278570,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/278570/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Labyrinthine Dreams is a short puzzle game about overcoming the scars of the past and following the right path, even in the face of overwhelming challenges.",
-    "priceCurrency": "USD",
-    "price": "1.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Lara Croft GO"
     ],
     "appId": 540840,
@@ -9267,41 +9041,6 @@
       "Indie"
     ],
     "releaseDate": "2022"
-  },
-  {
-    "keys": [
-      "LIMBO"
-    ],
-    "appId": 48000,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/48000/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Uncertain of his sister's fate, a boy enters LIMBO",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 88,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/limbo",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2011",
-    "claimed": true
   },
   {
     "keys": [
@@ -9908,41 +9647,6 @@
   },
   {
     "keys": [
-      "Mini Metro"
-    ],
-    "appId": 287980,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/287980/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Mini Metro is a strategy simulation game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 77,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/mini-metro",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Steam Workshop",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
-  },
-  {
-    "keys": [
       "MINIT"
     ],
     "appId": 609490,
@@ -10208,38 +9912,6 @@
     "contentWarnings": [
       5
     ]
-  },
-  {
-    "keys": [
-      "Montague's Mount"
-    ],
-    "appId": 258950,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/258950/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Montague's Mount is disturbing psychological thriller set in the bleakness of an abandoned Irish island, featuring exploration and challenging puzzle solving. This game is part one of a two part story, some questions are left unanswered and open to interpretation.",
-    "priceCurrency": "USD",
-    "price": "4.99",
-    "metaCriticScore": 39,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/montagues-mount",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Captions available",
-      "Partial Controller Support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2013",
-    "claimed": true
   },
   {
     "keys": [
@@ -12594,35 +12266,6 @@
   },
   {
     "keys": [
-      "Quadrata"
-    ],
-    "appId": 2066950,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2066950/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Quadrata is a minimalist puzzle where you control two different characters with the same keys on either side and collect diamonds with a limited number of moves to finish.",
-    "priceCurrency": "USD",
-    "price": "1.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2022",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Rain World"
     ],
     "appId": 312520,
@@ -14854,34 +14497,6 @@
   },
   {
     "keys": [
-      "Soulflow"
-    ],
-    "appId": 1822900,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1822900/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Soulflow is a 2.5D fantasy-detective game that offers a unique experience with its graphic style. In this story-based role play game, players must gather information from others during the day and try to solve the murders in the neighborhood to stay free.",
-    "priceCurrency": "USD",
-    "price": "2.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "In-App Purchases"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG"
-    ],
-    "releaseDate": "2022",
-    "claimed": true
-  },
-  {
-    "keys": [
       "South Park: The Stick of Truth"
     ],
     "appId": 213670,
@@ -15095,35 +14710,6 @@
       "Indie"
     ],
     "releaseDate": "2017"
-  },
-  {
-    "keys": [
-      "Splice"
-    ],
-    "appId": 209790,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/209790/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Splice is an experimental and artistic puzzler. Immerse yourself in its microbial world and start splicing! Every level (\"strand\") consists of a number of cells that you will need to rearrange into a target structure in several moves (\"splices\").",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 70,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/splice",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Cloud"
-    ],
-    "genres": [
-      "Indie",
-      "Casual"
-    ],
-    "releaseDate": "2012",
-    "claimed": true
   },
   {
     "keys": [
@@ -17424,31 +17010,6 @@
   },
   {
     "keys": [
-      "The Last Remnant"
-    ],
-    "appId": 23310,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/23310/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Mitra, yama, qsiti, sovani... These four races exist in one world. A world filled with Remnants — mysterious artifacts from an ancient era. Who created the Remnant? How long ago? And for what purpose? With these questions left unanswered, the Remnants became beneficial tools used for the good of civilization. The world was at peace...",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 66,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/the-last-remnant",
-    "platforms": [
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Partial Controller Support"
-    ],
-    "genres": [
-      "RPG"
-    ],
-    "releaseDate": "2009",
-    "claimed": true
-  },
-  {
-    "keys": [
       "The Magic Circle"
     ],
     "appId": 323380,
@@ -17479,35 +17040,6 @@
       "Strategy"
     ],
     "releaseDate": "2015"
-  },
-  {
-    "keys": [
-      "The Norwood Suite"
-    ],
-    "appId": 696480,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/696480/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Explore the mysterious Hotel Norwood in this surreal first-person adventure. Curious characters, forgotten secrets, and head-nodding music await your arrival.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 78,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/the-norwood-suite",
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Trading Cards",
-      "Captions available"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2017"
   },
   {
     "keys": [
@@ -18189,36 +17721,6 @@
   },
   {
     "keys": [
-      "TIS-100"
-    ],
-    "appId": 370360,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/370360/capsule_184x69.jpg",
-    "type": "game",
-    "description": "TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It’s the assembly language programming game you never asked for!",
-    "priceCurrency": "USD",
-    "price": "6.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Achievements",
-      "Steam Cloud",
-      "Steam Leaderboards",
-      "Includes level editor"
-    ],
-    "genres": [
-      "Indie",
-      "Simulation"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Titan Quest",
       "Titan Quest Anniversary",
       "Titan Quest Anniversary Edition",
@@ -18807,36 +18309,6 @@
       "Strategy"
     ],
     "releaseDate": "2016"
-  },
-  {
-    "keys": [
-      "Undertale"
-    ],
-    "appId": 391540,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/391540/capsule_184x69.jpg",
-    "type": "game",
-    "description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
-    "priceCurrency": "USD",
-    "price": "9.99",
-    "metaCriticScore": 92,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/undertale",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Steam Trading Cards",
-      "Remote Play on Phone",
-      "Remote Play on Tablet"
-    ],
-    "genres": [
-      "Indie",
-      "RPG"
-    ],
-    "releaseDate": "2015",
-    "claimed": true
   },
   {
     "keys": [
@@ -19591,32 +19063,6 @@
   },
   {
     "keys": [
-      "Windosill"
-    ],
-    "appId": 37600,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/37600/capsule_184x69.jpg",
-    "type": "game",
-    "description": "A short, surprising, toy-like puzzle game.",
-    "priceCurrency": "USD",
-    "price": "2.99",
-    "metaCriticScore": 0,
-    "platforms": [
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player"
-    ],
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "releaseDate": "2009",
-    "claimed": true
-  },
-  {
-    "keys": [
       "Windward"
     ],
     "appId": 326410,
@@ -19683,46 +19129,6 @@
       "Indie"
     ],
     "releaseDate": "2020"
-  },
-  {
-    "keys": [
-      "Wizard of Legend"
-    ],
-    "appId": 445980,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/445980/capsule_184x69.jpg",
-    "type": "game",
-    "description": "Wizard of Legend is a no-nonsense, action-packed take on wizardry that emphasizes precise movements and smart comboing of spells in a rogue-like dungeon crawler that features over a hundred unique spells and relics!",
-    "priceCurrency": "USD",
-    "price": "15.99",
-    "metaCriticScore": 79,
-    "metaCriticUrl": "https://www.metacritic.com/game/pc/wizard-of-legend",
-    "platforms": [
-      "Linux",
-      "macOS",
-      "Windows"
-    ],
-    "categories": [
-      "Single-player",
-      "Multi-player",
-      "Co-op",
-      "Shared/Split Screen Co-op",
-      "Shared/Split Screen",
-      "Steam Achievements",
-      "Full controller support",
-      "Steam Trading Cards",
-      "Steam Cloud",
-      "Remote Play on Phone",
-      "Remote Play on Tablet",
-      "Remote Play on TV",
-      "Remote Play Together"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "releaseDate": "2018",
-    "claimed": true
   },
   {
     "keys": [
