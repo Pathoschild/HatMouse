@@ -1360,7 +1360,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -5620,8 +5621,7 @@
   },
   {
     "keys": [
-      "FEZ",
-      "Fez"
+      "FEZ"
     ],
     "appId": 224760,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/224760/capsule_184x69.jpg",
@@ -5647,6 +5647,36 @@
       "Indie"
     ],
     "releaseDate": "2013"
+  },
+  {
+    "keys": [
+      "FEZ"
+    ],
+    "appId": 224760,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/224760/capsule_184x69.jpg",
+    "type": "game",
+    "description": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives.",
+    "priceCurrency": "USD",
+    "price": "9.99",
+    "metaCriticScore": 91,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/fez",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Steam Leaderboards"
+    ],
+    "genres": [
+      "Indie"
+    ],
+    "releaseDate": "2013",
+    "claimed": true
   },
   {
     "keys": [
@@ -6474,7 +6504,8 @@
     "genres": [
       "Action"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -8066,7 +8097,8 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "claimed": true
   },
   {
     "keys": [
@@ -8502,7 +8534,8 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2015"
+    "releaseDate": "2015",
+    "claimed": true
   },
   {
     "keys": [
@@ -9674,7 +9707,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2018"
+    "releaseDate": "2018",
+    "claimed": true
   },
   {
     "keys": [
@@ -9793,7 +9827,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -16030,7 +16065,35 @@
   },
   {
     "keys": [
-      "System Shock 2",
+      "System Shock 2"
+    ],
+    "appId": 238210,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/238210/capsule_184x69.jpg",
+    "type": "game",
+    "description": "\"Remember, it is my will that guided you here. It is my will that gave you your cybernetic implants, the only beauty in that meat you call a body. If you value that meat... you will do as I tell you.\" The cult classic sci-fi horror FPS-RPG has returned.",
+    "priceCurrency": "USD",
+    "price": "9.99",
+    "metaCriticScore": 92,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/system-shock-2",
+    "platforms": [
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Trading Cards"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "releaseDate": "2013",
+    "claimed": true
+  },
+  {
+    "keys": [
       "System Shock 2"
     ],
     "appId": 238210,
@@ -16059,7 +16122,33 @@
   },
   {
     "keys": [
-      "System Shock Enhanced Edition",
+      "System Shock Enhanced Edition"
+    ],
+    "appId": 410710,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/410710/capsule_184x69.jpg",
+    "type": "game",
+    "description": "Re-discover what made System Shock the first of it's kind, a ground breaking immersive sim that would inspire a generation of games to come....",
+    "priceCurrency": "USD",
+    "price": "9.99",
+    "metaCriticScore": 85,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/system-shock-enhanced-edition",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "releaseDate": "2015",
+    "claimed": true
+  },
+  {
+    "keys": [
       "System Shock: Enhanced Edition"
     ],
     "appId": 410710,
