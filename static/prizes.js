@@ -139,6 +139,9 @@ const prizeList = async function() {
             // set prize group
             for (const prizeGroup of data.config.prizeGroups)
             {
+                if (data.config.exludeKeysWithExpiry && game.expiry)
+                    continue;
+
                 const minPrice = prizeGroup.minPrice;
                 if (!minPrice || game.price >= minPrice)
                 {

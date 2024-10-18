@@ -5,7 +5,8 @@
 		{
 			"key": "HIDDEN",
 			"minPrice": 31.00,
-			"visible": false
+			"visible": false,
+			"exludeKeysWithExpiry": true
 		},
 		{
 			"key": "Prize list",

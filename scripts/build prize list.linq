@@ -227,8 +227,8 @@ void WritePublicJsonExportFile(IList<GameRecord> games)
 
 	// group duplicates
 	{
-		Dictionary<(int, bool), PublicGameRecord> byAppId = new();
-		Dictionary<(int, bool), PublicGameRecord> byBundleId = new();
+		Dictionary<(int, bool, string), PublicGameRecord> byAppId = new();
+		Dictionary<(int, bool, string), PublicGameRecord> byBundleId = new();
 
 		for (int i = 0; i < exportGames.Count; i++)
 		{
@@ -239,7 +239,7 @@ void WritePublicJsonExportFile(IList<GameRecord> games)
 			var lookup = game.AppId > 0 ? byAppId : byBundleId;
 			int id = game.AppId > 0 ? game.AppId.Value : game.BundleId.Value;
 
-			var key = (id, game.Claimed ?? false);
+			var key = (id, game.Claimed ?? false, game.ExpiryLabel);
 			if (lookup.TryGetValue(key, out PublicGameRecord mainRecord))
 			{
 				mainRecord.Keys.AddRange(game.Keys);
