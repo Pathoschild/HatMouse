@@ -3,13 +3,8 @@
 	"expiresSoonDays": 30,
 	"prizeGroups": [
 		{
-			"key": "Hidden prize group A ($40 and up)",
-			"minPrice": 39.90,
-			"visible": false
-		},
-		{
-			"key": "Hidden prize group B ($20 and up)",
-			"minPrice": 19.90,
+			"key": "HIDDEN",
+			"minPrice": 31.00,
 			"visible": false
 		},
 		{
