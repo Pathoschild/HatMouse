@@ -1979,8 +1979,7 @@
   },
   {
     "keys": [
-      "BioShock Remastered (GOG)",
-      "BioShock™ Remastered"
+      "BioShock Remastered (GOG)"
     ],
     "appId": 409710,
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/capsule_184x69.jpg",
@@ -2012,6 +2011,39 @@
     "releaseDate": "2016",
     "expiry": "2025-01-11T00:00:00-05:00",
     "expiryLabel": "2025-01-11"
+  },
+  {
+    "keys": [
+      "BioShock™ Remastered"
+    ],
+    "appId": 409710,
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/capsule_184x69.jpg",
+    "type": "game",
+    "description": "BioShock is a shooter unlike any other, loaded with unique weapons and tactics. Complete with an arsenal of revolvers, shotguns, and grenade launchers, players will be forced to genetically modify their DNA to become an even deadlier weapon.",
+    "priceCurrency": "USD",
+    "price": "19.99",
+    "metaCriticScore": 80,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/bioshock-the-collection",
+    "platforms": [
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "releaseDate": "2016"
   },
   {
     "keys": [
@@ -4392,8 +4424,7 @@
   },
   {
     "keys": [
-      "Doom Eternal",
-      "Doom Eternal (Windows Store)"
+      "Doom Eternal"
     ],
     "appId": 782330,
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_184x69.jpg",
@@ -4428,6 +4459,46 @@
       2,
       5
     ]
+  },
+  {
+    "keys": [
+      "Doom Eternal (Windows Store)"
+    ],
+    "appId": 782330,
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/capsule_184x69.jpg",
+    "type": "game",
+    "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you.",
+    "priceCurrency": "USD",
+    "price": "39.99",
+    "metaCriticScore": 88,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/doom-eternal",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "releaseDate": "2020",
+    "contentWarnings": [
+      2,
+      5
+    ],
+    "expiry": "2024-11-13T00:00:00-05:00",
+    "expiryLabel": "2024-11-13"
   },
   {
     "keys": [
@@ -8896,8 +8967,7 @@
   {
     "keys": [
       "Kerbal Space Program",
-      "Kerbal Space Program",
-      "Kerbal Space Program (GOG)"
+      "Kerbal Space Program"
     ],
     "appId": 220200,
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/capsule_184x69.jpg",
@@ -8925,6 +8995,39 @@
       "Simulation"
     ],
     "releaseDate": "2015"
+  },
+  {
+    "keys": [
+      "Kerbal Space Program (GOG)"
+    ],
+    "appId": 220200,
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/capsule_184x69.jpg",
+    "type": "game",
+    "description": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.",
+    "priceCurrency": "USD",
+    "price": "39.99",
+    "metaCriticScore": 88,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/kerbal-space-program",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "releaseDate": "2015",
+    "expiry": "2024-12-21T00:00:00-05:00",
+    "expiryLabel": "2024-12-21"
   },
   {
     "keys": [
@@ -10298,8 +10401,7 @@
   },
   {
     "keys": [
-      "Moonlighter",
-      "Moonlighter (GOG)"
+      "Moonlighter"
     ],
     "appId": 606150,
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/capsule_184x69.jpg",
@@ -10330,6 +10432,42 @@
       "Indie"
     ],
     "releaseDate": "2018"
+  },
+  {
+    "keys": [
+      "Moonlighter (GOG)"
+    ],
+    "appId": 606150,
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/capsule_184x69.jpg",
+    "type": "game",
+    "description": "Moonlighter is an Action RPG with rogue-lite elements that demonstrates two sides of the coin – revealing everyday routines of Will, an adventurous shopkeeper that secretly dreams of becoming a hero.",
+    "priceCurrency": "USD",
+    "price": "19.99",
+    "metaCriticScore": 0,
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "releaseDate": "2018",
+    "expiry": "2024-12-13T00:00:00-05:00",
+    "expiryLabel": "2024-12-13"
   },
   {
     "keys": [
