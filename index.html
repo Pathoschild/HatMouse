@@ -94,7 +94,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr v-bind:class="{ claimed: game.claimed }" v-for="game in prizeGroup.games" :key="game.slug" v-bind:id="game.slug" v-bind:data-type="game.type">
+                            <tr v-bind:class="{ claimed: game.claimed || game.isExpired, expiresSoon: game.expiresSoon }" v-for="game in prizeGroup.games" :key="game.slug" v-bind:id="game.slug" v-bind:data-type="game.type">
                                 <td class="image" v-if="showLogos">
                                     <img v-bind:src="game.image" v-if="game.image" loading="lazy" />
                                 </td>
@@ -104,6 +104,7 @@
                                     <span v-else>{{game.title}}</span>
 
                                     <span v-if="game.claimed" class="claimed-label">(claimed!)</span>
+                                    <span v-if="!game.claimed && game.expiresSoon" class="expires-soon-label">must claim before {{game.expiryLabel}}</span>
                                 </td>
                                 <td class="type">{{game.type}}</td>
 

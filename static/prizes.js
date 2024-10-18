@@ -1,7 +1,8 @@
 let app;
 
 const prizeList = async function() {
-    const timestamp = Math.round(new Date().getTime() / 60000); // minutes since epoch
+    const now = new Date();
+    const timestamp = Math.round(now.getTime() / 60000); // minutes since epoch
 
     // init data
     const data = {
@@ -73,6 +74,18 @@ const prizeList = async function() {
             game.truncatedDescription = game.description?.length > maxDescriptionLen
                 ? game.description.slice(0, maxDescriptionLen) + "…"
                 : null;
+
+            // set key expiry
+            if (game.expiry) {
+                game.expiry = new Date(game.expiry);
+                game.isExpired = game.expiry <= now;
+
+                if (!game.isExpired)
+                {
+                    const expiresInDays = (game.expiry - now) / (1000 * 60 * 60 * 24);
+                    game.expiresSoon = !game.isExpired && expiresInDays <= data.config.expiresSoonDays;
+                }
+            }
 
             // parse content warnings
             if (game.contentWarnings?.length)

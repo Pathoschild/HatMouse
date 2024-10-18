@@ -1,5 +1,6 @@
 {
 	"defaultCurrency": "USD",
+	"expiresSoonDays": 30,
 	"prizeGroups": [
 		{
 			"key": "Hidden prize group A ($40 and up)",

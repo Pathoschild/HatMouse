@@ -196,7 +196,8 @@ GameRecord[] ReadSearchData()
 				OverridePrice = !string.IsNullOrWhiteSpace(row.Price) ? row.Price.Trim().Trim('$') : null,
 				OverrideDescription = !string.IsNullOrWhiteSpace(row.Description) ? row.Description.Trim() : null,
 				OverrideStorePageUrl = !string.IsNullOrWhiteSpace(row.StorePageUrl) ? row.StorePageUrl.Trim() : null,
-				Claimed = row.Claimed ?? false
+				Claimed = row.Claimed ?? false,
+				Expiry = row.Expiry
 			};
 		})
 		.Where(p => p is not null)
@@ -677,6 +678,7 @@ public class CsvGameRecord
 	public string Title { get; set; }
 	public bool? Ignored { get; set; }
 	public bool? Claimed { get; set; }
+	public DateTimeOffset? Expiry { get; set; }
 
 	// override game info
 	public int? AppId { get; set; }
@@ -722,6 +724,7 @@ public class GameRecord
 	public int[] ContentWarnings { get; set; }
 
 	public bool Claimed { get; set; }
+	public DateTimeOffset? Expiry { get; set; }
 
 	/// <summary>Get the URL to the game's Steam store page, if any.</summary>
 	public string GetUrl()
@@ -762,6 +765,8 @@ public class PublicGameRecord
 	public int[] ContentWarnings { get; }
 
 	public bool? Claimed { get; set; }
+	public DateTimeOffset? Expiry { get; set; }
+	public string ExpiryLabel => this.Expiry?.ToString("yyyy-MM-dd");
 
 	public PublicGameRecord(GameRecord game)
 	{
@@ -796,6 +801,7 @@ public class PublicGameRecord
 		this.Claimed = game.Claimed
 			? true
 			: null;
+		this.Expiry = game.Expiry;
 
 		if (this.Type == "dlc")
 			this.Type = "DLC";

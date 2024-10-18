@@ -19,6 +19,7 @@ To build the prize list:
    `Title`   | The game key name, ideally with text like `Steam Key` or `(Steam)` removed.
    `Ignored` | _(Optional)_ If `true`, don't show this game key (e.g. for games which no longer exist).
    `Claimed` | _(Optional)_ If `true`, the game key is struck out and marked claimed in the prize list.
+   `Expiry`  | _(Optional)_ If set, when the key will no longer be claimable (in `yyyy-mm-dd` format).
    `AppId`<br />`BundleId` | _(Optional)_ Link the game key to a specific store page on Steam. This matches the number in the store page URL after `app/` (for `OverrideAppId`) or `sub/` (for `OverrideBundleId`). If both are omitted, the script will use the Steam API to find the matching game if possible (though that doesn't work for DLC or bundles).
    `Price`   | _(Optional)_ Show this USD price instead of the one fetched from the Steam API (e.g. for unlisted games).
    `Description` | _(Optional)_ Show this description instead of the one fetched from the Steam API. You can use HTML in this field (e.g. to link to multiple store pages).
@@ -38,11 +39,11 @@ folder.
 ## Configure web UI
 You can edit `config/config.json` to change a few settings:
 
-* `defaultCurrency` is the main currency for the prices in your prize list. If a prize uses a
-  different currency, it'll be shown in the table (e.g. `89.00 HKD` for Hong Kong Dollars).
-* `prizeGroups` groups prizes into sections based on the Steam retail price. The key is the display
-  label, and the value is the minimum price. Each game uses the first matching group, and there
-  should always be a final group with a price of `0` for any games that don't fit in another group.
+field | effect
+----- | ------
+`defaultCurrency` | The main currency for the prices in your prize list. If a prize uses a different currency, it'll be shown in the table (e.g. `89.00 HKD` for Hong Kong Dollars).
+`expiresSoonDays` | If a game code must be claimed within this many days, a "_must be claimed before {date}_" label will be show.
+`prizeGroups`     | Groups prizes into sections based on the Steam retail price. The key is the display label, and the value is the minimum price. Each game uses the first matching group, and there should always be a final group with a price of `0` for any games that don't fit in another group.
 
 You can edit `index.html` directly to change the intro text.
 
