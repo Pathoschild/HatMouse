@@ -79,12 +79,6 @@ const prizeList = async function() {
             if (game.expiry) {
                 game.expiry = new Date(game.expiry);
                 game.isExpired = game.expiry <= now;
-
-                if (!game.isExpired)
-                {
-                    const expiresInDays = (game.expiry - now) / (1000 * 60 * 60 * 24);
-                    game.expiresSoon = !game.isExpired && expiresInDays <= data.config.expiresSoonDays;
-                }
             }
 
             // parse content warnings
@@ -139,7 +133,7 @@ const prizeList = async function() {
             // set prize group
             for (const prizeGroup of data.config.prizeGroups)
             {
-                if (data.config.exludeKeysWithExpiry && game.expiry)
+                if (prizeGroup.excludeKeysWithExpiry && game.expiry)
                     continue;
 
                 const minPrice = prizeGroup.minPrice;

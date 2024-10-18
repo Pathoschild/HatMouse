@@ -1,12 +1,11 @@
 {
 	"defaultCurrency": "USD",
-	"expiresSoonDays": 30,
 	"prizeGroups": [
 		{
 			"key": "HIDDEN",
 			"minPrice": 31.00,
 			"visible": false,
-			"exludeKeysWithExpiry": true
+			"excludeKeysWithExpiry": true
 		},
 		{
 			"key": "Prize list",
