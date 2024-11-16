@@ -129,7 +129,8 @@
     "releaseDate": "2015",
     "contentWarnings": [
       5
-    ]
+    ],
+    "claimed": true
   },
   {
     "keys": [
@@ -6095,7 +6096,8 @@
       "Indie",
       "RPG"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -8930,7 +8932,8 @@
     "releaseDate": "2017",
     "contentWarnings": [
       5
-    ]
+    ],
+    "claimed": true
   },
   {
     "keys": [
@@ -9122,7 +9125,8 @@
     "genres": [
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -10174,7 +10178,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2021"
+    "releaseDate": "2021",
+    "claimed": true
   },
   {
     "keys": [
@@ -11930,7 +11935,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2017"
+    "releaseDate": "2017",
+    "claimed": true
   },
   {
     "keys": [
@@ -12384,7 +12390,8 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -14034,7 +14041,8 @@
       "Action",
       "Indie"
     ],
-    "releaseDate": "2013"
+    "releaseDate": "2013",
+    "claimed": true
   },
   {
     "keys": [
