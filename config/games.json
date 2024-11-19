@@ -586,7 +586,8 @@
       "Indie",
       "Simulation"
     ],
-    "releaseDate": "2016"
+    "releaseDate": "2016",
+    "claimed": true
   },
   {
     "keys": [
@@ -11118,7 +11119,35 @@
   },
   {
     "keys": [
-      "Nightsky",
+      "Nightsky"
+    ],
+    "appId": 99700,
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99700/capsule_184x69.jpg",
+    "type": "game",
+    "description": "Nominated as a IGF Seamus McNally Finalist, NightSky is an ambient action-puzzle game that offers a gameplay experience unlike any other—cerebral challenges fill uniquely designed picturesque worlds. The player must maneuver a sphere by using realistic physics to advance; each of these worlds is broken into different areas.",
+    "priceCurrency": "USD",
+    "price": "9.99",
+    "metaCriticScore": 78,
+    "metaCriticUrl": "https://www.metacritic.com/game/pc/nightsky",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "releaseDate": "2011",
+    "claimed": true
+  },
+  {
+    "keys": [
       "Nightsky",
       "Nightsky"
     ],
@@ -11699,7 +11728,8 @@
     "releaseDate": "2016",
     "contentWarnings": [
       5
-    ]
+    ],
+    "claimed": true
   },
   {
     "keys": [
@@ -17336,7 +17366,8 @@
       "Windows"
     ],
     "categories": [],
-    "genres": []
+    "genres": [],
+    "claimed": true
   },
   {
     "keys": [
@@ -18030,7 +18061,8 @@
       "Adventure",
       "Indie"
     ],
-    "releaseDate": "2013"
+    "releaseDate": "2013",
+    "claimed": true
   },
   {
     "keys": [
@@ -18247,7 +18279,8 @@
       "Adventure",
       "Casual"
     ],
-    "releaseDate": "2013"
+    "releaseDate": "2013",
+    "claimed": true
   },
   {
     "keys": [
@@ -18444,7 +18477,8 @@
       "Simulation",
       "Strategy"
     ],
-    "releaseDate": "2023"
+    "releaseDate": "2023",
+    "claimed": true
   },
   {
     "keys": [
